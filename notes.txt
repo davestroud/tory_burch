@@ -1,0 +1,7 @@
+Proof of Concept (POC)
+
+1. Demand Forecasting and Inventory Optimization
+ * Predict which clothing items will be in high demand based on historical data, trends, and seasonality.
+ * Minimize overstock and understock issues
+
+2. 
