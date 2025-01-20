@@ -1,0 +1,2001 @@
+Store,Handbag Type,Color,Material,Size,Manufacturing City,Lead Time (Days),Shipping Time (Days),Total Lead Time (Days),Season,Base Demand,Adjusted Demand,Stock Level,Overfill/Underfill
+The Galleria,Kira Chevron Tote,Brown,Jacquard,Mini,Shenzhen,50,16,66,Winter,152,121,18,-103
+The Galleria,McGraw Tote,Blue,Leather,Mini,Hanoi,49,14,63,Summer,64,64,54,-10
+Westfield World Trade Center,McGraw Tote,Green,Jacquard,Large,Ho Chi Minh City,46,14,60,Summer,218,218,117,-101
+Madison Avenue,Britten Tote,Purple,Jacquard,Mini,Hanoi,32,15,47,Spring,196,235,266,31
+NorthPark Center,Robinson Tote,Gray,Pebbled Leather,Large,Ho Chi Minh City,44,16,60,Summer,127,127,89,-38
+San Francisco Centre,Robinson Tote,Purple,Leather,Mini,Ho Chi Minh City,36,17,53,Fall,174,191,222,31
+The Galleria,Ella Tote,Multi,Canvas,Mini,Da Nang,39,18,57,Fall,190,209,19,-190
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Multi,Canvas,Small,Da Nang,48,16,64,Winter,155,124,148,24
+South Coast Plaza,Ella Tote,Blue,Canvas,Mini,Hanoi,30,15,45,Fall,268,294,247,-47
+Madison Avenue,Britten Tote,White,Jacquard,Large,Guangzhou,34,16,50,Summer,255,255,116,-139
+The Galleria,Kira Chevron Tote,Purple,Jacquard,Large,Hanoi,32,15,47,Spring,114,136,139,3
+Westfield World Trade Center,T Monogram Tote,Red,Canvas,Medium,Hanoi,39,14,53,Spring,298,357,49,-308
+The Galleria,Perry Tote,Green,Canvas,Small,Hanoi,45,14,59,Fall,211,232,70,-162
+Aventura Mall,Ella Tote,Pink,Pebbled Leather,Large,Guangzhou,50,17,67,Summer,119,119,138,19
+Rodeo Drive,Ella Tote,White,Jacquard,Large,Hanoi,50,15,65,Fall,195,214,209,-5
+Westfield World Trade Center,Perry Tote,Brown,Jacquard,Mini,Da Nang,44,16,60,Summer,291,291,68,-223
+Yorkdale Shopping Centre,Kira Chevron Tote,Pink,Coated Canvas,Large,Ho Chi Minh City,39,17,56,Winter,236,188,169,-19
+Bal Harbour Shops,Ella Tote,Pink,Leather,Medium,Shenzhen,44,16,60,Winter,157,125,146,21
+Rodeo Drive,McGraw Tote,Black,Canvas,Medium,Guangzhou,34,17,51,Winter,90,72,44,-28
+Aventura Mall,Perry Tote,Purple,Leather,Small,Guangzhou,34,18,52,Spring,156,187,172,-15
+Westfield World Trade Center,Kira Chevron Tote,Blue,Leather,Mini,Ho Chi Minh City,48,18,66,Summer,188,188,131,-57
+Oak Street,Perry Tote,Red,Canvas,Medium,Da Nang,49,15,64,Fall,228,250,73,-177
+San Francisco Centre,Kira Chevron Tote,Black,Coated Canvas,Large,Hanoi,39,16,55,Fall,219,240,135,-105
+The Galleria,Kira Chevron Tote,Gray,Canvas,Mini,Hanoi,36,16,52,Summer,215,215,109,-106
+Rodeo Drive,Ella Tote,Pink,Leather,Medium,Guangzhou,45,18,63,Fall,207,227,107,-120
+The Galleria,Ella Tote,Yellow,Jacquard,Small,Ho Chi Minh City,41,14,55,Fall,86,94,7,-87
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Brown,Jacquard,Small,Hanoi,32,14,46,Fall,207,227,116,-111
+Pacific Centre,Ella Tote,Brown,Canvas,Small,Hanoi,44,15,59,Summer,126,126,43,-83
+San Francisco Centre,McGraw Tote,Beige,Leather,Small,Guangzhou,39,17,56,Winter,201,160,50,-110
+Aventura Mall,Britten Tote,Purple,Jacquard,Mini,Ho Chi Minh City,49,18,67,Spring,187,224,55,-169
+NorthPark Center,Robinson Tote,Pink,Coated Canvas,Large,Hanoi,40,18,58,Summer,154,154,31,-123
+Pacific Centre,McGraw Tote,Multi,Coated Canvas,Large,Ho Chi Minh City,38,18,56,Summer,275,275,90,-185
+San Francisco Centre,Robinson Tote,White,Canvas,Large,Guangzhou,45,14,59,Spring,189,226,276,50
+San Francisco Centre,T Monogram Tote,Blue,Leather,Medium,Da Nang,44,15,59,Fall,163,179,202,23
+Pacific Centre,T Monogram Tote,Multi,Leather,Small,Hanoi,45,14,59,Spring,120,144,54,-90
+South Coast Plaza,T Monogram Tote,White,Leather,Medium,Hanoi,38,18,56,Fall,252,277,246,-31
+El Palacio de Hierro (Polanco),Kira Chevron Tote,White,Jacquard,Large,Guangzhou,42,18,60,Fall,94,103,91,-12
+Rodeo Drive,T Monogram Tote,Metallic,Jacquard,Small,Shenzhen,34,14,48,Summer,55,55,4,-51
+El Palacio de Hierro (Polanco),Britten Tote,Pink,Leather,Large,Da Nang,33,15,48,Summer,206,206,104,-102
+Oak Street,Gemini Link Tote,Brown,Jacquard,Medium,Hanoi,43,14,57,Spring,202,242,150,-92
+South Coast Plaza,Gemini Link Tote,Beige,Canvas,Mini,Da Nang,35,17,52,Summer,126,126,10,-116
+Pacific Centre,Gemini Link Tote,White,Pebbled Leather,Large,Shenzhen,47,16,63,Spring,263,315,232,-83
+Rodeo Drive,Gemini Link Tote,Brown,Leather,Large,Da Nang,40,17,57,Winter,154,123,129,6
+Yorkdale Shopping Centre,Kira Chevron Tote,Gray,Jacquard,Large,Da Nang,30,14,44,Fall,74,81,118,37
+San Francisco Centre,T Monogram Tote,Multi,Pebbled Leather,Medium,Da Nang,39,16,55,Fall,77,84,9,-75
+Oak Street,Ella Tote,Green,Canvas,Small,Da Nang,47,18,65,Spring,76,91,3,-88
+Rodeo Drive,Gemini Link Tote,White,Jacquard,Mini,Hanoi,45,18,63,Spring,192,230,125,-105
+Pacific Centre,Ella Tote,Red,Leather,Large,Ho Chi Minh City,48,17,65,Spring,287,344,40,-304
+Bal Harbour Shops,Robinson Tote,Pink,Pebbled Leather,Large,Da Nang,47,18,65,Summer,242,242,7,-235
+NorthPark Center,Ella Tote,Red,Pebbled Leather,Mini,Da Nang,40,16,56,Spring,132,158,179,21
+South Coast Plaza,Kira Chevron Tote,Pink,Canvas,Small,Da Nang,44,17,61,Fall,54,59,60,1
+Pacific Centre,Ella Tote,Multi,Jacquard,Medium,Ho Chi Minh City,37,15,52,Fall,82,90,114,24
+Bal Harbour Shops,T Monogram Tote,Red,Canvas,Small,Da Nang,40,18,58,Fall,131,144,133,-11
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Black,Coated Canvas,Small,Ho Chi Minh City,36,18,54,Fall,81,89,6,-83
+South Coast Plaza,Gemini Link Tote,Metallic,Leather,Mini,Guangzhou,33,17,50,Summer,154,154,45,-109
+Madison Avenue,T Monogram Tote,Red,Leather,Small,Shenzhen,45,18,63,Fall,107,117,148,31
+NorthPark Center,T Monogram Tote,White,Jacquard,Large,Da Nang,47,18,65,Summer,246,246,122,-124
+Soho,Gemini Link Tote,Black,Canvas,Large,Hanoi,45,16,61,Summer,286,286,119,-167
+El Palacio de Hierro (Santa Fe),Perry Tote,Brown,Coated Canvas,Mini,Guangzhou,32,17,49,Fall,89,97,19,-78
+Soho,McGraw Tote,Metallic,Jacquard,Small,Da Nang,46,15,61,Fall,118,129,19,-110
+Bal Harbour Shops,Britten Tote,Red,Coated Canvas,Large,Da Nang,32,14,46,Fall,256,281,105,-176
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Red,Leather,Small,Da Nang,44,17,61,Summer,297,297,5,-292
+El Palacio de Hierro (Polanco),Perry Tote,Pink,Jacquard,Small,Guangzhou,36,14,50,Winter,98,78,66,-12
+NorthPark Center,Perry Tote,Blue,Canvas,Small,Hanoi,34,14,48,Winter,137,109,24,-85
+San Francisco Centre,Britten Tote,Purple,Coated Canvas,Mini,Guangzhou,34,17,51,Spring,125,150,125,-25
+San Francisco Centre,Perry Tote,White,Pebbled Leather,Mini,Guangzhou,41,16,57,Summer,80,80,62,-18
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,White,Pebbled Leather,Large,Shenzhen,48,14,62,Summer,294,294,11,-283
+Yorkdale Shopping Centre,Perry Tote,Purple,Coated Canvas,Mini,Hanoi,32,16,48,Spring,252,302,242,-60
+Aventura Mall,Gemini Link Tote,Beige,Jacquard,Mini,Shenzhen,38,16,54,Fall,157,172,172,0
+Soho,Perry Tote,Brown,Pebbled Leather,Small,Ho Chi Minh City,33,16,49,Winter,166,132,130,-2
+El Palacio de Hierro (Santa Fe),Britten Tote,Purple,Leather,Large,Shenzhen,42,15,57,Spring,110,132,150,18
+NorthPark Center,Gemini Link Tote,Gray,Canvas,Medium,Hanoi,38,15,53,Fall,187,205,159,-46
+Pacific Centre,Perry Tote,Purple,Leather,Mini,Shenzhen,33,14,47,Summer,280,280,103,-177
+Rodeo Drive,Perry Tote,Pink,Pebbled Leather,Large,Guangzhou,36,15,51,Summer,161,161,79,-82
+San Francisco Centre,Perry Tote,Pink,Canvas,Mini,Guangzhou,49,15,64,Fall,51,56,60,4
+Bal Harbour Shops,T Monogram Tote,Yellow,Coated Canvas,Large,Shenzhen,40,17,57,Fall,81,89,62,-27
+Madison Avenue,McGraw Tote,Brown,Leather,Medium,Shenzhen,37,18,55,Fall,163,179,42,-137
+The Galleria,McGraw Tote,Brown,Coated Canvas,Small,Ho Chi Minh City,38,17,55,Fall,247,271,126,-145
+Rodeo Drive,Robinson Tote,White,Pebbled Leather,Medium,Shenzhen,42,18,60,Fall,52,57,86,29
+Bal Harbour Shops,Robinson Tote,Beige,Pebbled Leather,Small,Da Nang,31,18,49,Summer,263,263,90,-173
+Oak Street,Ella Tote,Pink,Pebbled Leather,Large,Ho Chi Minh City,42,18,60,Fall,283,311,167,-144
+El Palacio de Hierro (Polanco),Robinson Tote,Yellow,Coated Canvas,Mini,Ho Chi Minh City,44,15,59,Spring,269,322,238,-84
+Aventura Mall,Ella Tote,Purple,Leather,Small,Da Nang,39,18,57,Spring,230,276,287,11
+Soho,Perry Tote,Brown,Jacquard,Mini,Shenzhen,31,15,46,Spring,95,114,100,-14
+The Galleria,Britten Tote,Yellow,Canvas,Medium,Hanoi,40,15,55,Fall,195,214,134,-80
+Westfield World Trade Center,Ella Tote,Metallic,Jacquard,Medium,Ho Chi Minh City,48,16,64,Fall,189,207,31,-176
+Madison Avenue,Robinson Tote,Metallic,Coated Canvas,Large,Hanoi,30,18,48,Winter,243,194,81,-113
+NorthPark Center,Robinson Tote,Pink,Coated Canvas,Medium,Ho Chi Minh City,40,17,57,Winter,186,148,136,-12
+Aventura Mall,Robinson Tote,Purple,Pebbled Leather,Medium,Da Nang,46,17,63,Spring,92,110,112,2
+Soho,Kira Chevron Tote,Metallic,Coated Canvas,Small,Guangzhou,42,15,57,Spring,135,162,40,-122
+Madison Avenue,T Monogram Tote,Red,Pebbled Leather,Medium,Shenzhen,46,15,61,Spring,135,162,54,-108
+Soho,Ella Tote,Red,Jacquard,Small,Da Nang,32,17,49,Summer,242,242,277,35
+Pacific Centre,Robinson Tote,Pink,Coated Canvas,Large,Ho Chi Minh City,44,18,62,Fall,145,159,33,-126
+Aventura Mall,Britten Tote,Pink,Leather,Large,Hanoi,47,16,63,Spring,86,103,36,-67
+Oak Street,Robinson Tote,White,Coated Canvas,Mini,Guangzhou,45,16,61,Fall,223,245,94,-151
+Madison Avenue,Robinson Tote,White,Canvas,Medium,Da Nang,47,16,63,Summer,207,207,113,-94
+Aventura Mall,McGraw Tote,Multi,Canvas,Large,Da Nang,37,15,52,Winter,149,119,3,-116
+Rodeo Drive,Gemini Link Tote,Green,Jacquard,Medium,Hanoi,47,16,63,Spring,263,315,6,-309
+Madison Avenue,Britten Tote,Gray,Pebbled Leather,Small,Ho Chi Minh City,48,15,63,Winter,189,151,25,-126
+South Coast Plaza,T Monogram Tote,Red,Leather,Small,Guangzhou,45,15,60,Fall,220,242,215,-27
+Oak Street,Perry Tote,Blue,Coated Canvas,Mini,Guangzhou,45,14,59,Spring,282,338,214,-124
+El Palacio de Hierro (Polanco),Robinson Tote,Gray,Canvas,Large,Ho Chi Minh City,40,17,57,Summer,73,73,5,-68
+Pacific Centre,Robinson Tote,Pink,Pebbled Leather,Small,Guangzhou,30,18,48,Summer,285,285,239,-46
+Madison Avenue,Robinson Tote,Metallic,Pebbled Leather,Medium,Hanoi,43,18,61,Winter,123,98,134,36
+Westfield World Trade Center,McGraw Tote,Purple,Coated Canvas,Medium,Hanoi,49,16,65,Summer,197,197,115,-82
+Pacific Centre,Perry Tote,Purple,Leather,Large,Hanoi,31,17,48,Fall,248,272,225,-47
+San Francisco Centre,Gemini Link Tote,Purple,Pebbled Leather,Medium,Guangzhou,50,14,64,Summer,137,137,42,-95
+Oak Street,McGraw Tote,Multi,Pebbled Leather,Small,Guangzhou,48,14,62,Fall,224,246,53,-193
+Bal Harbour Shops,Britten Tote,Pink,Leather,Large,Hanoi,47,17,64,Winter,93,74,86,12
+Yorkdale Shopping Centre,Gemini Link Tote,Yellow,Canvas,Large,Shenzhen,42,16,58,Summer,149,149,141,-8
+Soho,Gemini Link Tote,Red,Leather,Large,Hanoi,48,14,62,Winter,74,59,18,-41
+Bal Harbour Shops,T Monogram Tote,Yellow,Coated Canvas,Large,Hanoi,37,14,51,Summer,178,178,196,18
+San Francisco Centre,Perry Tote,White,Leather,Medium,Guangzhou,40,17,57,Winter,189,151,150,-1
+South Coast Plaza,McGraw Tote,Green,Canvas,Small,Da Nang,50,14,64,Winter,148,118,101,-17
+Pacific Centre,McGraw Tote,Beige,Jacquard,Small,Guangzhou,50,14,64,Summer,240,240,287,47
+The Galleria,Perry Tote,Blue,Coated Canvas,Medium,Guangzhou,31,14,45,Spring,257,308,65,-243
+El Palacio de Hierro (Santa Fe),Britten Tote,Blue,Canvas,Small,Da Nang,31,18,49,Winter,224,179,140,-39
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Blue,Canvas,Small,Ho Chi Minh City,45,17,62,Fall,55,60,72,12
+South Coast Plaza,McGraw Tote,Multi,Coated Canvas,Small,Guangzhou,30,17,47,Fall,133,146,129,-17
+Bal Harbour Shops,Gemini Link Tote,Metallic,Leather,Medium,Hanoi,49,18,67,Spring,225,270,102,-168
+NorthPark Center,Perry Tote,Red,Coated Canvas,Mini,Hanoi,37,16,53,Fall,133,146,171,25
+The Galleria,Kira Chevron Tote,Green,Pebbled Leather,Small,Hanoi,48,16,64,Winter,250,200,47,-153
+Yorkdale Shopping Centre,Gemini Link Tote,Green,Leather,Large,Da Nang,31,16,47,Spring,231,277,207,-70
+South Coast Plaza,Robinson Tote,Red,Jacquard,Mini,Ho Chi Minh City,47,18,65,Winter,63,50,44,-6
+Madison Avenue,Ella Tote,Green,Leather,Large,Ho Chi Minh City,44,15,59,Fall,112,123,100,-23
+Westfield World Trade Center,Ella Tote,Gray,Jacquard,Mini,Guangzhou,44,17,61,Fall,116,127,69,-58
+South Coast Plaza,Britten Tote,Purple,Coated Canvas,Medium,Hanoi,47,18,65,Fall,245,269,299,30
+Rodeo Drive,T Monogram Tote,Pink,Canvas,Medium,Da Nang,42,14,56,Summer,134,134,3,-131
+El Palacio de Hierro (Polanco),Britten Tote,Multi,Leather,Mini,Da Nang,33,17,50,Summer,171,171,174,3
+Rodeo Drive,Perry Tote,Yellow,Pebbled Leather,Small,Ho Chi Minh City,36,18,54,Summer,273,273,51,-222
+Westfield World Trade Center,McGraw Tote,Beige,Leather,Small,Guangzhou,38,14,52,Winter,99,79,26,-53
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Red,Coated Canvas,Small,Shenzhen,37,17,54,Fall,75,82,34,-48
+Bal Harbour Shops,Robinson Tote,Black,Coated Canvas,Large,Shenzhen,44,18,62,Summer,251,251,88,-163
+Bal Harbour Shops,Ella Tote,Red,Leather,Large,Guangzhou,50,15,65,Summer,283,283,137,-146
+Aventura Mall,Kira Chevron Tote,Green,Jacquard,Small,Guangzhou,38,14,52,Spring,197,236,281,45
+Rodeo Drive,T Monogram Tote,Gray,Canvas,Large,Guangzhou,39,18,57,Spring,63,75,38,-37
+Aventura Mall,Britten Tote,Brown,Canvas,Large,Hanoi,39,18,57,Summer,250,250,238,-12
+Madison Avenue,Ella Tote,Metallic,Jacquard,Mini,Ho Chi Minh City,30,17,47,Spring,287,344,131,-213
+The Galleria,Ella Tote,Metallic,Canvas,Mini,Da Nang,31,16,47,Spring,124,148,70,-78
+NorthPark Center,McGraw Tote,Blue,Jacquard,Small,Da Nang,32,17,49,Spring,75,90,97,7
+Oak Street,Britten Tote,Multi,Canvas,Medium,Ho Chi Minh City,48,16,64,Winter,289,231,55,-176
+Madison Avenue,Gemini Link Tote,Metallic,Leather,Mini,Ho Chi Minh City,47,16,63,Winter,296,236,145,-91
+South Coast Plaza,Perry Tote,Yellow,Jacquard,Mini,Shenzhen,48,15,63,Fall,172,189,226,37
+Rodeo Drive,McGraw Tote,Gray,Leather,Small,Guangzhou,30,16,46,Winter,277,221,270,49
+Soho,Britten Tote,Green,Leather,Large,Guangzhou,30,15,45,Summer,245,245,87,-158
+The Galleria,Kira Chevron Tote,Black,Canvas,Mini,Shenzhen,42,16,58,Fall,179,196,137,-59
+Rodeo Drive,Kira Chevron Tote,Black,Canvas,Large,Hanoi,40,16,56,Fall,86,94,93,-1
+Soho,Perry Tote,Green,Pebbled Leather,Small,Shenzhen,42,15,57,Winter,99,79,51,-28
+Bal Harbour Shops,McGraw Tote,Purple,Canvas,Mini,Hanoi,36,16,52,Winter,183,146,75,-71
+Madison Avenue,McGraw Tote,Blue,Canvas,Mini,Shenzhen,39,14,53,Fall,253,278,150,-128
+Bal Harbour Shops,T Monogram Tote,Green,Leather,Mini,Guangzhou,38,15,53,Fall,113,124,95,-29
+Pacific Centre,Perry Tote,Gray,Coated Canvas,Mini,Da Nang,39,17,56,Fall,259,284,113,-171
+Soho,Robinson Tote,White,Jacquard,Mini,Guangzhou,50,14,64,Summer,150,150,178,28
+Pacific Centre,Britten Tote,Black,Pebbled Leather,Small,Ho Chi Minh City,39,17,56,Winter,173,138,175,37
+El Palacio de Hierro (Polanco),Britten Tote,Black,Coated Canvas,Large,Da Nang,39,18,57,Summer,170,170,118,-52
+El Palacio de Hierro (Santa Fe),McGraw Tote,Red,Pebbled Leather,Small,Shenzhen,37,15,52,Spring,178,213,174,-39
+The Galleria,Britten Tote,Pink,Leather,Large,Ho Chi Minh City,41,17,58,Fall,193,212,103,-109
+El Palacio de Hierro (Polanco),Britten Tote,Multi,Canvas,Mini,Shenzhen,32,16,48,Winter,276,220,89,-131
+NorthPark Center,Kira Chevron Tote,Red,Pebbled Leather,Small,Guangzhou,39,18,57,Spring,283,339,18,-321
+Madison Avenue,Robinson Tote,Red,Leather,Mini,Hanoi,47,16,63,Fall,146,160,144,-16
+South Coast Plaza,T Monogram Tote,Red,Jacquard,Mini,Shenzhen,45,16,61,Spring,241,289,81,-208
+NorthPark Center,Britten Tote,Beige,Pebbled Leather,Large,Shenzhen,46,14,60,Spring,89,106,150,44
+San Francisco Centre,Perry Tote,Metallic,Pebbled Leather,Medium,Shenzhen,32,17,49,Spring,267,320,167,-153
+San Francisco Centre,Britten Tote,Red,Coated Canvas,Large,Hanoi,35,14,49,Fall,252,277,208,-69
+San Francisco Centre,T Monogram Tote,Red,Coated Canvas,Small,Shenzhen,47,17,64,Summer,124,124,97,-27
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,White,Leather,Large,Ho Chi Minh City,47,14,61,Summer,155,155,147,-8
+NorthPark Center,Ella Tote,Green,Pebbled Leather,Large,Hanoi,33,14,47,Spring,104,124,135,11
+NorthPark Center,Britten Tote,Beige,Pebbled Leather,Large,Hanoi,44,17,61,Summer,157,157,174,17
+Bal Harbour Shops,Kira Chevron Tote,Brown,Pebbled Leather,Mini,Guangzhou,31,15,46,Summer,256,256,229,-27
+San Francisco Centre,Robinson Tote,Green,Leather,Large,Ho Chi Minh City,38,15,53,Spring,110,132,21,-111
+Soho,Kira Chevron Tote,Purple,Pebbled Leather,Large,Da Nang,31,17,48,Winter,300,240,94,-146
+El Palacio de Hierro (Santa Fe),McGraw Tote,Pink,Canvas,Mini,Ho Chi Minh City,46,15,61,Summer,191,191,64,-127
+El Palacio de Hierro (Santa Fe),Britten Tote,White,Jacquard,Medium,Guangzhou,41,15,56,Spring,274,328,52,-276
+Oak Street,Britten Tote,Blue,Leather,Mini,Shenzhen,47,18,65,Spring,120,144,146,2
+Oak Street,Gemini Link Tote,White,Leather,Medium,Ho Chi Minh City,30,18,48,Winter,151,120,96,-24
+Westfield World Trade Center,T Monogram Tote,Red,Coated Canvas,Mini,Da Nang,48,18,66,Spring,226,271,192,-79
+South Coast Plaza,Britten Tote,Metallic,Jacquard,Medium,Da Nang,41,18,59,Winter,205,164,170,6
+Pacific Centre,Ella Tote,Metallic,Leather,Mini,Shenzhen,39,15,54,Winter,263,210,210,0
+Yorkdale Shopping Centre,McGraw Tote,White,Leather,Medium,Shenzhen,40,16,56,Fall,70,77,5,-72
+Madison Avenue,McGraw Tote,Black,Canvas,Small,Ho Chi Minh City,31,16,47,Fall,240,264,104,-160
+Westfield World Trade Center,Robinson Tote,Yellow,Canvas,Medium,Hanoi,39,16,55,Spring,72,86,104,18
+Aventura Mall,Robinson Tote,Metallic,Jacquard,Large,Guangzhou,50,16,66,Winter,234,187,53,-134
+Oak Street,McGraw Tote,Pink,Jacquard,Large,Da Nang,30,16,46,Spring,237,284,224,-60
+NorthPark Center,Robinson Tote,Red,Pebbled Leather,Small,Guangzhou,35,15,50,Summer,80,80,29,-51
+Yorkdale Shopping Centre,Kira Chevron Tote,Yellow,Canvas,Large,Da Nang,44,14,58,Spring,214,256,143,-113
+Yorkdale Shopping Centre,Gemini Link Tote,Gray,Canvas,Large,Da Nang,34,17,51,Winter,132,105,112,7
+NorthPark Center,Gemini Link Tote,Gray,Pebbled Leather,Medium,Shenzhen,45,15,60,Winter,256,204,63,-141
+Soho,Britten Tote,Red,Canvas,Small,Ho Chi Minh City,30,16,46,Spring,236,283,30,-253
+Yorkdale Shopping Centre,Ella Tote,Brown,Canvas,Small,Ho Chi Minh City,41,15,56,Fall,152,167,77,-90
+Westfield World Trade Center,Gemini Link Tote,Multi,Pebbled Leather,Medium,Shenzhen,34,14,48,Winter,222,177,171,-6
+San Francisco Centre,Robinson Tote,Metallic,Leather,Medium,Shenzhen,41,17,58,Winter,296,236,43,-193
+Madison Avenue,Robinson Tote,Yellow,Coated Canvas,Small,Guangzhou,46,14,60,Summer,167,167,148,-19
+Soho,T Monogram Tote,Brown,Jacquard,Medium,Guangzhou,45,14,59,Summer,204,204,87,-117
+The Galleria,Perry Tote,White,Jacquard,Medium,Guangzhou,43,16,59,Fall,100,110,103,-7
+Bal Harbour Shops,Gemini Link Tote,Gray,Coated Canvas,Medium,Shenzhen,50,17,67,Summer,50,50,42,-8
+El Palacio de Hierro (Polanco),Ella Tote,Blue,Jacquard,Large,Guangzhou,45,15,60,Winter,250,200,134,-66
+San Francisco Centre,Britten Tote,Brown,Pebbled Leather,Large,Ho Chi Minh City,44,14,58,Winter,247,197,3,-194
+Pacific Centre,Ella Tote,Purple,Canvas,Mini,Da Nang,37,17,54,Winter,99,79,82,3
+San Francisco Centre,Gemini Link Tote,Black,Coated Canvas,Small,Guangzhou,31,15,46,Winter,58,46,5,-41
+The Galleria,T Monogram Tote,Pink,Coated Canvas,Small,Da Nang,45,16,61,Summer,55,55,36,-19
+Aventura Mall,Robinson Tote,Black,Canvas,Mini,Shenzhen,32,16,48,Winter,158,126,23,-103
+Soho,Perry Tote,Multi,Pebbled Leather,Medium,Ho Chi Minh City,42,15,57,Winter,223,178,45,-133
+Aventura Mall,McGraw Tote,Purple,Jacquard,Medium,Ho Chi Minh City,33,17,50,Summer,76,76,96,20
+Yorkdale Shopping Centre,McGraw Tote,Multi,Canvas,Medium,Hanoi,43,15,58,Spring,154,184,83,-101
+Westfield World Trade Center,Kira Chevron Tote,Pink,Canvas,Mini,Ho Chi Minh City,44,18,62,Summer,190,190,170,-20
+The Galleria,Gemini Link Tote,Multi,Jacquard,Small,Guangzhou,34,16,50,Winter,247,197,60,-137
+Bal Harbour Shops,Perry Tote,White,Jacquard,Medium,Hanoi,31,18,49,Spring,298,357,148,-209
+Yorkdale Shopping Centre,Britten Tote,Pink,Pebbled Leather,Medium,Da Nang,35,18,53,Summer,249,249,108,-141
+Westfield World Trade Center,Britten Tote,Yellow,Canvas,Small,Shenzhen,43,18,61,Spring,92,110,104,-6
+Pacific Centre,Britten Tote,Brown,Leather,Small,Da Nang,38,18,56,Fall,68,74,107,33
+El Palacio de Hierro (Polanco),Gemini Link Tote,Multi,Jacquard,Medium,Hanoi,41,14,55,Summer,216,216,233,17
+Westfield World Trade Center,Perry Tote,Yellow,Pebbled Leather,Small,Hanoi,42,16,58,Spring,176,211,233,22
+Pacific Centre,Perry Tote,Brown,Canvas,Small,Guangzhou,36,16,52,Summer,258,258,213,-45
+Aventura Mall,T Monogram Tote,Purple,Pebbled Leather,Large,Shenzhen,32,15,47,Winter,208,166,82,-84
+Soho,Britten Tote,White,Pebbled Leather,Medium,Guangzhou,45,15,60,Winter,140,112,131,19
+Pacific Centre,McGraw Tote,White,Canvas,Large,Da Nang,45,18,63,Spring,125,150,109,-41
+The Galleria,McGraw Tote,Metallic,Jacquard,Small,Hanoi,30,16,46,Summer,145,145,182,37
+Oak Street,Gemini Link Tote,Green,Leather,Large,Shenzhen,36,17,53,Summer,272,272,269,-3
+El Palacio de Hierro (Polanco),Ella Tote,Blue,Leather,Mini,Shenzhen,35,18,53,Spring,175,210,156,-54
+The Galleria,Kira Chevron Tote,Beige,Pebbled Leather,Mini,Hanoi,43,18,61,Winter,126,100,32,-68
+Bal Harbour Shops,Ella Tote,Yellow,Coated Canvas,Medium,Ho Chi Minh City,39,16,55,Spring,122,146,161,15
+Aventura Mall,Britten Tote,Beige,Jacquard,Large,Guangzhou,43,17,60,Fall,300,330,133,-197
+El Palacio de Hierro (Santa Fe),McGraw Tote,Blue,Coated Canvas,Mini,Shenzhen,35,14,49,Summer,161,161,27,-134
+Madison Avenue,Ella Tote,White,Coated Canvas,Mini,Ho Chi Minh City,41,18,59,Winter,112,89,7,-82
+The Galleria,Ella Tote,Yellow,Canvas,Mini,Da Nang,49,16,65,Winter,157,125,96,-29
+Pacific Centre,Perry Tote,Black,Leather,Mini,Shenzhen,31,16,47,Winter,242,193,206,13
+Bal Harbour Shops,Britten Tote,Metallic,Pebbled Leather,Small,Hanoi,48,18,66,Winter,200,160,14,-146
+San Francisco Centre,Britten Tote,Purple,Leather,Small,Ho Chi Minh City,35,15,50,Summer,223,223,22,-201
+El Palacio de Hierro (Polanco),Ella Tote,Multi,Canvas,Small,Ho Chi Minh City,33,18,51,Spring,284,340,259,-81
+Pacific Centre,T Monogram Tote,Beige,Jacquard,Mini,Guangzhou,30,14,44,Winter,106,84,106,22
+Madison Avenue,Robinson Tote,Yellow,Pebbled Leather,Mini,Hanoi,39,15,54,Winter,163,130,63,-67
+The Galleria,T Monogram Tote,Beige,Leather,Mini,Shenzhen,41,15,56,Fall,75,82,87,5
+El Palacio de Hierro (Polanco),McGraw Tote,Green,Pebbled Leather,Large,Hanoi,36,15,51,Summer,205,205,167,-38
+El Palacio de Hierro (Santa Fe),Ella Tote,Multi,Coated Canvas,Medium,Hanoi,48,14,62,Spring,282,338,287,-51
+South Coast Plaza,Ella Tote,Brown,Jacquard,Large,Hanoi,44,14,58,Fall,188,206,186,-20
+Pacific Centre,Kira Chevron Tote,Gray,Jacquard,Large,Hanoi,38,15,53,Summer,70,70,71,1
+Aventura Mall,Perry Tote,Pink,Pebbled Leather,Small,Hanoi,44,14,58,Summer,152,152,148,-4
+The Galleria,Britten Tote,Beige,Coated Canvas,Mini,Ho Chi Minh City,33,18,51,Fall,146,160,11,-149
+Madison Avenue,Kira Chevron Tote,Blue,Pebbled Leather,Mini,Ho Chi Minh City,33,14,47,Spring,293,351,47,-304
+Aventura Mall,Perry Tote,Gray,Canvas,Mini,Ho Chi Minh City,35,15,50,Summer,266,266,262,-4
+Oak Street,Gemini Link Tote,Brown,Pebbled Leather,Large,Da Nang,37,16,53,Spring,92,110,9,-101
+Westfield World Trade Center,Robinson Tote,Yellow,Coated Canvas,Small,Da Nang,38,17,55,Winter,223,178,2,-176
+South Coast Plaza,T Monogram Tote,Pink,Leather,Large,Guangzhou,32,16,48,Spring,239,286,158,-128
+San Francisco Centre,Britten Tote,Blue,Leather,Mini,Ho Chi Minh City,40,15,55,Summer,117,117,125,8
+The Galleria,T Monogram Tote,Black,Coated Canvas,Small,Guangzhou,43,18,61,Winter,224,179,116,-63
+Aventura Mall,Perry Tote,Pink,Leather,Medium,Ho Chi Minh City,37,15,52,Summer,159,159,139,-20
+South Coast Plaza,Gemini Link Tote,Gray,Pebbled Leather,Medium,Ho Chi Minh City,42,14,56,Winter,294,235,119,-116
+Bal Harbour Shops,Gemini Link Tote,Yellow,Jacquard,Mini,Da Nang,32,16,48,Summer,95,95,142,47
+NorthPark Center,Britten Tote,Red,Canvas,Large,Hanoi,35,14,49,Spring,257,308,272,-36
+Aventura Mall,McGraw Tote,Multi,Canvas,Large,Da Nang,49,15,64,Fall,162,178,19,-159
+South Coast Plaza,T Monogram Tote,Black,Pebbled Leather,Mini,Shenzhen,38,16,54,Spring,171,205,40,-165
+Pacific Centre,McGraw Tote,Black,Pebbled Leather,Large,Hanoi,43,18,61,Spring,281,337,125,-212
+San Francisco Centre,McGraw Tote,Brown,Pebbled Leather,Small,Shenzhen,46,17,63,Summer,164,164,154,-10
+Rodeo Drive,Perry Tote,Purple,Pebbled Leather,Mini,Shenzhen,40,17,57,Spring,138,165,70,-95
+Rodeo Drive,Kira Chevron Tote,Pink,Leather,Large,Hanoi,40,17,57,Summer,213,213,101,-112
+Oak Street,McGraw Tote,Green,Jacquard,Mini,Guangzhou,30,18,48,Summer,263,263,148,-115
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,White,Pebbled Leather,Small,Ho Chi Minh City,42,16,58,Winter,71,56,86,30
+San Francisco Centre,Gemini Link Tote,Red,Jacquard,Medium,Guangzhou,35,15,50,Fall,202,222,227,5
+El Palacio de Hierro (Polanco),Perry Tote,Red,Canvas,Large,Ho Chi Minh City,35,17,52,Summer,114,114,51,-63
+Pacific Centre,Robinson Tote,Gray,Jacquard,Large,Shenzhen,39,15,54,Winter,160,128,118,-10
+Aventura Mall,Perry Tote,Multi,Pebbled Leather,Medium,Guangzhou,47,18,65,Fall,82,90,14,-76
+NorthPark Center,Kira Chevron Tote,Brown,Coated Canvas,Large,Shenzhen,46,18,64,Spring,113,135,127,-8
+Yorkdale Shopping Centre,Robinson Tote,Green,Leather,Large,Ho Chi Minh City,39,14,53,Winter,78,62,11,-51
+The Galleria,Kira Chevron Tote,Blue,Canvas,Small,Ho Chi Minh City,43,18,61,Winter,208,166,170,4
+El Palacio de Hierro (Santa Fe),McGraw Tote,Brown,Canvas,Small,Da Nang,38,18,56,Winter,138,110,60,-50
+Madison Avenue,Gemini Link Tote,Brown,Pebbled Leather,Mini,Guangzhou,50,18,68,Spring,55,66,96,30
+Oak Street,Kira Chevron Tote,Green,Coated Canvas,Medium,Guangzhou,34,17,51,Fall,235,258,211,-47
+El Palacio de Hierro (Santa Fe),Perry Tote,Black,Coated Canvas,Large,Da Nang,41,14,55,Spring,124,148,52,-96
+Westfield World Trade Center,T Monogram Tote,Pink,Canvas,Mini,Da Nang,36,17,53,Winter,129,103,17,-86
+South Coast Plaza,Gemini Link Tote,Multi,Jacquard,Mini,Guangzhou,50,17,67,Winter,281,224,156,-68
+San Francisco Centre,McGraw Tote,Brown,Leather,Mini,Ho Chi Minh City,40,15,55,Winter,62,49,21,-28
+The Galleria,Gemini Link Tote,Beige,Leather,Mini,Hanoi,40,16,56,Fall,280,308,187,-121
+NorthPark Center,Britten Tote,Black,Leather,Small,Shenzhen,38,16,54,Summer,176,176,211,35
+Aventura Mall,Perry Tote,Green,Leather,Medium,Hanoi,50,16,66,Summer,75,75,33,-42
+Oak Street,Gemini Link Tote,Black,Jacquard,Large,Shenzhen,50,17,67,Winter,255,204,206,2
+Bal Harbour Shops,Perry Tote,Purple,Coated Canvas,Mini,Hanoi,32,15,47,Winter,118,94,132,38
+The Galleria,T Monogram Tote,Green,Pebbled Leather,Medium,Shenzhen,41,14,55,Fall,190,209,21,-188
+The Galleria,Britten Tote,Purple,Pebbled Leather,Small,Hanoi,33,16,49,Winter,298,238,193,-45
+San Francisco Centre,Perry Tote,Gray,Leather,Mini,Hanoi,34,18,52,Winter,180,144,133,-11
+Oak Street,T Monogram Tote,Brown,Jacquard,Mini,Guangzhou,34,16,50,Summer,194,194,187,-7
+San Francisco Centre,Robinson Tote,Brown,Leather,Medium,Hanoi,47,14,61,Summer,50,50,43,-7
+NorthPark Center,Robinson Tote,Beige,Coated Canvas,Mini,Hanoi,42,15,57,Fall,183,201,170,-31
+El Palacio de Hierro (Santa Fe),Ella Tote,White,Coated Canvas,Large,Guangzhou,41,16,57,Spring,113,135,115,-20
+Yorkdale Shopping Centre,Gemini Link Tote,Brown,Jacquard,Large,Guangzhou,50,18,68,Spring,128,153,85,-68
+NorthPark Center,T Monogram Tote,Yellow,Leather,Large,Hanoi,37,17,54,Fall,216,237,210,-27
+Pacific Centre,Ella Tote,Gray,Leather,Mini,Hanoi,46,14,60,Spring,226,271,109,-162
+The Galleria,McGraw Tote,Brown,Leather,Large,Guangzhou,34,18,52,Fall,153,168,50,-118
+NorthPark Center,Robinson Tote,Purple,Coated Canvas,Small,Ho Chi Minh City,43,14,57,Fall,113,124,162,38
+Bal Harbour Shops,Britten Tote,Gray,Coated Canvas,Medium,Da Nang,34,15,49,Summer,84,84,5,-79
+South Coast Plaza,Robinson Tote,Red,Coated Canvas,Small,Shenzhen,38,16,54,Spring,267,320,216,-104
+Rodeo Drive,Perry Tote,Green,Coated Canvas,Large,Shenzhen,49,16,65,Winter,197,157,113,-44
+Oak Street,Kira Chevron Tote,Multi,Coated Canvas,Mini,Shenzhen,33,18,51,Spring,255,306,291,-15
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Multi,Pebbled Leather,Large,Shenzhen,42,17,59,Spring,165,198,45,-153
+NorthPark Center,Robinson Tote,Brown,Coated Canvas,Large,Ho Chi Minh City,50,16,66,Summer,198,198,141,-57
+Pacific Centre,Kira Chevron Tote,Blue,Canvas,Medium,Shenzhen,32,14,46,Fall,193,212,72,-140
+Aventura Mall,Gemini Link Tote,White,Pebbled Leather,Mini,Ho Chi Minh City,36,18,54,Spring,143,171,101,-70
+South Coast Plaza,Gemini Link Tote,Pink,Leather,Small,Ho Chi Minh City,46,16,62,Summer,236,236,188,-48
+Bal Harbour Shops,T Monogram Tote,Blue,Jacquard,Large,Hanoi,42,15,57,Summer,70,70,65,-5
+Oak Street,Britten Tote,Blue,Coated Canvas,Medium,Hanoi,50,15,65,Fall,118,129,102,-27
+San Francisco Centre,Gemini Link Tote,Multi,Canvas,Small,Da Nang,32,16,48,Spring,172,206,180,-26
+Soho,T Monogram Tote,Metallic,Leather,Mini,Guangzhou,49,18,67,Winter,249,199,1,-198
+El Palacio de Hierro (Santa Fe),Ella Tote,Purple,Leather,Small,Da Nang,36,16,52,Spring,295,354,289,-65
+Soho,Gemini Link Tote,Black,Coated Canvas,Large,Hanoi,31,16,47,Winter,243,194,102,-92
+Bal Harbour Shops,Perry Tote,Yellow,Canvas,Medium,Hanoi,36,18,54,Fall,167,183,114,-69
+NorthPark Center,McGraw Tote,Gray,Canvas,Medium,Ho Chi Minh City,34,18,52,Fall,65,71,75,4
+Aventura Mall,Gemini Link Tote,Beige,Pebbled Leather,Large,Hanoi,50,15,65,Summer,122,122,25,-97
+Pacific Centre,Ella Tote,Purple,Leather,Medium,Da Nang,45,14,59,Winter,212,169,29,-140
+Madison Avenue,Britten Tote,Beige,Coated Canvas,Small,Guangzhou,42,14,56,Winter,220,176,88,-88
+Westfield World Trade Center,Ella Tote,Green,Leather,Large,Hanoi,41,14,55,Spring,234,280,330,50
+El Palacio de Hierro (Polanco),Perry Tote,Beige,Pebbled Leather,Mini,Guangzhou,46,14,60,Summer,120,120,26,-94
+Pacific Centre,Britten Tote,Purple,Jacquard,Large,Ho Chi Minh City,46,15,61,Spring,187,224,36,-188
+Westfield World Trade Center,T Monogram Tote,Blue,Coated Canvas,Large,Ho Chi Minh City,36,14,50,Winter,180,144,118,-26
+El Palacio de Hierro (Santa Fe),Ella Tote,Gray,Leather,Small,Shenzhen,32,15,47,Summer,147,147,150,3
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Beige,Coated Canvas,Mini,Shenzhen,44,17,61,Spring,269,322,307,-15
+The Galleria,T Monogram Tote,Gray,Canvas,Medium,Ho Chi Minh City,37,14,51,Winter,276,220,130,-90
+Soho,Perry Tote,Pink,Canvas,Large,Hanoi,49,14,63,Fall,63,69,111,42
+Westfield World Trade Center,Robinson Tote,Purple,Coated Canvas,Large,Ho Chi Minh City,39,17,56,Winter,282,225,221,-4
+South Coast Plaza,Perry Tote,Multi,Leather,Mini,Guangzhou,50,15,65,Summer,246,246,280,34
+Oak Street,Kira Chevron Tote,Gray,Coated Canvas,Medium,Shenzhen,40,14,54,Summer,128,128,121,-7
+Rodeo Drive,Ella Tote,Pink,Leather,Small,Ho Chi Minh City,43,18,61,Spring,166,199,74,-125
+Yorkdale Shopping Centre,T Monogram Tote,Purple,Leather,Small,Guangzhou,33,14,47,Fall,56,61,6,-55
+Rodeo Drive,Britten Tote,Blue,Canvas,Medium,Da Nang,42,14,56,Winter,167,133,85,-48
+Aventura Mall,Kira Chevron Tote,Gray,Pebbled Leather,Mini,Guangzhou,50,17,67,Spring,128,153,103,-50
+The Galleria,Britten Tote,Pink,Coated Canvas,Small,Shenzhen,32,18,50,Winter,74,59,71,12
+Soho,T Monogram Tote,Red,Jacquard,Mini,Shenzhen,34,16,50,Summer,108,108,100,-8
+Rodeo Drive,Ella Tote,Multi,Leather,Medium,Shenzhen,43,17,60,Spring,233,279,151,-128
+San Francisco Centre,T Monogram Tote,Pink,Leather,Medium,Hanoi,40,15,55,Spring,165,198,40,-158
+San Francisco Centre,Ella Tote,Multi,Pebbled Leather,Mini,Da Nang,32,16,48,Summer,296,296,243,-53
+Madison Avenue,Perry Tote,Metallic,Coated Canvas,Large,Hanoi,30,14,44,Summer,282,282,23,-259
+Rodeo Drive,Perry Tote,Brown,Canvas,Small,Guangzhou,45,17,62,Summer,172,172,188,16
+El Palacio de Hierro (Polanco),Ella Tote,Pink,Jacquard,Medium,Hanoi,42,14,56,Winter,282,225,183,-42
+Oak Street,Gemini Link Tote,Metallic,Canvas,Mini,Shenzhen,34,15,49,Summer,238,238,77,-161
+San Francisco Centre,Ella Tote,Black,Jacquard,Medium,Da Nang,48,14,62,Spring,89,106,70,-36
+Rodeo Drive,McGraw Tote,Brown,Canvas,Medium,Hanoi,45,16,61,Fall,252,277,111,-166
+San Francisco Centre,Robinson Tote,Red,Jacquard,Small,Da Nang,49,17,66,Summer,235,235,141,-94
+Westfield World Trade Center,Britten Tote,Purple,Leather,Medium,Shenzhen,36,14,50,Spring,155,186,30,-156
+Soho,Kira Chevron Tote,Metallic,Leather,Small,Shenzhen,36,18,54,Winter,84,67,114,47
+NorthPark Center,McGraw Tote,Beige,Canvas,Small,Ho Chi Minh City,30,18,48,Summer,190,190,173,-17
+Pacific Centre,Robinson Tote,Blue,Jacquard,Large,Hanoi,50,14,64,Winter,163,130,60,-70
+The Galleria,Britten Tote,Black,Pebbled Leather,Large,Da Nang,42,18,60,Fall,166,182,46,-136
+Bal Harbour Shops,Britten Tote,Yellow,Coated Canvas,Medium,Guangzhou,39,18,57,Summer,188,188,106,-82
+South Coast Plaza,Gemini Link Tote,White,Leather,Medium,Guangzhou,34,16,50,Summer,56,56,13,-43
+Soho,McGraw Tote,Brown,Jacquard,Small,Shenzhen,33,14,47,Spring,225,270,228,-42
+San Francisco Centre,Kira Chevron Tote,Yellow,Leather,Mini,Hanoi,42,14,56,Winter,287,229,14,-215
+El Palacio de Hierro (Santa Fe),McGraw Tote,Brown,Leather,Large,Da Nang,49,18,67,Spring,219,262,291,29
+South Coast Plaza,Britten Tote,Green,Leather,Mini,Guangzhou,38,17,55,Fall,226,248,93,-155
+Bal Harbour Shops,Britten Tote,Black,Canvas,Mini,Ho Chi Minh City,35,17,52,Spring,62,74,10,-64
+NorthPark Center,McGraw Tote,Multi,Jacquard,Mini,Ho Chi Minh City,35,14,49,Summer,57,57,44,-13
+San Francisco Centre,Britten Tote,Beige,Canvas,Small,Hanoi,36,16,52,Winter,263,210,42,-168
+South Coast Plaza,McGraw Tote,Black,Coated Canvas,Large,Ho Chi Minh City,47,14,61,Spring,253,303,75,-228
+Westfield World Trade Center,McGraw Tote,Pink,Pebbled Leather,Small,Da Nang,45,18,63,Summer,163,163,188,25
+Bal Harbour Shops,Britten Tote,Blue,Canvas,Large,Guangzhou,48,18,66,Spring,142,170,93,-77
+Bal Harbour Shops,Kira Chevron Tote,Red,Coated Canvas,Mini,Shenzhen,35,16,51,Fall,198,217,262,45
+Westfield World Trade Center,Robinson Tote,Pink,Leather,Mini,Ho Chi Minh City,37,15,52,Spring,99,118,118,0
+Pacific Centre,Ella Tote,Metallic,Leather,Mini,Ho Chi Minh City,45,18,63,Fall,261,287,207,-80
+The Galleria,McGraw Tote,Multi,Coated Canvas,Medium,Guangzhou,43,16,59,Winter,272,217,21,-196
+Westfield World Trade Center,Perry Tote,Purple,Jacquard,Large,Da Nang,50,17,67,Spring,146,175,7,-168
+Aventura Mall,Kira Chevron Tote,Pink,Jacquard,Small,Da Nang,44,15,59,Fall,185,203,48,-155
+Soho,Kira Chevron Tote,Gray,Canvas,Small,Guangzhou,31,16,47,Fall,105,115,35,-80
+Rodeo Drive,Robinson Tote,Purple,Jacquard,Large,Da Nang,33,14,47,Fall,275,302,298,-4
+Aventura Mall,Gemini Link Tote,Blue,Jacquard,Mini,Ho Chi Minh City,47,17,64,Summer,206,206,176,-30
+El Palacio de Hierro (Santa Fe),Robinson Tote,Brown,Canvas,Mini,Guangzhou,32,17,49,Summer,143,143,8,-135
+Bal Harbour Shops,T Monogram Tote,Purple,Coated Canvas,Large,Hanoi,43,17,60,Summer,231,231,279,48
+Bal Harbour Shops,Kira Chevron Tote,Green,Coated Canvas,Large,Da Nang,47,15,62,Spring,206,247,101,-146
+Yorkdale Shopping Centre,T Monogram Tote,Gray,Canvas,Mini,Da Nang,36,17,53,Summer,128,128,59,-69
+Pacific Centre,Gemini Link Tote,Metallic,Pebbled Leather,Small,Guangzhou,45,16,61,Spring,290,348,90,-258
+Oak Street,Gemini Link Tote,Green,Canvas,Medium,Shenzhen,33,16,49,Winter,181,144,134,-10
+Aventura Mall,Gemini Link Tote,Multi,Coated Canvas,Large,Da Nang,40,18,58,Fall,216,237,116,-121
+Soho,T Monogram Tote,Purple,Jacquard,Mini,Shenzhen,39,17,56,Spring,158,189,51,-138
+Bal Harbour Shops,Kira Chevron Tote,Purple,Leather,Mini,Ho Chi Minh City,40,17,57,Fall,274,301,316,15
+South Coast Plaza,Ella Tote,Gray,Jacquard,Medium,Da Nang,35,14,49,Summer,166,166,107,-59
+Aventura Mall,Robinson Tote,Yellow,Leather,Medium,Guangzhou,45,14,59,Fall,284,312,148,-164
+Bal Harbour Shops,Ella Tote,White,Pebbled Leather,Mini,Shenzhen,34,17,51,Winter,251,200,163,-37
+Pacific Centre,Perry Tote,Green,Leather,Small,Hanoi,38,16,54,Summer,187,187,72,-115
+Aventura Mall,Britten Tote,Red,Canvas,Mini,Shenzhen,38,14,52,Spring,105,126,116,-10
+Soho,T Monogram Tote,Green,Jacquard,Small,Ho Chi Minh City,38,16,54,Fall,218,239,108,-131
+The Galleria,McGraw Tote,Green,Pebbled Leather,Mini,Shenzhen,31,18,49,Fall,296,325,37,-288
+Yorkdale Shopping Centre,Robinson Tote,Blue,Coated Canvas,Small,Da Nang,47,14,61,Fall,182,200,236,36
+San Francisco Centre,Gemini Link Tote,Blue,Coated Canvas,Mini,Ho Chi Minh City,50,15,65,Winter,152,121,51,-70
+South Coast Plaza,McGraw Tote,Beige,Canvas,Medium,Guangzhou,37,17,54,Winter,51,40,32,-8
+Madison Avenue,T Monogram Tote,Metallic,Leather,Mini,Da Nang,50,15,65,Spring,170,204,180,-24
+Aventura Mall,Kira Chevron Tote,Yellow,Coated Canvas,Medium,Da Nang,49,14,63,Fall,68,74,95,21
+El Palacio de Hierro (Polanco),Robinson Tote,Red,Canvas,Large,Guangzhou,33,17,50,Summer,67,67,76,9
+El Palacio de Hierro (Polanco),Gemini Link Tote,White,Canvas,Large,Da Nang,45,17,62,Winter,185,148,178,30
+Bal Harbour Shops,Kira Chevron Tote,Multi,Jacquard,Medium,Ho Chi Minh City,41,15,56,Summer,96,96,52,-44
+Aventura Mall,Robinson Tote,Beige,Leather,Mini,Hanoi,42,17,59,Summer,227,227,122,-105
+Westfield World Trade Center,T Monogram Tote,Blue,Canvas,Small,Hanoi,49,18,67,Fall,98,107,156,49
+Yorkdale Shopping Centre,McGraw Tote,Brown,Leather,Mini,Da Nang,50,16,66,Spring,167,200,204,4
+Pacific Centre,T Monogram Tote,Metallic,Coated Canvas,Medium,Hanoi,42,14,56,Spring,158,189,117,-72
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Yellow,Pebbled Leather,Small,Da Nang,37,17,54,Spring,244,292,195,-97
+El Palacio de Hierro (Santa Fe),Britten Tote,White,Canvas,Medium,Da Nang,45,17,62,Winter,91,72,104,32
+Bal Harbour Shops,Robinson Tote,Purple,Leather,Medium,Da Nang,47,14,61,Spring,89,106,77,-29
+Soho,T Monogram Tote,Black,Jacquard,Large,Hanoi,30,16,46,Spring,126,151,138,-13
+NorthPark Center,T Monogram Tote,Brown,Canvas,Small,Da Nang,47,16,63,Spring,95,114,129,15
+Aventura Mall,Britten Tote,Beige,Pebbled Leather,Medium,Ho Chi Minh City,33,16,49,Winter,123,98,28,-70
+Madison Avenue,Perry Tote,Brown,Pebbled Leather,Medium,Da Nang,32,15,47,Fall,263,289,311,22
+Rodeo Drive,Robinson Tote,Purple,Leather,Large,Shenzhen,49,15,64,Spring,230,276,182,-94
+Oak Street,Perry Tote,Multi,Pebbled Leather,Large,Ho Chi Minh City,39,15,54,Fall,132,145,78,-67
+Rodeo Drive,Ella Tote,Pink,Leather,Medium,Hanoi,40,16,56,Winter,267,213,61,-152
+San Francisco Centre,Gemini Link Tote,Pink,Pebbled Leather,Large,Hanoi,32,18,50,Fall,52,57,107,50
+Westfield World Trade Center,Perry Tote,Brown,Coated Canvas,Mini,Ho Chi Minh City,49,18,67,Winter,282,225,216,-9
+Aventura Mall,Perry Tote,Blue,Canvas,Small,Hanoi,49,17,66,Summer,52,52,71,19
+Yorkdale Shopping Centre,Ella Tote,Green,Pebbled Leather,Mini,Hanoi,39,17,56,Spring,121,145,147,2
+South Coast Plaza,Ella Tote,Brown,Canvas,Medium,Guangzhou,44,15,59,Spring,79,94,16,-78
+Bal Harbour Shops,Robinson Tote,Beige,Jacquard,Medium,Guangzhou,48,17,65,Summer,182,182,225,43
+South Coast Plaza,Kira Chevron Tote,Brown,Leather,Mini,Guangzhou,43,15,58,Summer,215,215,145,-70
+San Francisco Centre,Perry Tote,Beige,Pebbled Leather,Small,Ho Chi Minh City,33,14,47,Fall,268,294,85,-209
+South Coast Plaza,T Monogram Tote,Green,Pebbled Leather,Large,Guangzhou,40,16,56,Winter,55,44,74,30
+Madison Avenue,Robinson Tote,Gray,Canvas,Small,Ho Chi Minh City,44,17,61,Winter,211,168,157,-11
+Pacific Centre,Ella Tote,Green,Coated Canvas,Large,Ho Chi Minh City,48,16,64,Spring,219,262,45,-217
+El Palacio de Hierro (Santa Fe),McGraw Tote,Black,Pebbled Leather,Small,Da Nang,44,17,61,Fall,81,89,52,-37
+Oak Street,T Monogram Tote,Beige,Coated Canvas,Small,Ho Chi Minh City,31,14,45,Winter,215,172,27,-145
+Pacific Centre,Kira Chevron Tote,Blue,Coated Canvas,Small,Da Nang,37,14,51,Spring,239,286,230,-56
+El Palacio de Hierro (Polanco),Robinson Tote,Brown,Pebbled Leather,Small,Ho Chi Minh City,38,17,55,Winter,106,84,78,-6
+Westfield World Trade Center,Gemini Link Tote,Purple,Coated Canvas,Large,Guangzhou,43,16,59,Winter,292,233,204,-29
+Pacific Centre,Britten Tote,Brown,Canvas,Mini,Hanoi,50,16,66,Summer,171,171,205,34
+South Coast Plaza,Perry Tote,Yellow,Canvas,Mini,Shenzhen,46,18,64,Summer,229,229,86,-143
+Rodeo Drive,Britten Tote,Multi,Canvas,Medium,Guangzhou,45,15,60,Spring,114,136,45,-91
+Aventura Mall,Robinson Tote,Brown,Jacquard,Small,Shenzhen,44,14,58,Summer,125,125,154,29
+Madison Avenue,Robinson Tote,Blue,Jacquard,Large,Guangzhou,41,18,59,Summer,155,155,7,-148
+Yorkdale Shopping Centre,Gemini Link Tote,White,Jacquard,Small,Shenzhen,34,14,48,Fall,158,173,51,-122
+El Palacio de Hierro (Polanco),McGraw Tote,Blue,Leather,Large,Shenzhen,39,18,57,Spring,97,116,152,36
+Pacific Centre,T Monogram Tote,Gray,Canvas,Small,Da Nang,38,15,53,Spring,220,264,162,-102
+Yorkdale Shopping Centre,Ella Tote,Gray,Coated Canvas,Medium,Shenzhen,36,18,54,Winter,283,226,219,-7
+San Francisco Centre,Gemini Link Tote,Blue,Canvas,Mini,Shenzhen,43,17,60,Spring,206,247,107,-140
+Aventura Mall,Robinson Tote,Green,Jacquard,Medium,Hanoi,41,18,59,Winter,246,196,49,-147
+Soho,Robinson Tote,Yellow,Leather,Mini,Da Nang,30,16,46,Summer,149,149,58,-91
+Madison Avenue,Ella Tote,Gray,Coated Canvas,Small,Ho Chi Minh City,35,15,50,Winter,149,119,92,-27
+The Galleria,Britten Tote,Blue,Leather,Medium,Guangzhou,46,17,63,Summer,151,151,66,-85
+Rodeo Drive,Kira Chevron Tote,White,Leather,Medium,Shenzhen,40,15,55,Summer,50,50,18,-32
+Oak Street,Britten Tote,Multi,Coated Canvas,Large,Da Nang,43,14,57,Winter,152,121,158,37
+The Galleria,Perry Tote,Metallic,Leather,Medium,Ho Chi Minh City,37,17,54,Winter,163,130,28,-102
+Oak Street,Kira Chevron Tote,Multi,Pebbled Leather,Large,Ho Chi Minh City,48,15,63,Spring,297,356,65,-291
+Madison Avenue,Kira Chevron Tote,Gray,Leather,Small,Hanoi,34,15,49,Summer,88,88,87,-1
+Rodeo Drive,Britten Tote,Red,Leather,Mini,Hanoi,38,15,53,Summer,52,52,66,14
+San Francisco Centre,Britten Tote,Green,Jacquard,Small,Ho Chi Minh City,30,14,44,Fall,124,136,69,-67
+Aventura Mall,T Monogram Tote,Pink,Pebbled Leather,Large,Shenzhen,41,14,55,Summer,192,192,227,35
+Madison Avenue,Britten Tote,Black,Canvas,Large,Guangzhou,31,16,47,Summer,254,254,61,-193
+Bal Harbour Shops,Britten Tote,Multi,Canvas,Small,Da Nang,32,17,49,Spring,51,61,102,41
+El Palacio de Hierro (Polanco),Perry Tote,White,Jacquard,Medium,Da Nang,33,14,47,Summer,141,141,62,-79
+Aventura Mall,Kira Chevron Tote,Red,Pebbled Leather,Mini,Guangzhou,48,14,62,Summer,185,185,195,10
+Aventura Mall,Kira Chevron Tote,Multi,Jacquard,Small,Ho Chi Minh City,31,15,46,Summer,195,195,55,-140
+Pacific Centre,Kira Chevron Tote,Gray,Jacquard,Large,Da Nang,49,16,65,Winter,233,186,172,-14
+NorthPark Center,McGraw Tote,Purple,Pebbled Leather,Mini,Shenzhen,49,18,67,Fall,85,93,76,-17
+Yorkdale Shopping Centre,Perry Tote,Yellow,Leather,Small,Da Nang,40,14,54,Summer,192,192,85,-107
+Westfield World Trade Center,T Monogram Tote,Brown,Pebbled Leather,Medium,Ho Chi Minh City,38,17,55,Fall,116,127,107,-20
+Rodeo Drive,Ella Tote,Red,Canvas,Medium,Hanoi,47,17,64,Summer,83,83,101,18
+Madison Avenue,Kira Chevron Tote,Brown,Canvas,Medium,Shenzhen,47,14,61,Spring,283,339,131,-208
+Soho,Perry Tote,Green,Canvas,Small,Ho Chi Minh City,33,15,48,Summer,159,159,77,-82
+NorthPark Center,Britten Tote,Purple,Coated Canvas,Mini,Guangzhou,32,17,49,Spring,98,117,38,-79
+Aventura Mall,McGraw Tote,Gray,Coated Canvas,Medium,Guangzhou,49,17,66,Winter,182,145,96,-49
+Westfield World Trade Center,Ella Tote,Green,Leather,Small,Ho Chi Minh City,43,15,58,Summer,144,144,106,-38
+South Coast Plaza,Kira Chevron Tote,Yellow,Pebbled Leather,Mini,Shenzhen,39,14,53,Fall,59,64,73,9
+NorthPark Center,Ella Tote,Multi,Leather,Small,Da Nang,45,15,60,Summer,189,189,127,-62
+El Palacio de Hierro (Santa Fe),Britten Tote,Red,Jacquard,Mini,Ho Chi Minh City,40,14,54,Fall,285,313,146,-167
+Soho,Robinson Tote,Black,Coated Canvas,Large,Shenzhen,39,17,56,Summer,280,280,320,40
+Westfield World Trade Center,Gemini Link Tote,Red,Pebbled Leather,Medium,Da Nang,42,16,58,Winter,257,205,35,-170
+Pacific Centre,Kira Chevron Tote,Yellow,Jacquard,Large,Shenzhen,45,17,62,Winter,160,128,131,3
+Aventura Mall,Britten Tote,Red,Pebbled Leather,Large,Guangzhou,30,14,44,Winter,209,167,28,-139
+Yorkdale Shopping Centre,Perry Tote,Multi,Pebbled Leather,Large,Shenzhen,41,18,59,Winter,151,120,164,44
+South Coast Plaza,Gemini Link Tote,Purple,Coated Canvas,Small,Guangzhou,45,14,59,Spring,145,174,52,-122
+Rodeo Drive,T Monogram Tote,White,Leather,Mini,Ho Chi Minh City,48,17,65,Summer,75,75,4,-71
+Madison Avenue,Ella Tote,Black,Pebbled Leather,Large,Guangzhou,43,17,60,Spring,63,75,46,-29
+Soho,McGraw Tote,Brown,Pebbled Leather,Large,Guangzhou,30,14,44,Fall,177,194,8,-186
+South Coast Plaza,McGraw Tote,Multi,Pebbled Leather,Small,Shenzhen,46,17,63,Spring,70,84,112,28
+El Palacio de Hierro (Santa Fe),T Monogram Tote,White,Leather,Small,Shenzhen,40,14,54,Fall,135,148,8,-140
+El Palacio de Hierro (Santa Fe),Perry Tote,Beige,Leather,Large,Guangzhou,49,15,64,Spring,259,310,80,-230
+Westfield World Trade Center,T Monogram Tote,Multi,Coated Canvas,Large,Ho Chi Minh City,37,18,55,Fall,139,152,176,24
+Yorkdale Shopping Centre,T Monogram Tote,Beige,Coated Canvas,Medium,Ho Chi Minh City,39,14,53,Winter,158,126,140,14
+South Coast Plaza,Gemini Link Tote,Gray,Leather,Small,Ho Chi Minh City,31,18,49,Winter,71,56,82,26
+South Coast Plaza,Gemini Link Tote,Multi,Leather,Medium,Ho Chi Minh City,42,18,60,Winter,250,200,185,-15
+Aventura Mall,Perry Tote,White,Pebbled Leather,Mini,Da Nang,33,18,51,Spring,175,210,34,-176
+El Palacio de Hierro (Polanco),Britten Tote,Gray,Jacquard,Medium,Guangzhou,45,14,59,Winter,79,63,92,29
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Red,Canvas,Mini,Da Nang,43,18,61,Fall,297,326,100,-226
+Pacific Centre,Ella Tote,Yellow,Coated Canvas,Small,Ho Chi Minh City,33,14,47,Fall,107,117,71,-46
+NorthPark Center,Perry Tote,Pink,Pebbled Leather,Medium,Da Nang,32,17,49,Fall,299,328,372,44
+Oak Street,Britten Tote,Beige,Canvas,Medium,Da Nang,44,14,58,Winter,258,206,156,-50
+Soho,McGraw Tote,Gray,Pebbled Leather,Small,Da Nang,48,15,63,Summer,115,115,11,-104
+Aventura Mall,Gemini Link Tote,White,Canvas,Small,Guangzhou,39,16,55,Summer,272,272,55,-217
+NorthPark Center,T Monogram Tote,Purple,Pebbled Leather,Medium,Shenzhen,40,18,58,Fall,192,211,124,-87
+Rodeo Drive,Ella Tote,Green,Canvas,Medium,Da Nang,47,17,64,Winter,272,217,132,-85
+Soho,Ella Tote,Multi,Canvas,Large,Ho Chi Minh City,31,16,47,Spring,269,322,263,-59
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Multi,Coated Canvas,Small,Ho Chi Minh City,32,18,50,Summer,258,258,278,20
+The Galleria,McGraw Tote,Black,Pebbled Leather,Medium,Hanoi,39,15,54,Winter,91,72,80,8
+Soho,T Monogram Tote,Black,Canvas,Small,Hanoi,39,17,56,Fall,132,145,77,-68
+Aventura Mall,Gemini Link Tote,Pink,Coated Canvas,Large,Shenzhen,37,16,53,Fall,277,304,52,-252
+El Palacio de Hierro (Polanco),Gemini Link Tote,Gray,Pebbled Leather,Small,Shenzhen,34,18,52,Spring,274,328,364,36
+Rodeo Drive,T Monogram Tote,White,Coated Canvas,Medium,Da Nang,50,17,67,Summer,95,95,16,-79
+Soho,Ella Tote,Multi,Leather,Mini,Hanoi,44,16,60,Summer,183,183,196,13
+The Galleria,Gemini Link Tote,Purple,Coated Canvas,Small,Ho Chi Minh City,35,18,53,Spring,169,202,197,-5
+Westfield World Trade Center,Robinson Tote,Purple,Pebbled Leather,Medium,Shenzhen,31,18,49,Spring,144,172,12,-160
+Soho,McGraw Tote,Purple,Canvas,Large,Shenzhen,49,16,65,Winter,55,44,7,-37
+Westfield World Trade Center,Britten Tote,Beige,Coated Canvas,Medium,Guangzhou,30,18,48,Summer,245,245,255,10
+Yorkdale Shopping Centre,Britten Tote,Purple,Coated Canvas,Medium,Guangzhou,40,16,56,Winter,107,85,7,-78
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Red,Coated Canvas,Small,Hanoi,35,14,49,Fall,198,217,228,11
+Westfield World Trade Center,Ella Tote,Red,Coated Canvas,Small,Shenzhen,46,18,64,Summer,163,163,182,19
+Bal Harbour Shops,Robinson Tote,Yellow,Leather,Small,Da Nang,47,16,63,Summer,188,188,221,33
+Soho,Robinson Tote,Gray,Leather,Medium,Da Nang,45,17,62,Spring,167,200,15,-185
+Oak Street,Gemini Link Tote,Multi,Leather,Medium,Hanoi,33,15,48,Fall,230,253,116,-137
+Oak Street,Perry Tote,Pink,Leather,Small,Ho Chi Minh City,36,16,52,Winter,144,115,61,-54
+San Francisco Centre,Britten Tote,Blue,Pebbled Leather,Small,Da Nang,46,14,60,Winter,265,212,95,-117
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Black,Canvas,Mini,Shenzhen,36,18,54,Summer,88,88,114,26
+The Galleria,Ella Tote,Red,Coated Canvas,Medium,Hanoi,43,17,60,Fall,265,291,193,-98
+El Palacio de Hierro (Polanco),Perry Tote,Black,Canvas,Small,Da Nang,34,16,50,Spring,169,202,8,-194
+Westfield World Trade Center,Kira Chevron Tote,Blue,Coated Canvas,Mini,Ho Chi Minh City,43,17,60,Spring,87,104,33,-71
+Yorkdale Shopping Centre,Robinson Tote,Beige,Coated Canvas,Medium,Ho Chi Minh City,47,15,62,Summer,80,80,35,-45
+Oak Street,Ella Tote,Green,Pebbled Leather,Small,Ho Chi Minh City,50,15,65,Spring,197,236,67,-169
+Oak Street,Robinson Tote,Brown,Leather,Medium,Shenzhen,42,14,56,Spring,191,229,58,-171
+Rodeo Drive,Britten Tote,Beige,Coated Canvas,Medium,Shenzhen,42,18,60,Spring,251,301,255,-46
+El Palacio de Hierro (Polanco),McGraw Tote,Red,Leather,Large,Shenzhen,41,16,57,Summer,197,197,107,-90
+Bal Harbour Shops,T Monogram Tote,Gray,Coated Canvas,Small,Hanoi,34,15,49,Fall,253,278,63,-215
+Soho,Robinson Tote,Black,Leather,Large,Ho Chi Minh City,36,15,51,Fall,228,250,34,-216
+Aventura Mall,Britten Tote,Beige,Pebbled Leather,Mini,Ho Chi Minh City,30,16,46,Fall,157,172,187,15
+The Galleria,Ella Tote,Brown,Pebbled Leather,Mini,Guangzhou,48,18,66,Fall,275,302,177,-125
+San Francisco Centre,Kira Chevron Tote,Metallic,Leather,Mini,Hanoi,36,17,53,Fall,180,198,99,-99
+Yorkdale Shopping Centre,Kira Chevron Tote,Purple,Coated Canvas,Mini,Hanoi,39,17,56,Spring,181,217,4,-213
+The Galleria,Gemini Link Tote,Pink,Leather,Mini,Da Nang,50,14,64,Fall,126,138,145,7
+Oak Street,Britten Tote,Yellow,Jacquard,Medium,Da Nang,34,15,49,Winter,72,57,25,-32
+Oak Street,Gemini Link Tote,Blue,Coated Canvas,Medium,Guangzhou,32,18,50,Fall,104,114,92,-22
+Bal Harbour Shops,Ella Tote,Metallic,Canvas,Large,Guangzhou,39,14,53,Winter,284,227,169,-58
+Westfield World Trade Center,Robinson Tote,Metallic,Coated Canvas,Large,Ho Chi Minh City,32,15,47,Fall,183,201,65,-136
+San Francisco Centre,Kira Chevron Tote,Multi,Jacquard,Medium,Hanoi,31,14,45,Winter,55,44,28,-16
+Rodeo Drive,Gemini Link Tote,Blue,Coated Canvas,Medium,Ho Chi Minh City,33,15,48,Winter,99,79,88,9
+Madison Avenue,T Monogram Tote,Multi,Coated Canvas,Small,Shenzhen,40,15,55,Winter,123,98,114,16
+El Palacio de Hierro (Polanco),Gemini Link Tote,Brown,Jacquard,Mini,Ho Chi Minh City,44,17,61,Summer,185,185,110,-75
+Oak Street,T Monogram Tote,Gray,Coated Canvas,Mini,Hanoi,36,16,52,Summer,86,86,135,49
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Blue,Canvas,Mini,Da Nang,34,17,51,Summer,121,121,104,-17
+South Coast Plaza,T Monogram Tote,Beige,Jacquard,Small,Guangzhou,37,16,53,Winter,285,228,198,-30
+Bal Harbour Shops,Kira Chevron Tote,Beige,Pebbled Leather,Mini,Ho Chi Minh City,34,15,49,Spring,188,225,258,33
+San Francisco Centre,Kira Chevron Tote,Blue,Jacquard,Small,Da Nang,40,14,54,Spring,141,169,44,-125
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Metallic,Jacquard,Mini,Ho Chi Minh City,30,16,46,Summer,236,236,157,-79
+Oak Street,Perry Tote,Green,Canvas,Large,Ho Chi Minh City,44,14,58,Fall,240,264,171,-93
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Gray,Coated Canvas,Medium,Ho Chi Minh City,49,16,65,Spring,223,267,177,-90
+Madison Avenue,McGraw Tote,Metallic,Pebbled Leather,Mini,Shenzhen,37,15,52,Spring,129,154,202,48
+NorthPark Center,Gemini Link Tote,Gray,Pebbled Leather,Medium,Shenzhen,31,18,49,Winter,127,101,117,16
+The Galleria,Robinson Tote,Beige,Jacquard,Large,Shenzhen,45,14,59,Fall,296,325,150,-175
+Yorkdale Shopping Centre,Britten Tote,Gray,Canvas,Mini,Hanoi,38,16,54,Spring,265,318,283,-35
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,White,Jacquard,Mini,Guangzhou,46,14,60,Spring,221,265,211,-54
+Soho,Perry Tote,Yellow,Pebbled Leather,Large,Ho Chi Minh City,45,16,61,Spring,169,202,167,-35
+Bal Harbour Shops,McGraw Tote,White,Leather,Large,Ho Chi Minh City,37,15,52,Summer,262,262,61,-201
+El Palacio de Hierro (Polanco),Robinson Tote,Purple,Coated Canvas,Medium,Hanoi,40,17,57,Fall,78,85,1,-84
+Rodeo Drive,Ella Tote,Gray,Pebbled Leather,Medium,Ho Chi Minh City,42,18,60,Summer,69,69,5,-64
+San Francisco Centre,Ella Tote,Red,Leather,Medium,Guangzhou,32,14,46,Fall,65,71,14,-57
+Madison Avenue,Britten Tote,White,Jacquard,Mini,Guangzhou,49,17,66,Fall,292,321,271,-50
+San Francisco Centre,Britten Tote,White,Coated Canvas,Medium,Shenzhen,49,18,67,Fall,257,282,40,-242
+Yorkdale Shopping Centre,Kira Chevron Tote,Beige,Jacquard,Mini,Shenzhen,43,17,60,Winter,52,41,9,-32
+Rodeo Drive,Kira Chevron Tote,Purple,Coated Canvas,Medium,Hanoi,44,16,60,Winter,245,196,146,-50
+NorthPark Center,Gemini Link Tote,Green,Canvas,Medium,Ho Chi Minh City,47,15,62,Spring,297,356,17,-339
+El Palacio de Hierro (Santa Fe),Ella Tote,Gray,Leather,Mini,Hanoi,47,17,64,Fall,56,61,103,42
+Oak Street,Ella Tote,Yellow,Canvas,Small,Hanoi,31,17,48,Fall,242,266,284,18
+Pacific Centre,Perry Tote,Multi,Canvas,Mini,Da Nang,44,17,61,Spring,212,254,101,-153
+The Galleria,Gemini Link Tote,Gray,Coated Canvas,Small,Ho Chi Minh City,38,17,55,Fall,176,193,56,-137
+Rodeo Drive,Britten Tote,Metallic,Jacquard,Large,Ho Chi Minh City,32,17,49,Summer,63,63,69,6
+El Palacio de Hierro (Polanco),Robinson Tote,Brown,Pebbled Leather,Medium,Da Nang,50,16,66,Spring,279,334,287,-47
+San Francisco Centre,Ella Tote,Pink,Canvas,Medium,Shenzhen,39,17,56,Summer,116,116,104,-12
+Westfield World Trade Center,McGraw Tote,Beige,Canvas,Large,Da Nang,39,16,55,Summer,61,61,20,-41
+Oak Street,Britten Tote,Brown,Pebbled Leather,Mini,Hanoi,49,16,65,Winter,287,229,144,-85
+Aventura Mall,Kira Chevron Tote,Metallic,Leather,Large,Shenzhen,49,17,66,Winter,244,195,174,-21
+Pacific Centre,Gemini Link Tote,Blue,Canvas,Small,Hanoi,50,18,68,Summer,297,297,48,-249
+El Palacio de Hierro (Polanco),Ella Tote,Brown,Leather,Mini,Shenzhen,35,17,52,Winter,290,232,54,-178
+Westfield World Trade Center,Perry Tote,Brown,Pebbled Leather,Medium,Da Nang,45,17,62,Winter,288,230,21,-209
+Aventura Mall,Britten Tote,Brown,Canvas,Mini,Shenzhen,49,16,65,Winter,52,41,51,10
+Madison Avenue,Perry Tote,Red,Pebbled Leather,Medium,Guangzhou,31,16,47,Fall,242,266,5,-261
+Bal Harbour Shops,Gemini Link Tote,Pink,Jacquard,Small,Guangzhou,45,15,60,Summer,149,149,60,-89
+Rodeo Drive,Robinson Tote,White,Leather,Medium,Da Nang,36,18,54,Winter,271,216,136,-80
+El Palacio de Hierro (Polanco),Britten Tote,Multi,Leather,Large,Hanoi,31,14,45,Winter,145,116,119,3
+The Galleria,Britten Tote,Brown,Leather,Small,Hanoi,35,16,51,Fall,128,140,116,-24
+NorthPark Center,Ella Tote,Beige,Jacquard,Mini,Hanoi,43,16,59,Fall,105,115,33,-82
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Purple,Coated Canvas,Small,Guangzhou,37,15,52,Winter,135,108,111,3
+Oak Street,Perry Tote,Red,Leather,Large,Guangzhou,44,14,58,Fall,70,77,68,-9
+Aventura Mall,McGraw Tote,Metallic,Leather,Small,Ho Chi Minh City,43,16,59,Spring,262,314,46,-268
+El Palacio de Hierro (Polanco),T Monogram Tote,Gray,Canvas,Medium,Hanoi,49,18,67,Fall,162,178,67,-111
+San Francisco Centre,Ella Tote,Gray,Pebbled Leather,Mini,Da Nang,45,14,59,Winter,76,60,12,-48
+Pacific Centre,Ella Tote,Purple,Coated Canvas,Medium,Shenzhen,43,17,60,Winter,136,108,150,42
+The Galleria,McGraw Tote,Yellow,Pebbled Leather,Small,Guangzhou,40,17,57,Winter,239,191,30,-161
+NorthPark Center,Ella Tote,Blue,Coated Canvas,Small,Da Nang,33,17,50,Winter,97,77,8,-69
+Yorkdale Shopping Centre,McGraw Tote,Blue,Jacquard,Large,Ho Chi Minh City,45,18,63,Winter,238,190,151,-39
+Aventura Mall,Gemini Link Tote,Multi,Jacquard,Mini,Shenzhen,50,15,65,Fall,89,97,92,-5
+Oak Street,Kira Chevron Tote,Multi,Jacquard,Medium,Guangzhou,45,17,62,Summer,184,184,15,-169
+Soho,T Monogram Tote,Multi,Coated Canvas,Large,Hanoi,31,17,48,Spring,278,333,30,-303
+Madison Avenue,Britten Tote,Gray,Leather,Medium,Hanoi,42,16,58,Fall,123,135,2,-133
+Westfield World Trade Center,Gemini Link Tote,Yellow,Coated Canvas,Medium,Da Nang,36,18,54,Fall,178,195,14,-181
+Aventura Mall,Gemini Link Tote,Gray,Pebbled Leather,Mini,Guangzhou,37,16,53,Fall,61,67,96,29
+El Palacio de Hierro (Polanco),Robinson Tote,Beige,Pebbled Leather,Medium,Da Nang,37,17,54,Summer,192,192,27,-165
+Westfield World Trade Center,T Monogram Tote,Beige,Jacquard,Large,Hanoi,31,17,48,Winter,285,228,180,-48
+San Francisco Centre,Ella Tote,Metallic,Pebbled Leather,Large,Ho Chi Minh City,48,14,62,Summer,217,217,257,40
+Soho,Britten Tote,Gray,Jacquard,Mini,Da Nang,46,15,61,Winter,129,103,58,-45
+San Francisco Centre,Robinson Tote,Pink,Coated Canvas,Mini,Ho Chi Minh City,44,14,58,Fall,146,160,42,-118
+Westfield World Trade Center,Britten Tote,Green,Pebbled Leather,Medium,Ho Chi Minh City,47,18,65,Spring,142,170,3,-167
+The Galleria,Gemini Link Tote,Purple,Jacquard,Mini,Ho Chi Minh City,44,18,62,Winter,242,193,176,-17
+Oak Street,McGraw Tote,Blue,Leather,Small,Shenzhen,45,15,60,Winter,249,199,62,-137
+NorthPark Center,Perry Tote,Gray,Coated Canvas,Mini,Shenzhen,31,14,45,Spring,220,264,289,25
+Rodeo Drive,Perry Tote,White,Canvas,Small,Hanoi,44,16,60,Winter,187,149,174,25
+NorthPark Center,Britten Tote,Black,Canvas,Small,Ho Chi Minh City,30,14,44,Summer,186,186,69,-117
+Rodeo Drive,Britten Tote,Yellow,Jacquard,Mini,Guangzhou,41,16,57,Winter,195,156,12,-144
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Blue,Jacquard,Large,Shenzhen,45,14,59,Summer,212,212,262,50
+Oak Street,Ella Tote,Green,Canvas,Medium,Da Nang,50,17,67,Winter,97,77,41,-36
+The Galleria,Perry Tote,Purple,Coated Canvas,Small,Da Nang,40,14,54,Spring,54,64,7,-57
+Rodeo Drive,T Monogram Tote,Purple,Coated Canvas,Small,Da Nang,36,14,50,Spring,217,260,141,-119
+Oak Street,Ella Tote,Pink,Pebbled Leather,Large,Hanoi,36,17,53,Fall,176,193,212,19
+South Coast Plaza,T Monogram Tote,Red,Coated Canvas,Large,Da Nang,48,18,66,Fall,162,178,165,-13
+Yorkdale Shopping Centre,Ella Tote,Purple,Jacquard,Medium,Shenzhen,32,17,49,Fall,103,113,28,-85
+Madison Avenue,Gemini Link Tote,Gray,Jacquard,Large,Guangzhou,48,17,65,Summer,61,61,43,-18
+Aventura Mall,Perry Tote,Green,Coated Canvas,Medium,Shenzhen,34,15,49,Fall,133,146,193,47
+NorthPark Center,Britten Tote,Metallic,Leather,Mini,Hanoi,38,17,55,Summer,167,167,189,22
+Madison Avenue,Britten Tote,Beige,Leather,Large,Ho Chi Minh City,31,18,49,Summer,87,87,77,-10
+El Palacio de Hierro (Polanco),Ella Tote,Pink,Jacquard,Small,Guangzhou,41,14,55,Winter,51,40,66,26
+Oak Street,Britten Tote,Pink,Canvas,Mini,Guangzhou,48,15,63,Fall,110,121,116,-5
+Westfield World Trade Center,Perry Tote,Pink,Canvas,Medium,Shenzhen,45,18,63,Winter,235,188,226,38
+South Coast Plaza,Britten Tote,Green,Pebbled Leather,Mini,Shenzhen,34,17,51,Fall,217,238,113,-125
+Aventura Mall,T Monogram Tote,Beige,Coated Canvas,Medium,Guangzhou,37,18,55,Winter,133,106,129,23
+Soho,McGraw Tote,Metallic,Leather,Mini,Guangzhou,48,14,62,Spring,285,342,273,-69
+Pacific Centre,Kira Chevron Tote,Black,Leather,Medium,Shenzhen,43,18,61,Winter,187,149,143,-6
+Soho,Robinson Tote,Metallic,Pebbled Leather,Large,Shenzhen,36,14,50,Winter,266,212,72,-140
+The Galleria,Britten Tote,Metallic,Coated Canvas,Mini,Ho Chi Minh City,36,18,54,Spring,89,106,31,-75
+The Galleria,Robinson Tote,Beige,Pebbled Leather,Small,Hanoi,50,16,66,Winter,232,185,65,-120
+Rodeo Drive,Robinson Tote,Yellow,Pebbled Leather,Medium,Da Nang,46,16,62,Fall,139,152,54,-98
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Black,Leather,Large,Ho Chi Minh City,46,14,60,Fall,101,111,114,3
+Westfield World Trade Center,Perry Tote,Gray,Pebbled Leather,Mini,Ho Chi Minh City,46,14,60,Spring,60,72,107,35
+El Palacio de Hierro (Polanco),Britten Tote,Black,Jacquard,Large,Da Nang,31,16,47,Spring,178,213,250,37
+NorthPark Center,Gemini Link Tote,Brown,Pebbled Leather,Small,Hanoi,50,17,67,Summer,55,55,36,-19
+Bal Harbour Shops,Robinson Tote,Beige,Leather,Small,Hanoi,33,14,47,Winter,239,191,15,-176
+The Galleria,Kira Chevron Tote,Pink,Jacquard,Small,Da Nang,50,18,68,Fall,159,174,148,-26
+Rodeo Drive,Robinson Tote,White,Canvas,Small,Ho Chi Minh City,30,15,45,Fall,66,72,72,0
+NorthPark Center,McGraw Tote,Yellow,Jacquard,Large,Shenzhen,32,17,49,Fall,222,244,145,-99
+South Coast Plaza,Kira Chevron Tote,Beige,Coated Canvas,Large,Da Nang,46,16,62,Winter,81,64,73,9
+El Palacio de Hierro (Polanco),Britten Tote,Red,Leather,Mini,Guangzhou,39,15,54,Spring,135,162,191,29
+Oak Street,T Monogram Tote,Blue,Leather,Small,Da Nang,46,18,64,Spring,231,277,264,-13
+Madison Avenue,T Monogram Tote,White,Canvas,Mini,Shenzhen,32,18,50,Spring,84,100,45,-55
+Bal Harbour Shops,T Monogram Tote,Green,Leather,Medium,Guangzhou,46,15,61,Fall,261,287,51,-236
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Blue,Leather,Mini,Hanoi,32,16,48,Winter,80,64,103,39
+Oak Street,Britten Tote,Metallic,Coated Canvas,Large,Shenzhen,45,18,63,Spring,283,339,94,-245
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,White,Leather,Medium,Shenzhen,40,18,58,Summer,154,154,67,-87
+Rodeo Drive,T Monogram Tote,Metallic,Pebbled Leather,Large,Hanoi,34,17,51,Winter,66,52,45,-7
+South Coast Plaza,T Monogram Tote,Red,Coated Canvas,Mini,Ho Chi Minh City,31,17,48,Summer,179,179,159,-20
+Pacific Centre,T Monogram Tote,Blue,Canvas,Small,Shenzhen,49,15,64,Winter,279,223,38,-185
+San Francisco Centre,Britten Tote,Purple,Canvas,Medium,Da Nang,41,18,59,Summer,280,280,23,-257
+San Francisco Centre,Robinson Tote,Yellow,Pebbled Leather,Mini,Hanoi,30,14,44,Fall,205,225,163,-62
+El Palacio de Hierro (Polanco),T Monogram Tote,Metallic,Coated Canvas,Large,Ho Chi Minh City,41,18,59,Winter,194,155,138,-17
+The Galleria,Kira Chevron Tote,Brown,Jacquard,Medium,Da Nang,36,17,53,Winter,231,184,31,-153
+Westfield World Trade Center,Perry Tote,Pink,Coated Canvas,Medium,Hanoi,43,15,58,Winter,161,128,111,-17
+Yorkdale Shopping Centre,Ella Tote,Beige,Coated Canvas,Small,Shenzhen,40,16,56,Winter,279,223,107,-116
+NorthPark Center,Robinson Tote,Purple,Leather,Small,Hanoi,43,18,61,Spring,211,253,14,-239
+Pacific Centre,Robinson Tote,Black,Leather,Large,Hanoi,37,14,51,Spring,133,159,76,-83
+El Palacio de Hierro (Santa Fe),Britten Tote,Blue,Leather,Small,Ho Chi Minh City,40,14,54,Winter,151,120,164,44
+Aventura Mall,Kira Chevron Tote,Brown,Pebbled Leather,Large,Ho Chi Minh City,32,16,48,Fall,71,78,100,22
+El Palacio de Hierro (Polanco),Britten Tote,Brown,Jacquard,Medium,Hanoi,44,14,58,Fall,294,323,108,-215
+Rodeo Drive,McGraw Tote,Blue,Coated Canvas,Small,Shenzhen,46,18,64,Summer,283,283,262,-21
+Oak Street,Ella Tote,Blue,Leather,Mini,Hanoi,42,15,57,Winter,130,104,6,-98
+The Galleria,Kira Chevron Tote,Beige,Leather,Large,Guangzhou,39,18,57,Winter,78,62,48,-14
+El Palacio de Hierro (Polanco),Robinson Tote,Blue,Pebbled Leather,Small,Shenzhen,37,15,52,Summer,296,296,127,-169
+Pacific Centre,Kira Chevron Tote,Beige,Coated Canvas,Large,Hanoi,38,17,55,Spring,293,351,401,50
+Oak Street,Gemini Link Tote,Gray,Leather,Large,Shenzhen,36,15,51,Summer,127,127,128,1
+Pacific Centre,Robinson Tote,Green,Canvas,Mini,Guangzhou,43,14,57,Summer,162,162,102,-60
+The Galleria,Robinson Tote,Red,Coated Canvas,Small,Ho Chi Minh City,47,16,63,Fall,176,193,20,-173
+South Coast Plaza,Ella Tote,Red,Jacquard,Large,Guangzhou,50,16,66,Winter,67,53,20,-33
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Green,Leather,Small,Da Nang,38,18,56,Fall,206,226,66,-160
+El Palacio de Hierro (Santa Fe),Robinson Tote,Yellow,Leather,Small,Ho Chi Minh City,43,15,58,Fall,294,323,362,39
+Oak Street,T Monogram Tote,Brown,Leather,Small,Guangzhou,43,15,58,Summer,96,96,88,-8
+South Coast Plaza,McGraw Tote,Multi,Leather,Medium,Ho Chi Minh City,30,14,44,Summer,130,130,78,-52
+San Francisco Centre,T Monogram Tote,Brown,Jacquard,Medium,Da Nang,36,16,52,Summer,117,117,134,17
+Pacific Centre,Perry Tote,Green,Pebbled Leather,Mini,Ho Chi Minh City,41,15,56,Fall,53,58,23,-35
+El Palacio de Hierro (Polanco),Britten Tote,Multi,Leather,Small,Guangzhou,44,18,62,Spring,158,189,79,-110
+Soho,McGraw Tote,Red,Canvas,Medium,Guangzhou,41,15,56,Fall,158,173,147,-26
+El Palacio de Hierro (Polanco),Perry Tote,Multi,Canvas,Small,Ho Chi Minh City,44,18,62,Fall,126,138,68,-70
+Bal Harbour Shops,McGraw Tote,Purple,Jacquard,Medium,Shenzhen,30,17,47,Summer,240,240,184,-56
+El Palacio de Hierro (Santa Fe),Robinson Tote,Gray,Leather,Small,Ho Chi Minh City,48,14,62,Winter,143,114,19,-95
+Madison Avenue,Gemini Link Tote,White,Leather,Medium,Guangzhou,47,14,61,Fall,194,213,147,-66
+Madison Avenue,T Monogram Tote,Blue,Jacquard,Large,Shenzhen,36,15,51,Spring,77,92,5,-87
+Bal Harbour Shops,Britten Tote,Gray,Pebbled Leather,Mini,Hanoi,33,14,47,Winter,258,206,60,-146
+Aventura Mall,Ella Tote,Gray,Leather,Mini,Guangzhou,50,14,64,Spring,287,344,182,-162
+NorthPark Center,T Monogram Tote,Pink,Jacquard,Large,Ho Chi Minh City,32,17,49,Winter,154,123,110,-13
+The Galleria,Gemini Link Tote,Pink,Coated Canvas,Small,Da Nang,33,15,48,Summer,204,204,240,36
+Madison Avenue,Britten Tote,Brown,Leather,Medium,Da Nang,50,18,68,Spring,213,255,53,-202
+El Palacio de Hierro (Polanco),Ella Tote,Brown,Coated Canvas,Mini,Guangzhou,33,15,48,Spring,209,250,175,-75
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Brown,Jacquard,Large,Ho Chi Minh City,33,16,49,Fall,267,293,200,-93
+NorthPark Center,Kira Chevron Tote,Multi,Leather,Small,Guangzhou,43,15,58,Summer,161,161,37,-124
+El Palacio de Hierro (Polanco),T Monogram Tote,Purple,Pebbled Leather,Mini,Da Nang,37,17,54,Summer,178,178,101,-77
+Westfield World Trade Center,T Monogram Tote,White,Canvas,Large,Hanoi,45,14,59,Summer,223,223,42,-181
+South Coast Plaza,T Monogram Tote,Blue,Leather,Large,Guangzhou,45,17,62,Spring,60,72,57,-15
+Madison Avenue,Robinson Tote,Beige,Jacquard,Mini,Guangzhou,38,17,55,Winter,115,92,79,-13
+Bal Harbour Shops,T Monogram Tote,Pink,Coated Canvas,Large,Hanoi,43,15,58,Spring,84,100,67,-33
+Westfield World Trade Center,McGraw Tote,White,Coated Canvas,Mini,Guangzhou,43,16,59,Fall,229,251,33,-218
+Rodeo Drive,Ella Tote,Brown,Canvas,Large,Ho Chi Minh City,35,16,51,Winter,251,200,95,-105
+Westfield World Trade Center,Britten Tote,Brown,Canvas,Mini,Guangzhou,34,15,49,Fall,215,236,34,-202
+The Galleria,T Monogram Tote,Metallic,Jacquard,Mini,Hanoi,43,18,61,Spring,256,307,135,-172
+Pacific Centre,Gemini Link Tote,Black,Canvas,Large,Shenzhen,37,15,52,Summer,183,183,3,-180
+NorthPark Center,Britten Tote,Green,Jacquard,Mini,Da Nang,34,16,50,Winter,216,172,213,41
+El Palacio de Hierro (Polanco),Gemini Link Tote,White,Coated Canvas,Large,Hanoi,47,15,62,Winter,137,109,37,-72
+Bal Harbour Shops,Robinson Tote,Blue,Canvas,Small,Da Nang,34,17,51,Spring,197,236,112,-124
+Rodeo Drive,Britten Tote,Metallic,Pebbled Leather,Small,Guangzhou,48,17,65,Summer,297,297,114,-183
+Soho,Perry Tote,Yellow,Jacquard,Medium,Shenzhen,39,15,54,Winter,192,153,169,16
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Yellow,Jacquard,Medium,Guangzhou,39,17,56,Spring,58,69,111,42
+The Galleria,Gemini Link Tote,Brown,Pebbled Leather,Small,Ho Chi Minh City,44,17,61,Winter,110,88,92,4
+Soho,Britten Tote,White,Jacquard,Large,Da Nang,41,14,55,Fall,104,114,99,-15
+Aventura Mall,T Monogram Tote,Gray,Canvas,Large,Shenzhen,41,16,57,Summer,229,229,45,-184
+Madison Avenue,Britten Tote,Metallic,Coated Canvas,Small,Da Nang,50,18,68,Winter,286,228,143,-85
+Westfield World Trade Center,Perry Tote,Red,Jacquard,Small,Guangzhou,38,15,53,Summer,191,191,217,26
+Rodeo Drive,Britten Tote,Blue,Leather,Medium,Hanoi,47,15,62,Fall,209,229,64,-165
+Pacific Centre,T Monogram Tote,Red,Jacquard,Small,Hanoi,31,17,48,Spring,99,118,10,-108
+NorthPark Center,McGraw Tote,Red,Coated Canvas,Medium,Da Nang,50,16,66,Winter,132,105,105,0
+NorthPark Center,Britten Tote,Red,Leather,Medium,Hanoi,43,18,61,Winter,136,108,109,1
+Westfield World Trade Center,Perry Tote,Green,Leather,Small,Ho Chi Minh City,41,17,58,Summer,52,52,50,-2
+El Palacio de Hierro (Polanco),McGraw Tote,Green,Pebbled Leather,Large,Ho Chi Minh City,37,17,54,Spring,173,207,129,-78
+Pacific Centre,Gemini Link Tote,Pink,Coated Canvas,Large,Ho Chi Minh City,42,16,58,Summer,272,272,53,-219
+El Palacio de Hierro (Santa Fe),Robinson Tote,Red,Pebbled Leather,Mini,Da Nang,32,15,47,Winter,112,89,106,17
+South Coast Plaza,Gemini Link Tote,Beige,Pebbled Leather,Large,Da Nang,30,15,45,Winter,272,217,74,-143
+Westfield World Trade Center,Perry Tote,Red,Leather,Small,Ho Chi Minh City,45,18,63,Fall,197,216,127,-89
+South Coast Plaza,Kira Chevron Tote,Green,Coated Canvas,Small,Shenzhen,33,14,47,Summer,50,50,27,-23
+Pacific Centre,Robinson Tote,White,Pebbled Leather,Medium,Guangzhou,39,15,54,Spring,178,213,19,-194
+Bal Harbour Shops,Perry Tote,Blue,Jacquard,Medium,Shenzhen,43,16,59,Spring,140,168,159,-9
+Soho,Britten Tote,Metallic,Pebbled Leather,Large,Hanoi,35,16,51,Spring,130,156,61,-95
+El Palacio de Hierro (Santa Fe),Robinson Tote,Metallic,Canvas,Small,Shenzhen,43,15,58,Fall,139,152,183,31
+Yorkdale Shopping Centre,Gemini Link Tote,Pink,Pebbled Leather,Mini,Da Nang,38,15,53,Fall,134,147,40,-107
+The Galleria,Kira Chevron Tote,Gray,Canvas,Medium,Guangzhou,44,14,58,Summer,98,98,68,-30
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Purple,Canvas,Medium,Guangzhou,37,14,51,Winter,76,60,43,-17
+Soho,Robinson Tote,Pink,Canvas,Mini,Guangzhou,42,14,56,Spring,79,94,41,-53
+El Palacio de Hierro (Polanco),Gemini Link Tote,White,Leather,Large,Shenzhen,50,16,66,Winter,178,142,105,-37
+El Palacio de Hierro (Polanco),Gemini Link Tote,Blue,Pebbled Leather,Large,Ho Chi Minh City,31,17,48,Fall,162,178,194,16
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Yellow,Coated Canvas,Medium,Hanoi,38,17,55,Summer,95,95,1,-94
+Oak Street,Gemini Link Tote,Pink,Coated Canvas,Mini,Ho Chi Minh City,50,15,65,Winter,89,71,72,1
+South Coast Plaza,T Monogram Tote,Blue,Canvas,Small,Hanoi,41,14,55,Winter,148,118,168,50
+NorthPark Center,T Monogram Tote,Beige,Jacquard,Medium,Shenzhen,37,16,53,Fall,284,312,318,6
+Soho,Britten Tote,Beige,Pebbled Leather,Mini,Shenzhen,44,14,58,Fall,270,297,227,-70
+Westfield World Trade Center,Robinson Tote,White,Coated Canvas,Large,Guangzhou,39,15,54,Winter,279,223,97,-126
+Westfield World Trade Center,Kira Chevron Tote,Brown,Coated Canvas,Large,Shenzhen,32,18,50,Summer,222,222,168,-54
+Aventura Mall,McGraw Tote,Yellow,Canvas,Medium,Da Nang,43,18,61,Spring,258,309,309,0
+El Palacio de Hierro (Santa Fe),McGraw Tote,Green,Leather,Small,Hanoi,48,14,62,Fall,65,71,81,10
+The Galleria,Gemini Link Tote,Beige,Leather,Medium,Da Nang,46,15,61,Winter,154,123,64,-59
+Westfield World Trade Center,Ella Tote,Blue,Coated Canvas,Medium,Shenzhen,48,17,65,Summer,195,195,173,-22
+Pacific Centre,Ella Tote,Metallic,Jacquard,Small,Hanoi,49,18,67,Fall,191,210,54,-156
+Aventura Mall,Ella Tote,Green,Pebbled Leather,Large,Shenzhen,37,14,51,Winter,293,234,128,-106
+South Coast Plaza,Perry Tote,Blue,Canvas,Small,Hanoi,40,16,56,Winter,233,186,84,-102
+The Galleria,Kira Chevron Tote,Beige,Jacquard,Small,Ho Chi Minh City,48,18,66,Fall,168,184,44,-140
+Soho,Britten Tote,Red,Coated Canvas,Large,Ho Chi Minh City,41,18,59,Fall,114,125,97,-28
+Westfield World Trade Center,Perry Tote,Gray,Pebbled Leather,Small,Da Nang,35,15,50,Spring,159,190,148,-42
+Yorkdale Shopping Centre,Gemini Link Tote,Yellow,Coated Canvas,Large,Shenzhen,43,15,58,Summer,204,204,72,-132
+South Coast Plaza,McGraw Tote,Beige,Pebbled Leather,Large,Shenzhen,41,15,56,Spring,293,351,358,7
+San Francisco Centre,Britten Tote,Pink,Canvas,Medium,Shenzhen,48,17,65,Winter,120,96,125,29
+Yorkdale Shopping Centre,Gemini Link Tote,Blue,Coated Canvas,Large,Ho Chi Minh City,49,17,66,Fall,246,270,33,-237
+The Galleria,T Monogram Tote,Green,Coated Canvas,Large,Ho Chi Minh City,47,16,63,Spring,184,220,228,8
+The Galleria,Gemini Link Tote,Black,Pebbled Leather,Small,Ho Chi Minh City,46,18,64,Winter,266,212,208,-4
+Aventura Mall,McGraw Tote,Pink,Leather,Small,Da Nang,40,17,57,Winter,175,140,18,-122
+Pacific Centre,Gemini Link Tote,Yellow,Jacquard,Large,Da Nang,40,16,56,Summer,125,125,97,-28
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Pink,Pebbled Leather,Small,Shenzhen,30,15,45,Winter,54,43,79,36
+Oak Street,T Monogram Tote,Gray,Canvas,Large,Guangzhou,48,14,62,Fall,86,94,59,-35
+Pacific Centre,T Monogram Tote,Beige,Pebbled Leather,Large,Da Nang,46,14,60,Fall,78,85,38,-47
+El Palacio de Hierro (Santa Fe),Britten Tote,Purple,Coated Canvas,Medium,Ho Chi Minh City,44,16,60,Fall,97,106,114,8
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Metallic,Jacquard,Medium,Hanoi,38,14,52,Winter,67,53,90,37
+El Palacio de Hierro (Polanco),Perry Tote,Brown,Leather,Small,Shenzhen,36,17,53,Spring,178,213,130,-83
+Aventura Mall,McGraw Tote,Green,Canvas,Medium,Shenzhen,46,18,64,Summer,278,278,150,-128
+Oak Street,T Monogram Tote,Gray,Coated Canvas,Mini,Shenzhen,45,16,61,Fall,185,203,218,15
+NorthPark Center,Perry Tote,Brown,Pebbled Leather,Small,Guangzhou,36,16,52,Fall,89,97,72,-25
+El Palacio de Hierro (Polanco),Robinson Tote,Black,Canvas,Medium,Guangzhou,42,16,58,Spring,147,176,77,-99
+Rodeo Drive,Perry Tote,Black,Pebbled Leather,Medium,Hanoi,30,18,48,Fall,114,125,84,-41
+El Palacio de Hierro (Polanco),Britten Tote,Black,Pebbled Leather,Medium,Da Nang,39,15,54,Spring,249,298,40,-258
+Oak Street,Kira Chevron Tote,Gray,Coated Canvas,Small,Guangzhou,35,17,52,Winter,281,224,28,-196
+Rodeo Drive,Robinson Tote,Yellow,Coated Canvas,Small,Da Nang,31,15,46,Winter,195,156,165,9
+Aventura Mall,T Monogram Tote,Metallic,Pebbled Leather,Mini,Hanoi,50,17,67,Fall,152,167,177,10
+San Francisco Centre,Britten Tote,Purple,Jacquard,Mini,Da Nang,38,14,52,Spring,296,355,279,-76
+Oak Street,Britten Tote,Gray,Canvas,Large,Guangzhou,32,16,48,Summer,259,259,169,-90
+Bal Harbour Shops,Ella Tote,Gray,Coated Canvas,Medium,Ho Chi Minh City,37,15,52,Spring,224,268,295,27
+NorthPark Center,Robinson Tote,Black,Canvas,Medium,Shenzhen,47,16,63,Fall,66,72,122,50
+The Galleria,Britten Tote,Black,Pebbled Leather,Small,Hanoi,49,17,66,Summer,253,253,300,47
+Bal Harbour Shops,T Monogram Tote,Beige,Pebbled Leather,Mini,Ho Chi Minh City,30,16,46,Summer,105,105,82,-23
+NorthPark Center,Ella Tote,Pink,Leather,Mini,Hanoi,44,18,62,Summer,251,251,23,-228
+The Galleria,Gemini Link Tote,Pink,Leather,Large,Shenzhen,39,17,56,Fall,224,246,249,3
+Bal Harbour Shops,Britten Tote,Green,Canvas,Medium,Guangzhou,33,16,49,Winter,91,72,111,39
+Madison Avenue,T Monogram Tote,White,Leather,Small,Da Nang,35,15,50,Winter,242,193,205,12
+Pacific Centre,T Monogram Tote,Brown,Coated Canvas,Medium,Guangzhou,39,17,56,Summer,142,142,89,-53
+Rodeo Drive,Gemini Link Tote,Multi,Pebbled Leather,Medium,Hanoi,47,17,64,Spring,99,118,47,-71
+Bal Harbour Shops,Ella Tote,Metallic,Leather,Medium,Ho Chi Minh City,46,14,60,Fall,230,253,1,-252
+El Palacio de Hierro (Polanco),Britten Tote,Green,Leather,Mini,Shenzhen,31,16,47,Spring,50,60,18,-42
+Yorkdale Shopping Centre,Gemini Link Tote,Metallic,Leather,Medium,Guangzhou,35,15,50,Summer,214,214,251,37
+Rodeo Drive,T Monogram Tote,Black,Pebbled Leather,Mini,Da Nang,30,15,45,Fall,90,99,63,-36
+NorthPark Center,Ella Tote,Red,Canvas,Medium,Ho Chi Minh City,48,16,64,Winter,105,84,40,-44
+San Francisco Centre,T Monogram Tote,Gray,Pebbled Leather,Medium,Da Nang,38,15,53,Winter,265,212,260,48
+South Coast Plaza,Gemini Link Tote,Gray,Jacquard,Small,Hanoi,38,14,52,Summer,89,89,72,-17
+Soho,Perry Tote,Brown,Jacquard,Mini,Hanoi,34,15,49,Winter,200,160,190,30
+Madison Avenue,McGraw Tote,Multi,Pebbled Leather,Large,Ho Chi Minh City,33,15,48,Summer,249,249,51,-198
+San Francisco Centre,Kira Chevron Tote,Red,Leather,Large,Da Nang,34,17,51,Winter,293,234,165,-69
+El Palacio de Hierro (Polanco),Perry Tote,Yellow,Pebbled Leather,Medium,Ho Chi Minh City,34,18,52,Spring,300,360,129,-231
+Bal Harbour Shops,Ella Tote,Yellow,Pebbled Leather,Medium,Guangzhou,31,15,46,Summer,148,148,102,-46
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Gray,Pebbled Leather,Large,Hanoi,36,14,50,Winter,169,135,46,-89
+Westfield World Trade Center,T Monogram Tote,Gray,Coated Canvas,Small,Ho Chi Minh City,33,16,49,Winter,121,96,133,37
+NorthPark Center,Britten Tote,Beige,Leather,Medium,Hanoi,43,15,58,Spring,284,340,177,-163
+Pacific Centre,Gemini Link Tote,Beige,Canvas,Mini,Shenzhen,41,14,55,Winter,187,149,197,48
+Yorkdale Shopping Centre,Gemini Link Tote,Yellow,Jacquard,Small,Guangzhou,49,14,63,Winter,228,182,208,26
+The Galleria,Perry Tote,Purple,Jacquard,Small,Hanoi,49,14,63,Summer,270,270,24,-246
+Aventura Mall,T Monogram Tote,Red,Leather,Mini,Da Nang,36,16,52,Spring,199,238,153,-85
+NorthPark Center,Ella Tote,Purple,Leather,Medium,Hanoi,46,15,61,Spring,140,168,131,-37
+The Galleria,Britten Tote,Gray,Coated Canvas,Mini,Shenzhen,49,15,64,Summer,226,226,26,-200
+Bal Harbour Shops,McGraw Tote,Black,Coated Canvas,Large,Hanoi,30,17,47,Spring,244,292,196,-96
+Yorkdale Shopping Centre,Perry Tote,White,Pebbled Leather,Mini,Hanoi,42,18,60,Summer,69,69,57,-12
+The Galleria,T Monogram Tote,Yellow,Jacquard,Small,Hanoi,49,14,63,Summer,196,196,185,-11
+The Galleria,Robinson Tote,Purple,Jacquard,Large,Ho Chi Minh City,32,15,47,Spring,97,116,39,-77
+El Palacio de Hierro (Polanco),Robinson Tote,White,Jacquard,Mini,Ho Chi Minh City,38,16,54,Spring,166,199,186,-13
+Oak Street,Perry Tote,Beige,Canvas,Small,Guangzhou,48,17,65,Summer,233,233,222,-11
+Madison Avenue,Britten Tote,Multi,Canvas,Medium,Shenzhen,44,16,60,Fall,62,68,78,10
+El Palacio de Hierro (Santa Fe),Ella Tote,White,Canvas,Small,Ho Chi Minh City,40,16,56,Winter,86,68,97,29
+The Galleria,Robinson Tote,Beige,Leather,Small,Shenzhen,31,17,48,Spring,177,212,8,-204
+Aventura Mall,Robinson Tote,Brown,Canvas,Large,Hanoi,39,14,53,Winter,225,180,168,-12
+NorthPark Center,T Monogram Tote,White,Leather,Large,Hanoi,33,15,48,Fall,238,261,200,-61
+Yorkdale Shopping Centre,McGraw Tote,Black,Leather,Large,Shenzhen,45,15,60,Winter,184,147,35,-112
+Soho,Perry Tote,Gray,Jacquard,Medium,Guangzhou,49,16,65,Summer,174,174,217,43
+Oak Street,T Monogram Tote,Multi,Coated Canvas,Mini,Guangzhou,35,18,53,Spring,190,228,61,-167
+San Francisco Centre,Britten Tote,Beige,Canvas,Large,Da Nang,30,14,44,Winter,199,159,107,-52
+Yorkdale Shopping Centre,T Monogram Tote,Purple,Coated Canvas,Mini,Hanoi,33,15,48,Winter,75,60,4,-56
+El Palacio de Hierro (Polanco),T Monogram Tote,Metallic,Coated Canvas,Small,Shenzhen,35,15,50,Spring,195,234,38,-196
+Madison Avenue,Kira Chevron Tote,Brown,Pebbled Leather,Medium,Shenzhen,49,18,67,Spring,117,140,110,-30
+Oak Street,Gemini Link Tote,Metallic,Pebbled Leather,Small,Hanoi,37,15,52,Summer,66,66,54,-12
+Aventura Mall,Robinson Tote,Black,Canvas,Mini,Shenzhen,41,16,57,Winter,161,128,33,-95
+Rodeo Drive,Ella Tote,Green,Jacquard,Large,Hanoi,42,14,56,Winter,226,180,145,-35
+Oak Street,Gemini Link Tote,Gray,Leather,Mini,Hanoi,48,17,65,Spring,174,208,240,32
+Rodeo Drive,Kira Chevron Tote,Yellow,Jacquard,Medium,Da Nang,36,15,51,Spring,299,358,67,-291
+San Francisco Centre,Ella Tote,Purple,Canvas,Small,Ho Chi Minh City,39,14,53,Winter,138,110,20,-90
+Pacific Centre,T Monogram Tote,Green,Pebbled Leather,Large,Shenzhen,36,17,53,Fall,78,85,94,9
+Rodeo Drive,Gemini Link Tote,Green,Pebbled Leather,Mini,Hanoi,36,16,52,Summer,217,217,179,-38
+Aventura Mall,Britten Tote,Black,Leather,Medium,Shenzhen,47,18,65,Summer,151,151,163,12
+Westfield World Trade Center,Britten Tote,Metallic,Canvas,Small,Shenzhen,32,14,46,Summer,51,51,13,-38
+Aventura Mall,Ella Tote,Brown,Canvas,Mini,Da Nang,45,17,62,Fall,210,231,69,-162
+San Francisco Centre,Perry Tote,Beige,Canvas,Large,Hanoi,35,16,51,Winter,119,95,116,21
+NorthPark Center,McGraw Tote,Green,Canvas,Small,Guangzhou,50,17,67,Spring,63,75,6,-69
+Soho,Robinson Tote,Green,Leather,Mini,Hanoi,32,16,48,Spring,140,168,206,38
+Madison Avenue,T Monogram Tote,Metallic,Canvas,Small,Guangzhou,31,14,45,Winter,179,143,110,-33
+Yorkdale Shopping Centre,Gemini Link Tote,Multi,Pebbled Leather,Large,Guangzhou,42,16,58,Spring,175,210,43,-167
+Soho,Ella Tote,Pink,Pebbled Leather,Medium,Da Nang,44,14,58,Summer,141,141,66,-75
+El Palacio de Hierro (Polanco),Gemini Link Tote,Green,Canvas,Mini,Da Nang,35,14,49,Winter,88,70,90,20
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Metallic,Coated Canvas,Small,Shenzhen,37,14,51,Summer,183,183,168,-15
+El Palacio de Hierro (Santa Fe),Robinson Tote,Green,Leather,Small,Ho Chi Minh City,34,18,52,Summer,255,255,51,-204
+The Galleria,Robinson Tote,Red,Jacquard,Small,Ho Chi Minh City,34,14,48,Fall,180,198,47,-151
+Westfield World Trade Center,Kira Chevron Tote,Gray,Jacquard,Mini,Hanoi,44,18,62,Winter,69,55,11,-44
+Yorkdale Shopping Centre,McGraw Tote,Yellow,Leather,Small,Shenzhen,37,16,53,Summer,146,146,51,-95
+San Francisco Centre,Kira Chevron Tote,Black,Canvas,Large,Ho Chi Minh City,31,17,48,Winter,273,218,222,4
+Rodeo Drive,Ella Tote,Beige,Canvas,Mini,Ho Chi Minh City,49,15,64,Summer,296,296,107,-189
+Pacific Centre,Kira Chevron Tote,Metallic,Jacquard,Small,Shenzhen,33,17,50,Summer,110,110,92,-18
+South Coast Plaza,McGraw Tote,Blue,Canvas,Small,Shenzhen,42,17,59,Summer,77,77,85,8
+Soho,Robinson Tote,Blue,Jacquard,Mini,Hanoi,40,18,58,Fall,54,59,52,-7
+Rodeo Drive,McGraw Tote,Blue,Leather,Medium,Ho Chi Minh City,32,17,49,Fall,300,330,191,-139
+NorthPark Center,T Monogram Tote,Multi,Jacquard,Medium,Shenzhen,40,14,54,Fall,292,321,236,-85
+The Galleria,Ella Tote,Metallic,Canvas,Large,Shenzhen,45,14,59,Spring,63,75,84,9
+El Palacio de Hierro (Santa Fe),Ella Tote,Gray,Coated Canvas,Large,Guangzhou,34,17,51,Fall,93,102,67,-35
+Bal Harbour Shops,Britten Tote,White,Pebbled Leather,Small,Ho Chi Minh City,46,16,62,Summer,213,213,44,-169
+Aventura Mall,T Monogram Tote,Brown,Leather,Medium,Hanoi,49,17,66,Winter,184,147,13,-134
+Rodeo Drive,Britten Tote,Yellow,Leather,Small,Shenzhen,48,15,63,Summer,151,151,4,-147
+Yorkdale Shopping Centre,Britten Tote,Blue,Canvas,Mini,Guangzhou,34,17,51,Fall,269,295,305,10
+El Palacio de Hierro (Santa Fe),Robinson Tote,Beige,Canvas,Mini,Guangzhou,36,14,50,Fall,279,306,63,-243
+South Coast Plaza,Kira Chevron Tote,Brown,Canvas,Mini,Shenzhen,47,16,63,Winter,253,202,107,-95
+Madison Avenue,Britten Tote,Metallic,Leather,Medium,Hanoi,48,17,65,Fall,192,211,209,-2
+Madison Avenue,Britten Tote,Red,Pebbled Leather,Medium,Hanoi,43,15,58,Fall,279,306,184,-122
+Yorkdale Shopping Centre,T Monogram Tote,Purple,Leather,Medium,Shenzhen,33,16,49,Winter,266,212,120,-92
+Pacific Centre,McGraw Tote,White,Leather,Medium,Ho Chi Minh City,36,15,51,Spring,192,230,8,-222
+Soho,Kira Chevron Tote,Brown,Canvas,Large,Da Nang,47,17,64,Summer,298,298,36,-262
+The Galleria,T Monogram Tote,Brown,Canvas,Large,Ho Chi Minh City,48,17,65,Fall,128,140,4,-136
+Soho,Gemini Link Tote,Pink,Leather,Medium,Ho Chi Minh City,35,14,49,Winter,290,232,267,35
+Westfield World Trade Center,T Monogram Tote,Green,Coated Canvas,Medium,Guangzhou,41,17,58,Fall,242,266,185,-81
+El Palacio de Hierro (Santa Fe),Britten Tote,Blue,Coated Canvas,Large,Da Nang,40,15,55,Fall,94,103,87,-16
+The Galleria,T Monogram Tote,Red,Coated Canvas,Medium,Hanoi,47,15,62,Winter,268,214,91,-123
+Pacific Centre,Gemini Link Tote,Black,Coated Canvas,Small,Guangzhou,43,14,57,Spring,289,346,223,-123
+Westfield World Trade Center,T Monogram Tote,Brown,Leather,Small,Ho Chi Minh City,37,17,54,Winter,176,140,85,-55
+Aventura Mall,Perry Tote,Multi,Coated Canvas,Small,Shenzhen,30,14,44,Summer,175,175,101,-74
+El Palacio de Hierro (Santa Fe),Perry Tote,Pink,Leather,Small,Guangzhou,32,16,48,Fall,70,77,90,13
+Rodeo Drive,T Monogram Tote,Blue,Pebbled Leather,Small,Shenzhen,43,17,60,Winter,97,77,83,6
+Rodeo Drive,T Monogram Tote,Gray,Canvas,Small,Ho Chi Minh City,40,16,56,Spring,79,94,111,17
+NorthPark Center,Robinson Tote,Yellow,Canvas,Medium,Hanoi,39,14,53,Summer,74,74,23,-51
+Rodeo Drive,Perry Tote,Metallic,Jacquard,Medium,Shenzhen,50,15,65,Spring,165,198,9,-189
+Yorkdale Shopping Centre,Britten Tote,Blue,Canvas,Large,Shenzhen,36,14,50,Winter,92,73,99,26
+Yorkdale Shopping Centre,Britten Tote,Blue,Leather,Large,Guangzhou,40,16,56,Fall,128,140,158,18
+Madison Avenue,McGraw Tote,Green,Leather,Medium,Guangzhou,46,16,62,Spring,263,315,18,-297
+Oak Street,Ella Tote,Brown,Jacquard,Small,Hanoi,47,16,63,Fall,100,110,33,-77
+South Coast Plaza,Gemini Link Tote,Gray,Coated Canvas,Medium,Da Nang,39,15,54,Summer,287,287,38,-249
+Aventura Mall,Perry Tote,Beige,Leather,Large,Guangzhou,32,17,49,Spring,63,75,18,-57
+South Coast Plaza,Robinson Tote,Green,Leather,Small,Guangzhou,48,17,65,Winter,117,93,37,-56
+Bal Harbour Shops,Ella Tote,Green,Canvas,Small,Guangzhou,41,18,59,Fall,205,225,162,-63
+Yorkdale Shopping Centre,Gemini Link Tote,Black,Jacquard,Mini,Ho Chi Minh City,49,17,66,Spring,174,208,94,-114
+Pacific Centre,Gemini Link Tote,Green,Pebbled Leather,Medium,Da Nang,32,16,48,Summer,298,298,201,-97
+Rodeo Drive,Britten Tote,Black,Pebbled Leather,Large,Shenzhen,43,17,60,Summer,124,124,42,-82
+Bal Harbour Shops,T Monogram Tote,Metallic,Pebbled Leather,Mini,Ho Chi Minh City,48,15,63,Summer,58,58,8,-50
+Pacific Centre,T Monogram Tote,Pink,Coated Canvas,Large,Da Nang,35,14,49,Winter,75,60,11,-49
+Madison Avenue,Britten Tote,Black,Canvas,Small,Guangzhou,47,15,62,Summer,264,264,225,-39
+Rodeo Drive,Perry Tote,Yellow,Leather,Medium,Ho Chi Minh City,31,14,45,Winter,117,93,126,33
+San Francisco Centre,Gemini Link Tote,Gray,Canvas,Mini,Ho Chi Minh City,37,15,52,Spring,204,244,247,3
+Rodeo Drive,T Monogram Tote,Green,Pebbled Leather,Small,Shenzhen,49,14,63,Summer,299,299,244,-55
+South Coast Plaza,Perry Tote,Purple,Coated Canvas,Medium,Shenzhen,35,16,51,Fall,144,158,171,13
+Oak Street,Britten Tote,Metallic,Pebbled Leather,Small,Ho Chi Minh City,46,16,62,Spring,129,154,178,24
+El Palacio de Hierro (Polanco),Gemini Link Tote,Purple,Pebbled Leather,Medium,Hanoi,34,15,49,Winter,188,150,28,-122
+Pacific Centre,Ella Tote,Red,Jacquard,Small,Da Nang,30,16,46,Fall,132,145,113,-32
+Westfield World Trade Center,McGraw Tote,Pink,Pebbled Leather,Large,Guangzhou,36,15,51,Summer,68,68,13,-55
+San Francisco Centre,Robinson Tote,Pink,Leather,Mini,Shenzhen,40,16,56,Summer,152,152,82,-70
+Soho,Britten Tote,Yellow,Canvas,Small,Shenzhen,33,15,48,Summer,265,265,27,-238
+Aventura Mall,McGraw Tote,Green,Jacquard,Large,Shenzhen,35,15,50,Fall,167,183,89,-94
+South Coast Plaza,McGraw Tote,Red,Coated Canvas,Large,Shenzhen,40,18,58,Spring,186,223,158,-65
+Bal Harbour Shops,McGraw Tote,White,Pebbled Leather,Large,Guangzhou,47,14,61,Summer,195,195,212,17
+Madison Avenue,McGraw Tote,Gray,Leather,Small,Hanoi,35,17,52,Spring,230,276,228,-48
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Beige,Pebbled Leather,Medium,Hanoi,43,18,61,Spring,254,304,120,-184
+Oak Street,Gemini Link Tote,Blue,Canvas,Mini,Ho Chi Minh City,33,17,50,Winter,266,212,26,-186
+NorthPark Center,Perry Tote,Gray,Canvas,Mini,Guangzhou,47,18,65,Spring,52,62,77,15
+Oak Street,McGraw Tote,Yellow,Canvas,Medium,Shenzhen,32,18,50,Summer,111,111,17,-94
+San Francisco Centre,Robinson Tote,Black,Pebbled Leather,Mini,Guangzhou,35,17,52,Fall,94,103,55,-48
+El Palacio de Hierro (Santa Fe),McGraw Tote,Green,Canvas,Large,Hanoi,33,17,50,Fall,71,78,9,-69
+Madison Avenue,McGraw Tote,Brown,Canvas,Medium,Guangzhou,48,17,65,Summer,80,80,68,-12
+Aventura Mall,Robinson Tote,Black,Jacquard,Large,Hanoi,39,17,56,Fall,287,315,128,-187
+El Palacio de Hierro (Polanco),Britten Tote,Multi,Pebbled Leather,Medium,Da Nang,38,18,56,Summer,214,214,11,-203
+San Francisco Centre,Gemini Link Tote,Green,Canvas,Mini,Da Nang,39,16,55,Fall,157,172,147,-25
+Westfield World Trade Center,Ella Tote,Multi,Coated Canvas,Large,Shenzhen,36,16,52,Fall,229,251,132,-119
+Oak Street,Kira Chevron Tote,Black,Leather,Small,Guangzhou,41,14,55,Winter,141,112,149,37
+NorthPark Center,Gemini Link Tote,Yellow,Leather,Small,Shenzhen,36,14,50,Spring,131,157,183,26
+The Galleria,Perry Tote,Metallic,Jacquard,Mini,Guangzhou,34,14,48,Winter,234,187,96,-91
+Madison Avenue,Kira Chevron Tote,Metallic,Coated Canvas,Large,Da Nang,48,17,65,Summer,169,169,63,-106
+San Francisco Centre,Robinson Tote,Multi,Jacquard,Small,Hanoi,48,18,66,Summer,191,191,151,-40
+South Coast Plaza,Gemini Link Tote,Purple,Pebbled Leather,Large,Hanoi,38,17,55,Winter,253,202,231,29
+South Coast Plaza,T Monogram Tote,White,Pebbled Leather,Medium,Shenzhen,50,16,66,Fall,228,250,7,-243
+Aventura Mall,McGraw Tote,Blue,Pebbled Leather,Small,Shenzhen,47,17,64,Winter,106,84,59,-25
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Metallic,Jacquard,Small,Shenzhen,50,16,66,Winter,250,200,1,-199
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Yellow,Leather,Large,Da Nang,47,16,63,Spring,75,90,35,-55
+El Palacio de Hierro (Polanco),Britten Tote,Red,Leather,Large,Hanoi,39,17,56,Winter,195,156,38,-118
+Yorkdale Shopping Centre,T Monogram Tote,Purple,Pebbled Leather,Small,Shenzhen,50,17,67,Summer,274,274,118,-156
+South Coast Plaza,T Monogram Tote,Pink,Coated Canvas,Large,Shenzhen,44,17,61,Spring,97,116,101,-15
+Westfield World Trade Center,Britten Tote,Beige,Canvas,Medium,Hanoi,45,14,59,Fall,193,212,47,-165
+South Coast Plaza,Kira Chevron Tote,Black,Leather,Medium,Shenzhen,49,17,66,Fall,98,107,12,-95
+Pacific Centre,Gemini Link Tote,Red,Pebbled Leather,Large,Shenzhen,47,14,61,Fall,65,71,83,12
+NorthPark Center,Kira Chevron Tote,Brown,Coated Canvas,Large,Da Nang,40,14,54,Winter,66,52,7,-45
+Westfield World Trade Center,Ella Tote,White,Coated Canvas,Medium,Hanoi,39,17,56,Spring,287,344,21,-323
+Pacific Centre,Britten Tote,Green,Canvas,Mini,Da Nang,32,17,49,Summer,232,232,42,-190
+Pacific Centre,Ella Tote,Black,Coated Canvas,Medium,Shenzhen,48,16,64,Winter,135,108,17,-91
+NorthPark Center,Britten Tote,White,Canvas,Small,Ho Chi Minh City,41,18,59,Fall,300,330,293,-37
+Pacific Centre,Britten Tote,Black,Canvas,Small,Hanoi,50,14,64,Winter,236,188,198,10
+San Francisco Centre,Britten Tote,Gray,Pebbled Leather,Large,Ho Chi Minh City,50,18,68,Winter,113,90,93,3
+Soho,Perry Tote,Green,Leather,Large,Shenzhen,41,14,55,Summer,280,280,66,-214
+Yorkdale Shopping Centre,T Monogram Tote,Metallic,Pebbled Leather,Medium,Guangzhou,36,16,52,Winter,205,164,133,-31
+Westfield World Trade Center,Perry Tote,Gray,Coated Canvas,Small,Ho Chi Minh City,40,14,54,Summer,67,67,116,49
+South Coast Plaza,Ella Tote,Green,Jacquard,Large,Guangzhou,37,15,52,Summer,116,116,155,39
+Pacific Centre,Perry Tote,Purple,Leather,Mini,Da Nang,40,15,55,Fall,198,217,63,-154
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Pink,Jacquard,Medium,Da Nang,34,14,48,Spring,82,98,3,-95
+Westfield World Trade Center,Perry Tote,Beige,Jacquard,Small,Hanoi,43,15,58,Winter,258,206,192,-14
+South Coast Plaza,Gemini Link Tote,Red,Leather,Small,Hanoi,37,14,51,Summer,126,126,24,-102
+Yorkdale Shopping Centre,Robinson Tote,Brown,Leather,Medium,Ho Chi Minh City,48,15,63,Spring,172,206,95,-111
+Yorkdale Shopping Centre,McGraw Tote,Gray,Jacquard,Mini,Guangzhou,31,14,45,Summer,97,97,51,-46
+Aventura Mall,Perry Tote,Multi,Leather,Mini,Da Nang,31,16,47,Fall,197,216,78,-138
+Bal Harbour Shops,McGraw Tote,Green,Pebbled Leather,Medium,Hanoi,48,18,66,Spring,268,321,93,-228
+Westfield World Trade Center,McGraw Tote,Green,Coated Canvas,Large,Shenzhen,46,15,61,Fall,251,276,45,-231
+Madison Avenue,Britten Tote,Red,Coated Canvas,Small,Ho Chi Minh City,42,15,57,Spring,149,178,197,19
+South Coast Plaza,T Monogram Tote,Pink,Leather,Large,Ho Chi Minh City,50,17,67,Winter,54,43,10,-33
+Oak Street,Perry Tote,Black,Coated Canvas,Large,Shenzhen,30,18,48,Summer,201,201,55,-146
+Yorkdale Shopping Centre,Ella Tote,Blue,Canvas,Large,Ho Chi Minh City,35,17,52,Summer,193,193,127,-66
+Bal Harbour Shops,Kira Chevron Tote,Blue,Pebbled Leather,Large,Hanoi,49,14,63,Summer,273,273,285,12
+Madison Avenue,Gemini Link Tote,Red,Coated Canvas,Mini,Guangzhou,47,14,61,Fall,265,291,309,18
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Green,Coated Canvas,Small,Guangzhou,38,17,55,Winter,110,88,5,-83
+Soho,Kira Chevron Tote,Blue,Jacquard,Mini,Da Nang,32,14,46,Fall,281,309,173,-136
+Aventura Mall,Robinson Tote,Red,Jacquard,Small,Da Nang,38,18,56,Summer,123,123,66,-57
+Soho,Britten Tote,Purple,Canvas,Small,Shenzhen,48,15,63,Spring,272,326,105,-221
+The Galleria,Perry Tote,Yellow,Pebbled Leather,Mini,Da Nang,49,16,65,Summer,148,148,72,-76
+Bal Harbour Shops,McGraw Tote,Multi,Coated Canvas,Small,Guangzhou,49,15,64,Summer,297,297,169,-128
+San Francisco Centre,Perry Tote,Metallic,Leather,Large,Ho Chi Minh City,31,18,49,Fall,52,57,69,12
+Yorkdale Shopping Centre,Gemini Link Tote,Green,Coated Canvas,Medium,Da Nang,33,16,49,Winter,210,168,108,-60
+South Coast Plaza,Gemini Link Tote,Pink,Canvas,Mini,Shenzhen,30,17,47,Winter,101,80,84,4
+Pacific Centre,McGraw Tote,Green,Canvas,Mini,Guangzhou,31,15,46,Fall,258,283,169,-114
+Westfield World Trade Center,Gemini Link Tote,Multi,Leather,Medium,Hanoi,42,18,60,Fall,148,162,9,-153
+Bal Harbour Shops,Ella Tote,Brown,Leather,Medium,Ho Chi Minh City,31,17,48,Summer,120,120,39,-81
+El Palacio de Hierro (Polanco),T Monogram Tote,White,Pebbled Leather,Large,Da Nang,30,17,47,Summer,135,135,57,-78
+Aventura Mall,T Monogram Tote,Brown,Leather,Medium,Guangzhou,39,17,56,Fall,61,67,18,-49
+Bal Harbour Shops,Robinson Tote,Blue,Jacquard,Mini,Shenzhen,36,17,53,Spring,84,100,66,-34
+NorthPark Center,Robinson Tote,Brown,Pebbled Leather,Medium,Ho Chi Minh City,44,18,62,Fall,87,95,81,-14
+Madison Avenue,T Monogram Tote,Yellow,Coated Canvas,Medium,Guangzhou,36,15,51,Winter,85,68,94,26
+Pacific Centre,McGraw Tote,Beige,Canvas,Medium,Da Nang,43,15,58,Spring,146,175,172,-3
+Bal Harbour Shops,Robinson Tote,Yellow,Coated Canvas,Mini,Guangzhou,47,14,61,Spring,285,342,193,-149
+Westfield World Trade Center,Britten Tote,White,Leather,Small,Shenzhen,50,14,64,Fall,152,167,174,7
+Pacific Centre,McGraw Tote,Multi,Pebbled Leather,Small,Guangzhou,36,18,54,Summer,173,173,180,7
+Madison Avenue,Robinson Tote,Black,Leather,Large,Guangzhou,34,17,51,Winter,55,44,86,42
+Bal Harbour Shops,T Monogram Tote,Pink,Canvas,Small,Shenzhen,44,15,59,Spring,79,94,49,-45
+Madison Avenue,Kira Chevron Tote,Brown,Coated Canvas,Small,Da Nang,32,18,50,Winter,224,179,127,-52
+Rodeo Drive,T Monogram Tote,Black,Coated Canvas,Small,Hanoi,49,17,66,Summer,139,139,160,21
+Soho,T Monogram Tote,White,Pebbled Leather,Small,Da Nang,49,14,63,Spring,200,240,76,-164
+Aventura Mall,Britten Tote,White,Coated Canvas,Medium,Hanoi,41,16,57,Summer,135,135,113,-22
+Soho,Britten Tote,Brown,Leather,Small,Hanoi,42,15,57,Winter,174,139,148,9
+Oak Street,Perry Tote,Black,Jacquard,Medium,Hanoi,42,18,60,Fall,237,260,20,-240
+Soho,McGraw Tote,Pink,Leather,Mini,Guangzhou,45,14,59,Summer,275,275,51,-224
+Yorkdale Shopping Centre,Kira Chevron Tote,Red,Coated Canvas,Mini,Shenzhen,46,18,64,Winter,180,144,62,-82
+El Palacio de Hierro (Polanco),Britten Tote,White,Leather,Small,Da Nang,49,16,65,Spring,72,86,49,-37
+San Francisco Centre,Ella Tote,Red,Pebbled Leather,Mini,Hanoi,37,18,55,Fall,248,272,172,-100
+NorthPark Center,Kira Chevron Tote,Gray,Leather,Medium,Hanoi,34,18,52,Spring,134,160,110,-50
+Soho,Kira Chevron Tote,Brown,Pebbled Leather,Mini,Da Nang,41,15,56,Spring,56,67,70,3
+NorthPark Center,Ella Tote,Multi,Leather,Mini,Shenzhen,32,15,47,Winter,268,214,185,-29
+Soho,Kira Chevron Tote,Beige,Coated Canvas,Medium,Shenzhen,41,15,56,Winter,153,122,85,-37
+Pacific Centre,Ella Tote,Brown,Canvas,Medium,Guangzhou,43,17,60,Fall,145,159,164,5
+Madison Avenue,Ella Tote,White,Coated Canvas,Large,Guangzhou,37,15,52,Fall,233,256,271,15
+The Galleria,Britten Tote,Green,Jacquard,Medium,Hanoi,50,15,65,Fall,120,132,124,-8
+The Galleria,Perry Tote,Blue,Leather,Medium,Hanoi,50,17,67,Winter,64,51,28,-23
+El Palacio de Hierro (Santa Fe),McGraw Tote,Brown,Jacquard,Medium,Guangzhou,50,18,68,Summer,92,92,117,25
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Multi,Leather,Small,Ho Chi Minh City,38,18,56,Fall,78,85,132,47
+The Galleria,Robinson Tote,Pink,Canvas,Medium,Guangzhou,46,17,63,Fall,51,56,49,-7
+Pacific Centre,McGraw Tote,Gray,Leather,Mini,Shenzhen,44,15,59,Summer,122,122,138,16
+San Francisco Centre,McGraw Tote,White,Coated Canvas,Medium,Guangzhou,46,14,60,Spring,66,79,79,0
+Aventura Mall,Gemini Link Tote,Black,Pebbled Leather,Large,Shenzhen,49,16,65,Fall,64,70,107,37
+South Coast Plaza,McGraw Tote,Gray,Leather,Small,Guangzhou,42,14,56,Winter,149,119,122,3
+South Coast Plaza,Perry Tote,Black,Coated Canvas,Small,Hanoi,50,18,68,Summer,294,294,173,-121
+Rodeo Drive,Robinson Tote,Beige,Pebbled Leather,Large,Guangzhou,40,18,58,Fall,251,276,118,-158
+Soho,Britten Tote,White,Pebbled Leather,Small,Guangzhou,39,18,57,Fall,255,280,14,-266
+Oak Street,Kira Chevron Tote,Purple,Coated Canvas,Medium,Hanoi,39,17,56,Fall,260,286,231,-55
+Yorkdale Shopping Centre,McGraw Tote,Blue,Canvas,Mini,Ho Chi Minh City,32,17,49,Fall,199,218,165,-53
+El Palacio de Hierro (Polanco),T Monogram Tote,Brown,Leather,Mini,Shenzhen,40,16,56,Summer,232,232,205,-27
+Soho,Robinson Tote,Green,Pebbled Leather,Small,Shenzhen,39,15,54,Spring,50,60,5,-55
+Bal Harbour Shops,Gemini Link Tote,Blue,Jacquard,Mini,Da Nang,33,18,51,Summer,159,159,177,18
+Rodeo Drive,T Monogram Tote,Red,Jacquard,Small,Da Nang,40,16,56,Winter,157,125,170,45
+South Coast Plaza,Kira Chevron Tote,Beige,Canvas,Mini,Guangzhou,32,14,46,Winter,60,48,73,25
+Yorkdale Shopping Centre,Robinson Tote,Multi,Canvas,Large,Shenzhen,43,16,59,Winter,208,166,22,-144
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Yellow,Pebbled Leather,Medium,Ho Chi Minh City,35,14,49,Summer,156,156,147,-9
+The Galleria,Ella Tote,Pink,Canvas,Large,Guangzhou,46,14,60,Spring,76,91,36,-55
+Yorkdale Shopping Centre,McGraw Tote,Beige,Pebbled Leather,Mini,Da Nang,37,16,53,Summer,209,209,61,-148
+San Francisco Centre,Perry Tote,Black,Canvas,Small,Hanoi,43,17,60,Summer,287,287,45,-242
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Gray,Pebbled Leather,Small,Ho Chi Minh City,37,15,52,Summer,75,75,77,2
+Yorkdale Shopping Centre,Kira Chevron Tote,Pink,Coated Canvas,Mini,Guangzhou,37,16,53,Spring,208,249,114,-135
+Bal Harbour Shops,McGraw Tote,Pink,Coated Canvas,Large,Guangzhou,48,15,63,Spring,215,258,196,-62
+Soho,Perry Tote,Pink,Pebbled Leather,Large,Da Nang,46,16,62,Spring,213,255,100,-155
+Rodeo Drive,Ella Tote,Multi,Canvas,Small,Hanoi,37,15,52,Spring,56,67,16,-51
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Gray,Pebbled Leather,Mini,Da Nang,42,15,57,Summer,117,117,117,0
+Bal Harbour Shops,T Monogram Tote,Blue,Canvas,Small,Shenzhen,30,18,48,Fall,111,122,87,-35
+El Palacio de Hierro (Santa Fe),Britten Tote,Beige,Pebbled Leather,Small,Da Nang,39,18,57,Summer,137,137,80,-57
+Pacific Centre,Robinson Tote,Black,Pebbled Leather,Medium,Shenzhen,37,18,55,Fall,290,319,33,-286
+Westfield World Trade Center,Ella Tote,White,Coated Canvas,Mini,Shenzhen,45,17,62,Fall,132,145,1,-144
+Pacific Centre,Gemini Link Tote,Green,Coated Canvas,Large,Shenzhen,30,16,46,Winter,68,54,52,-2
+Bal Harbour Shops,T Monogram Tote,Red,Jacquard,Large,Ho Chi Minh City,46,17,63,Spring,213,255,121,-134
+Rodeo Drive,McGraw Tote,Beige,Leather,Small,Hanoi,46,16,62,Fall,202,222,67,-155
+Rodeo Drive,Kira Chevron Tote,Beige,Pebbled Leather,Large,Ho Chi Minh City,40,15,55,Spring,189,226,35,-191
+El Palacio de Hierro (Santa Fe),Perry Tote,Brown,Leather,Small,Shenzhen,47,18,65,Summer,118,118,91,-27
+Aventura Mall,Britten Tote,Black,Coated Canvas,Mini,Da Nang,39,14,53,Summer,84,84,33,-51
+Aventura Mall,Ella Tote,Blue,Jacquard,Large,Da Nang,44,14,58,Winter,92,73,76,3
+Madison Avenue,T Monogram Tote,Green,Jacquard,Medium,Shenzhen,33,14,47,Fall,213,234,67,-167
+El Palacio de Hierro (Polanco),McGraw Tote,Black,Canvas,Medium,Shenzhen,44,18,62,Winter,270,216,95,-121
+Madison Avenue,Robinson Tote,Green,Jacquard,Small,Shenzhen,38,17,55,Fall,121,133,88,-45
+Westfield World Trade Center,Britten Tote,Metallic,Leather,Large,Guangzhou,32,17,49,Winter,160,128,42,-86
+The Galleria,Perry Tote,Yellow,Jacquard,Mini,Guangzhou,37,17,54,Winter,115,92,21,-71
+The Galleria,Britten Tote,Blue,Jacquard,Medium,Da Nang,37,17,54,Winter,159,127,150,23
+Bal Harbour Shops,Kira Chevron Tote,White,Coated Canvas,Medium,Shenzhen,48,14,62,Spring,234,280,2,-278
+Yorkdale Shopping Centre,Britten Tote,Beige,Leather,Mini,Shenzhen,34,17,51,Summer,277,277,278,1
+South Coast Plaza,Ella Tote,Multi,Leather,Medium,Ho Chi Minh City,46,17,63,Fall,247,271,76,-195
+NorthPark Center,T Monogram Tote,Multi,Leather,Large,Ho Chi Minh City,41,17,58,Fall,196,215,180,-35
+Aventura Mall,McGraw Tote,Pink,Canvas,Mini,Guangzhou,44,15,59,Spring,244,292,324,32
+Yorkdale Shopping Centre,Britten Tote,Gray,Coated Canvas,Medium,Shenzhen,41,17,58,Spring,277,332,237,-95
+San Francisco Centre,Kira Chevron Tote,Green,Canvas,Medium,Shenzhen,48,15,63,Winter,71,56,87,31
+Bal Harbour Shops,T Monogram Tote,Black,Coated Canvas,Small,Guangzhou,44,16,60,Fall,293,322,267,-55
+Aventura Mall,Ella Tote,Gray,Coated Canvas,Large,Guangzhou,46,15,61,Summer,83,83,76,-7
+Yorkdale Shopping Centre,Britten Tote,Gray,Coated Canvas,Mini,Shenzhen,47,14,61,Fall,189,207,178,-29
+Aventura Mall,Robinson Tote,Red,Coated Canvas,Large,Ho Chi Minh City,49,16,65,Fall,201,221,229,8
+San Francisco Centre,Ella Tote,Yellow,Coated Canvas,Mini,Ho Chi Minh City,37,15,52,Spring,184,220,190,-30
+San Francisco Centre,Robinson Tote,Blue,Canvas,Small,Ho Chi Minh City,47,15,62,Summer,236,236,24,-212
+Pacific Centre,Britten Tote,Multi,Leather,Small,Guangzhou,31,14,45,Winter,175,140,156,16
+Oak Street,T Monogram Tote,Pink,Canvas,Small,Guangzhou,46,17,63,Summer,247,247,81,-166
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Brown,Jacquard,Small,Shenzhen,39,15,54,Summer,71,71,110,39
+Oak Street,Robinson Tote,Multi,Leather,Mini,Hanoi,49,17,66,Summer,292,292,251,-41
+Westfield World Trade Center,Kira Chevron Tote,White,Coated Canvas,Large,Hanoi,42,15,57,Winter,262,209,106,-103
+Bal Harbour Shops,Gemini Link Tote,Brown,Jacquard,Medium,Ho Chi Minh City,48,17,65,Spring,103,123,92,-31
+Yorkdale Shopping Centre,Robinson Tote,Yellow,Coated Canvas,Mini,Da Nang,39,18,57,Spring,56,67,19,-48
+Rodeo Drive,Britten Tote,Yellow,Leather,Medium,Ho Chi Minh City,38,17,55,Fall,156,171,169,-2
+Oak Street,Robinson Tote,Brown,Leather,Mini,Da Nang,48,18,66,Summer,295,295,138,-157
+El Palacio de Hierro (Polanco),McGraw Tote,Pink,Coated Canvas,Medium,Da Nang,32,18,50,Winter,248,198,25,-173
+The Galleria,Kira Chevron Tote,Gray,Pebbled Leather,Small,Hanoi,37,15,52,Fall,201,221,219,-2
+Oak Street,Ella Tote,Black,Leather,Large,Hanoi,47,15,62,Fall,164,180,226,46
+Pacific Centre,Britten Tote,Beige,Jacquard,Medium,Hanoi,33,18,51,Summer,207,207,161,-46
+Oak Street,Gemini Link Tote,Brown,Coated Canvas,Small,Hanoi,45,18,63,Winter,211,168,97,-71
+Oak Street,McGraw Tote,Blue,Leather,Large,Da Nang,50,14,64,Spring,295,354,16,-338
+San Francisco Centre,Kira Chevron Tote,Green,Jacquard,Mini,Ho Chi Minh City,37,14,51,Spring,210,252,293,41
+Oak Street,Perry Tote,White,Leather,Medium,Shenzhen,43,15,58,Fall,131,144,44,-100
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Multi,Canvas,Large,Shenzhen,43,15,58,Summer,162,162,151,-11
+NorthPark Center,McGraw Tote,White,Coated Canvas,Mini,Guangzhou,45,18,63,Winter,253,202,217,15
+El Palacio de Hierro (Santa Fe),Ella Tote,Brown,Coated Canvas,Large,Shenzhen,47,17,64,Spring,58,69,32,-37
+Rodeo Drive,Perry Tote,Purple,Pebbled Leather,Mini,Guangzhou,40,14,54,Spring,198,237,11,-226
+Bal Harbour Shops,McGraw Tote,Green,Pebbled Leather,Mini,Hanoi,40,16,56,Summer,271,271,177,-94
+The Galleria,Britten Tote,Yellow,Leather,Small,Hanoi,42,16,58,Summer,271,271,166,-105
+Yorkdale Shopping Centre,McGraw Tote,Purple,Leather,Large,Shenzhen,50,17,67,Summer,291,291,168,-123
+Oak Street,McGraw Tote,Green,Leather,Medium,Guangzhou,45,17,62,Summer,154,154,190,36
+NorthPark Center,Kira Chevron Tote,Red,Pebbled Leather,Small,Da Nang,49,18,67,Fall,193,212,159,-53
+El Palacio de Hierro (Polanco),Ella Tote,Red,Coated Canvas,Large,Da Nang,48,17,65,Winter,141,112,160,48
+San Francisco Centre,Kira Chevron Tote,Pink,Coated Canvas,Medium,Ho Chi Minh City,37,14,51,Summer,188,188,190,2
+Rodeo Drive,T Monogram Tote,Pink,Canvas,Medium,Da Nang,32,17,49,Fall,95,104,77,-27
+Madison Avenue,McGraw Tote,Green,Pebbled Leather,Mini,Ho Chi Minh City,44,15,59,Fall,179,196,188,-8
+El Palacio de Hierro (Polanco),Britten Tote,Metallic,Leather,Large,Shenzhen,32,14,46,Summer,269,269,215,-54
+Pacific Centre,Gemini Link Tote,Green,Leather,Small,Guangzhou,35,14,49,Spring,51,61,109,48
+San Francisco Centre,T Monogram Tote,Yellow,Coated Canvas,Large,Ho Chi Minh City,37,16,53,Summer,210,210,186,-24
+San Francisco Centre,Kira Chevron Tote,Gray,Leather,Small,Ho Chi Minh City,48,16,64,Winter,248,198,173,-25
+Aventura Mall,T Monogram Tote,Beige,Jacquard,Large,Guangzhou,36,17,53,Summer,291,291,138,-153
+Madison Avenue,Perry Tote,Green,Pebbled Leather,Small,Hanoi,44,15,59,Winter,207,165,211,46
+El Palacio de Hierro (Polanco),McGraw Tote,Black,Canvas,Small,Ho Chi Minh City,41,14,55,Summer,257,257,226,-31
+El Palacio de Hierro (Polanco),Ella Tote,Black,Pebbled Leather,Large,Hanoi,39,15,54,Winter,149,119,168,49
+San Francisco Centre,Britten Tote,Metallic,Canvas,Small,Ho Chi Minh City,39,16,55,Winter,100,80,0,-80
+Soho,McGraw Tote,Red,Coated Canvas,Medium,Shenzhen,44,16,60,Winter,232,185,88,-97
+Westfield World Trade Center,Perry Tote,Black,Jacquard,Mini,Da Nang,39,15,54,Winter,80,64,16,-48
+NorthPark Center,Ella Tote,Green,Pebbled Leather,Small,Hanoi,41,15,56,Spring,214,256,150,-106
+South Coast Plaza,T Monogram Tote,Yellow,Canvas,Medium,Hanoi,34,15,49,Fall,93,102,46,-56
+Westfield World Trade Center,Ella Tote,Yellow,Canvas,Small,Hanoi,48,17,65,Fall,151,166,131,-35
+The Galleria,Ella Tote,Brown,Coated Canvas,Medium,Shenzhen,39,16,55,Winter,148,118,155,37
+Bal Harbour Shops,Kira Chevron Tote,Brown,Leather,Small,Shenzhen,37,16,53,Fall,235,258,30,-228
+Westfield World Trade Center,Kira Chevron Tote,Purple,Pebbled Leather,Small,Guangzhou,39,17,56,Winter,79,63,6,-57
+San Francisco Centre,McGraw Tote,Green,Canvas,Mini,Da Nang,36,14,50,Winter,122,97,67,-30
+The Galleria,Robinson Tote,Multi,Leather,Mini,Hanoi,48,14,62,Spring,72,86,27,-59
+El Palacio de Hierro (Santa Fe),Perry Tote,Multi,Pebbled Leather,Large,Hanoi,40,15,55,Spring,275,330,334,4
+Madison Avenue,Britten Tote,Blue,Leather,Medium,Shenzhen,44,15,59,Winter,177,141,138,-3
+Westfield World Trade Center,Robinson Tote,Yellow,Pebbled Leather,Large,Da Nang,40,15,55,Winter,285,228,44,-184
+Oak Street,Kira Chevron Tote,Pink,Canvas,Medium,Hanoi,36,14,50,Spring,83,99,116,17
+Pacific Centre,Britten Tote,Brown,Canvas,Mini,Ho Chi Minh City,30,14,44,Spring,206,247,3,-244
+Yorkdale Shopping Centre,Ella Tote,Black,Leather,Medium,Ho Chi Minh City,35,16,51,Winter,280,224,53,-171
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Black,Canvas,Medium,Shenzhen,33,18,51,Summer,247,247,154,-93
+South Coast Plaza,Britten Tote,Yellow,Jacquard,Medium,Shenzhen,38,14,52,Winter,159,127,44,-83
+San Francisco Centre,Gemini Link Tote,Red,Canvas,Small,Ho Chi Minh City,31,15,46,Summer,155,155,109,-46
+San Francisco Centre,Perry Tote,Brown,Pebbled Leather,Mini,Shenzhen,36,14,50,Fall,226,248,274,26
+Rodeo Drive,T Monogram Tote,White,Canvas,Small,Hanoi,37,15,52,Spring,77,92,50,-42
+San Francisco Centre,Robinson Tote,Black,Jacquard,Small,Hanoi,32,14,46,Fall,158,173,194,21
+El Palacio de Hierro (Santa Fe),Perry Tote,Blue,Jacquard,Medium,Da Nang,40,14,54,Fall,179,196,13,-183
+The Galleria,Perry Tote,Pink,Leather,Medium,Da Nang,43,17,60,Summer,253,253,29,-224
+NorthPark Center,McGraw Tote,Red,Canvas,Large,Ho Chi Minh City,44,15,59,Summer,59,59,93,34
+Pacific Centre,Perry Tote,Pink,Jacquard,Mini,Guangzhou,45,18,63,Spring,62,74,63,-11
+Pacific Centre,T Monogram Tote,Pink,Jacquard,Mini,Ho Chi Minh City,35,16,51,Spring,153,183,227,44
+Aventura Mall,Gemini Link Tote,White,Coated Canvas,Mini,Hanoi,45,17,62,Winter,53,42,20,-22
+San Francisco Centre,T Monogram Tote,Metallic,Jacquard,Small,Ho Chi Minh City,30,14,44,Fall,82,90,45,-45
+Soho,Britten Tote,Red,Pebbled Leather,Medium,Ho Chi Minh City,35,16,51,Summer,115,115,34,-81
+The Galleria,T Monogram Tote,Yellow,Coated Canvas,Mini,Ho Chi Minh City,30,17,47,Fall,134,147,181,34
+Pacific Centre,Perry Tote,Metallic,Pebbled Leather,Medium,Da Nang,34,15,49,Spring,137,164,14,-150
+Soho,Britten Tote,Brown,Canvas,Small,Ho Chi Minh City,49,18,67,Spring,65,78,81,3
+The Galleria,T Monogram Tote,Green,Canvas,Medium,Ho Chi Minh City,32,14,46,Winter,92,73,100,27
+Pacific Centre,Gemini Link Tote,Metallic,Pebbled Leather,Medium,Shenzhen,30,16,46,Winter,116,92,23,-69
+El Palacio de Hierro (Santa Fe),Robinson Tote,Green,Canvas,Medium,Ho Chi Minh City,48,15,63,Fall,137,150,6,-144
+NorthPark Center,Robinson Tote,Purple,Leather,Mini,Da Nang,33,15,48,Summer,200,200,65,-135
+El Palacio de Hierro (Polanco),Robinson Tote,White,Canvas,Large,Ho Chi Minh City,50,14,64,Winter,97,77,88,11
+Yorkdale Shopping Centre,Perry Tote,Red,Jacquard,Large,Shenzhen,39,14,53,Summer,61,61,51,-10
+Oak Street,Gemini Link Tote,Brown,Leather,Medium,Da Nang,44,17,61,Summer,291,291,20,-271
+Oak Street,Gemini Link Tote,Multi,Jacquard,Medium,Shenzhen,49,17,66,Summer,141,141,66,-75
+Rodeo Drive,T Monogram Tote,Yellow,Coated Canvas,Large,Da Nang,30,16,46,Summer,196,196,137,-59
+Westfield World Trade Center,McGraw Tote,Black,Coated Canvas,Large,Guangzhou,33,18,51,Winter,273,218,26,-192
+Madison Avenue,T Monogram Tote,Brown,Coated Canvas,Medium,Ho Chi Minh City,39,18,57,Spring,124,148,73,-75
+Westfield World Trade Center,Robinson Tote,Pink,Pebbled Leather,Small,Da Nang,49,18,67,Fall,185,203,115,-88
+South Coast Plaza,Robinson Tote,Red,Pebbled Leather,Medium,Da Nang,40,16,56,Winter,253,202,96,-106
+Oak Street,Perry Tote,Red,Coated Canvas,Mini,Ho Chi Minh City,43,18,61,Spring,143,171,179,8
+Aventura Mall,Perry Tote,Black,Jacquard,Medium,Shenzhen,44,16,60,Fall,112,123,40,-83
+Rodeo Drive,Britten Tote,Gray,Coated Canvas,Medium,Shenzhen,50,14,64,Winter,61,48,57,9
+El Palacio de Hierro (Santa Fe),Britten Tote,Brown,Leather,Medium,Guangzhou,40,18,58,Fall,232,255,149,-106
+Pacific Centre,McGraw Tote,Pink,Jacquard,Large,Hanoi,33,14,47,Spring,132,158,61,-97
+Yorkdale Shopping Centre,Britten Tote,Metallic,Leather,Small,Shenzhen,39,15,54,Fall,223,245,90,-155
+South Coast Plaza,Ella Tote,Blue,Leather,Mini,Shenzhen,40,18,58,Winter,227,181,192,11
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Brown,Pebbled Leather,Medium,Hanoi,42,15,57,Summer,165,165,189,24
+The Galleria,Perry Tote,Brown,Coated Canvas,Large,Shenzhen,37,18,55,Fall,109,119,4,-115
+El Palacio de Hierro (Polanco),Robinson Tote,Pink,Coated Canvas,Large,Shenzhen,43,18,61,Summer,226,226,74,-152
+El Palacio de Hierro (Polanco),Britten Tote,Yellow,Pebbled Leather,Medium,Guangzhou,44,14,58,Spring,100,120,5,-115
+NorthPark Center,Robinson Tote,Black,Pebbled Leather,Small,Shenzhen,49,18,67,Spring,242,290,272,-18
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Multi,Leather,Mini,Da Nang,35,17,52,Winter,167,133,143,10
+San Francisco Centre,McGraw Tote,Purple,Jacquard,Medium,Hanoi,45,14,59,Summer,59,59,31,-28
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,White,Coated Canvas,Medium,Guangzhou,43,18,61,Summer,299,299,343,44
+Madison Avenue,Robinson Tote,Black,Jacquard,Large,Da Nang,40,16,56,Fall,256,281,116,-165
+Westfield World Trade Center,Perry Tote,Red,Coated Canvas,Large,Da Nang,42,17,59,Fall,190,209,69,-140
+San Francisco Centre,McGraw Tote,Red,Canvas,Mini,Hanoi,34,18,52,Spring,89,106,99,-7
+Soho,Perry Tote,Metallic,Canvas,Large,Shenzhen,38,17,55,Winter,209,167,182,15
+Soho,Kira Chevron Tote,Blue,Pebbled Leather,Medium,Hanoi,36,18,54,Fall,261,287,174,-113
+Pacific Centre,Perry Tote,Beige,Coated Canvas,Small,Ho Chi Minh City,38,18,56,Winter,56,44,8,-36
+Madison Avenue,McGraw Tote,Gray,Leather,Small,Shenzhen,38,14,52,Spring,120,144,74,-70
+Rodeo Drive,Britten Tote,Purple,Pebbled Leather,Mini,Shenzhen,46,18,64,Winter,149,119,140,21
+Soho,Perry Tote,Metallic,Jacquard,Small,Ho Chi Minh City,45,15,60,Spring,242,290,191,-99
+South Coast Plaza,Perry Tote,Pink,Leather,Small,Ho Chi Minh City,45,16,61,Summer,92,92,119,27
+Rodeo Drive,Ella Tote,Black,Jacquard,Medium,Da Nang,46,15,61,Summer,75,75,116,41
+Yorkdale Shopping Centre,McGraw Tote,Black,Pebbled Leather,Medium,Guangzhou,38,18,56,Fall,105,115,131,16
+Bal Harbour Shops,McGraw Tote,Yellow,Leather,Medium,Shenzhen,45,16,61,Summer,62,62,104,42
+The Galleria,Robinson Tote,Black,Leather,Mini,Guangzhou,48,15,63,Spring,61,73,27,-46
+Madison Avenue,McGraw Tote,Green,Leather,Mini,Da Nang,42,18,60,Winter,201,160,27,-133
+Madison Avenue,Ella Tote,Black,Coated Canvas,Medium,Ho Chi Minh City,49,17,66,Winter,168,134,136,2
+El Palacio de Hierro (Polanco),Britten Tote,Brown,Canvas,Large,Hanoi,34,16,50,Fall,217,238,175,-63
+Westfield World Trade Center,Robinson Tote,Red,Leather,Medium,Ho Chi Minh City,46,15,61,Fall,231,254,14,-240
+Westfield World Trade Center,Gemini Link Tote,Beige,Canvas,Medium,Shenzhen,32,16,48,Summer,153,153,18,-135
+Bal Harbour Shops,Robinson Tote,Black,Pebbled Leather,Mini,Shenzhen,39,18,57,Winter,118,94,65,-29
+Westfield World Trade Center,Britten Tote,Brown,Leather,Small,Hanoi,30,16,46,Winter,289,231,209,-22
+Pacific Centre,Kira Chevron Tote,Pink,Jacquard,Mini,Shenzhen,45,14,59,Summer,100,100,131,31
+El Palacio de Hierro (Polanco),Perry Tote,Metallic,Jacquard,Large,Hanoi,39,14,53,Winter,119,95,81,-14
+South Coast Plaza,Perry Tote,Purple,Coated Canvas,Small,Hanoi,38,16,54,Summer,84,84,85,1
+Bal Harbour Shops,Perry Tote,Metallic,Coated Canvas,Large,Ho Chi Minh City,48,17,65,Fall,160,176,188,12
+Yorkdale Shopping Centre,T Monogram Tote,Blue,Coated Canvas,Medium,Shenzhen,36,18,54,Fall,218,239,201,-38
+Rodeo Drive,McGraw Tote,Multi,Coated Canvas,Medium,Da Nang,34,16,50,Fall,63,69,97,28
+Rodeo Drive,Robinson Tote,Green,Leather,Small,Hanoi,47,14,61,Fall,96,105,88,-17
+Aventura Mall,T Monogram Tote,Gray,Pebbled Leather,Small,Guangzhou,46,14,60,Summer,82,82,49,-33
+Oak Street,T Monogram Tote,White,Leather,Mini,Shenzhen,49,16,65,Summer,78,78,18,-60
+Westfield World Trade Center,Perry Tote,Pink,Pebbled Leather,Medium,Guangzhou,42,16,58,Winter,74,59,11,-48
+San Francisco Centre,Robinson Tote,Multi,Jacquard,Small,Shenzhen,37,15,52,Spring,110,132,53,-79
+Rodeo Drive,Gemini Link Tote,Purple,Leather,Large,Guangzhou,36,14,50,Winter,87,69,29,-40
+Pacific Centre,Robinson Tote,Green,Coated Canvas,Mini,Ho Chi Minh City,32,18,50,Spring,223,267,266,-1
+South Coast Plaza,Perry Tote,Brown,Canvas,Large,Guangzhou,39,16,55,Spring,76,91,138,47
+El Palacio de Hierro (Polanco),Gemini Link Tote,Red,Coated Canvas,Small,Da Nang,40,16,56,Summer,210,210,9,-201
+South Coast Plaza,Kira Chevron Tote,Pink,Jacquard,Mini,Shenzhen,50,15,65,Spring,125,150,167,17
+Soho,Perry Tote,Blue,Canvas,Medium,Guangzhou,36,14,50,Spring,178,213,9,-204
+Soho,McGraw Tote,Gray,Coated Canvas,Large,Guangzhou,36,15,51,Spring,94,112,98,-14
+Bal Harbour Shops,Kira Chevron Tote,Brown,Canvas,Medium,Shenzhen,31,16,47,Fall,102,112,139,27
+NorthPark Center,Kira Chevron Tote,Brown,Canvas,Large,Hanoi,41,17,58,Summer,211,211,113,-98
+Yorkdale Shopping Centre,Robinson Tote,Black,Pebbled Leather,Large,Hanoi,41,14,55,Fall,123,135,162,27
+NorthPark Center,McGraw Tote,Beige,Canvas,Small,Shenzhen,32,18,50,Summer,79,79,11,-68
+San Francisco Centre,Ella Tote,Pink,Leather,Small,Shenzhen,49,17,66,Spring,115,138,68,-70
+Pacific Centre,Perry Tote,Yellow,Canvas,Medium,Ho Chi Minh City,32,16,48,Fall,84,92,78,-14
+South Coast Plaza,Robinson Tote,Black,Jacquard,Medium,Da Nang,35,18,53,Winter,75,60,6,-54
+Aventura Mall,T Monogram Tote,Purple,Jacquard,Mini,Hanoi,47,18,65,Fall,133,146,139,-7
+Rodeo Drive,McGraw Tote,Black,Leather,Medium,Ho Chi Minh City,35,15,50,Fall,140,154,36,-118
+Madison Avenue,Robinson Tote,Black,Coated Canvas,Large,Ho Chi Minh City,47,17,64,Fall,69,75,35,-40
+El Palacio de Hierro (Santa Fe),McGraw Tote,Metallic,Pebbled Leather,Mini,Guangzhou,44,15,59,Winter,155,124,99,-25
+The Galleria,Britten Tote,Purple,Leather,Medium,Ho Chi Minh City,31,18,49,Spring,172,206,245,39
+Yorkdale Shopping Centre,Perry Tote,Black,Jacquard,Small,Da Nang,34,17,51,Winter,71,56,61,5
+El Palacio de Hierro (Polanco),Robinson Tote,Blue,Canvas,Medium,Da Nang,48,17,65,Summer,300,300,56,-244
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Yellow,Leather,Mini,Ho Chi Minh City,47,18,65,Winter,255,204,19,-185
+Aventura Mall,Britten Tote,Gray,Leather,Mini,Guangzhou,43,18,61,Spring,140,168,86,-82
+Madison Avenue,T Monogram Tote,Gray,Leather,Large,Shenzhen,40,17,57,Summer,300,300,266,-34
+Bal Harbour Shops,Kira Chevron Tote,Multi,Coated Canvas,Small,Ho Chi Minh City,32,17,49,Spring,168,201,133,-68
+El Palacio de Hierro (Polanco),Ella Tote,Red,Leather,Mini,Shenzhen,31,18,49,Fall,203,223,19,-204
+Rodeo Drive,Ella Tote,Multi,Pebbled Leather,Medium,Guangzhou,40,14,54,Winter,58,46,25,-21
+Westfield World Trade Center,Ella Tote,Pink,Jacquard,Large,Shenzhen,50,16,66,Spring,172,206,90,-116
+Pacific Centre,Britten Tote,Gray,Pebbled Leather,Small,Ho Chi Minh City,49,15,64,Summer,265,265,234,-31
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Brown,Jacquard,Large,Hanoi,42,14,56,Summer,252,252,163,-89
+South Coast Plaza,Britten Tote,White,Jacquard,Small,Ho Chi Minh City,30,15,45,Fall,84,92,142,50
+Aventura Mall,McGraw Tote,Red,Jacquard,Mini,Hanoi,30,15,45,Fall,69,75,14,-61
+Soho,Gemini Link Tote,Metallic,Canvas,Medium,Da Nang,45,15,60,Winter,299,239,38,-201
+Yorkdale Shopping Centre,Perry Tote,Multi,Leather,Medium,Ho Chi Minh City,45,17,62,Winter,212,169,100,-69
+San Francisco Centre,Perry Tote,Black,Leather,Large,Ho Chi Minh City,42,14,56,Summer,152,152,108,-44
+Madison Avenue,T Monogram Tote,Green,Leather,Small,Hanoi,42,14,56,Summer,170,170,165,-5
+NorthPark Center,Gemini Link Tote,Brown,Coated Canvas,Small,Shenzhen,48,14,62,Winter,103,82,87,5
+South Coast Plaza,Kira Chevron Tote,Yellow,Leather,Medium,Hanoi,42,17,59,Winter,79,63,103,40
+Bal Harbour Shops,T Monogram Tote,Blue,Jacquard,Small,Guangzhou,37,18,55,Fall,261,287,182,-105
+Westfield World Trade Center,Kira Chevron Tote,Purple,Canvas,Mini,Ho Chi Minh City,32,18,50,Winter,279,223,7,-216
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Blue,Pebbled Leather,Small,Guangzhou,43,17,60,Summer,278,278,191,-87
+El Palacio de Hierro (Polanco),Britten Tote,Metallic,Canvas,Small,Da Nang,30,16,46,Spring,139,166,160,-6
+Aventura Mall,Gemini Link Tote,White,Leather,Mini,Guangzhou,30,17,47,Spring,198,237,236,-1
+El Palacio de Hierro (Santa Fe),Robinson Tote,Pink,Leather,Medium,Shenzhen,43,17,60,Fall,206,226,249,23
+El Palacio de Hierro (Santa Fe),Britten Tote,Beige,Pebbled Leather,Medium,Shenzhen,41,14,55,Summer,232,232,27,-205
+NorthPark Center,McGraw Tote,Gray,Pebbled Leather,Medium,Ho Chi Minh City,48,14,62,Winter,182,145,183,38
+Pacific Centre,Robinson Tote,Purple,Pebbled Leather,Small,Guangzhou,31,14,45,Summer,60,60,60,0
+El Palacio de Hierro (Polanco),McGraw Tote,Purple,Coated Canvas,Medium,Da Nang,31,18,49,Summer,82,82,58,-24
+El Palacio de Hierro (Santa Fe),T Monogram Tote,White,Leather,Large,Guangzhou,34,15,49,Summer,130,130,94,-36
+Aventura Mall,Kira Chevron Tote,Beige,Leather,Mini,Da Nang,41,15,56,Winter,284,227,233,6
+Oak Street,Perry Tote,Green,Leather,Large,Da Nang,43,17,60,Fall,96,105,6,-99
+Aventura Mall,Gemini Link Tote,Purple,Canvas,Mini,Ho Chi Minh City,46,17,63,Spring,138,165,172,7
+Oak Street,Ella Tote,Multi,Leather,Mini,Guangzhou,35,17,52,Spring,174,208,176,-32
+The Galleria,McGraw Tote,Yellow,Canvas,Medium,Shenzhen,50,16,66,Fall,57,62,32,-30
+Rodeo Drive,T Monogram Tote,Black,Pebbled Leather,Large,Shenzhen,32,16,48,Fall,290,319,233,-86
+Yorkdale Shopping Centre,Britten Tote,Red,Pebbled Leather,Medium,Da Nang,38,18,56,Winter,149,119,69,-50
+Soho,McGraw Tote,Beige,Pebbled Leather,Large,Guangzhou,36,15,51,Spring,112,134,45,-89
+The Galleria,Ella Tote,White,Coated Canvas,Mini,Ho Chi Minh City,44,16,60,Spring,91,109,89,-20
+The Galleria,McGraw Tote,Red,Canvas,Large,Hanoi,43,16,59,Spring,101,121,156,35
+El Palacio de Hierro (Santa Fe),Robinson Tote,Metallic,Pebbled Leather,Mini,Da Nang,44,16,60,Fall,75,82,117,35
+Bal Harbour Shops,Ella Tote,Gray,Pebbled Leather,Large,Shenzhen,49,15,64,Summer,209,209,23,-186
+San Francisco Centre,Ella Tote,White,Leather,Small,Shenzhen,31,14,45,Spring,261,313,187,-126
+Bal Harbour Shops,Ella Tote,Blue,Leather,Medium,Da Nang,36,16,52,Spring,72,86,6,-80
+The Galleria,Perry Tote,Green,Jacquard,Large,Hanoi,49,18,67,Fall,65,71,67,-4
+Pacific Centre,Kira Chevron Tote,White,Leather,Medium,Shenzhen,36,15,51,Spring,168,201,202,1
+Oak Street,Robinson Tote,Purple,Coated Canvas,Large,Guangzhou,45,15,60,Fall,189,207,20,-187
+The Galleria,Gemini Link Tote,Red,Coated Canvas,Small,Da Nang,41,16,57,Winter,290,232,97,-135
+El Palacio de Hierro (Polanco),T Monogram Tote,Metallic,Coated Canvas,Mini,Da Nang,41,17,58,Summer,286,286,178,-108
+Pacific Centre,McGraw Tote,Gray,Coated Canvas,Small,Hanoi,50,15,65,Spring,261,313,242,-71
+South Coast Plaza,Perry Tote,Beige,Coated Canvas,Medium,Guangzhou,33,17,50,Winter,213,170,46,-124
+Westfield World Trade Center,Perry Tote,Red,Jacquard,Medium,Hanoi,50,15,65,Spring,260,312,281,-31
+The Galleria,Gemini Link Tote,Black,Leather,Medium,Da Nang,40,14,54,Winter,278,222,215,-7
+San Francisco Centre,Britten Tote,Multi,Jacquard,Large,Hanoi,39,14,53,Winter,218,174,34,-140
+El Palacio de Hierro (Santa Fe),McGraw Tote,Blue,Canvas,Mini,Shenzhen,50,15,65,Spring,252,302,345,43
+San Francisco Centre,T Monogram Tote,Multi,Pebbled Leather,Large,Hanoi,38,18,56,Summer,179,179,131,-48
+NorthPark Center,Robinson Tote,Purple,Leather,Large,Guangzhou,31,14,45,Spring,271,325,249,-76
+Madison Avenue,Ella Tote,Yellow,Pebbled Leather,Large,Hanoi,46,16,62,Spring,168,201,70,-131
+Aventura Mall,T Monogram Tote,Pink,Coated Canvas,Medium,Guangzhou,40,17,57,Spring,201,241,214,-27
+Pacific Centre,Robinson Tote,Green,Jacquard,Medium,Guangzhou,34,14,48,Summer,52,52,39,-13
+El Palacio de Hierro (Polanco),Britten Tote,White,Jacquard,Small,Da Nang,32,15,47,Spring,163,195,177,-18
+Rodeo Drive,Ella Tote,Gray,Pebbled Leather,Large,Guangzhou,44,17,61,Spring,128,153,72,-81
+Soho,McGraw Tote,Gray,Leather,Large,Da Nang,48,16,64,Summer,284,284,237,-47
+El Palacio de Hierro (Polanco),Gemini Link Tote,Red,Canvas,Medium,Ho Chi Minh City,42,15,57,Spring,94,112,107,-5
+Aventura Mall,Ella Tote,Red,Pebbled Leather,Medium,Hanoi,37,16,53,Spring,72,86,41,-45
+Bal Harbour Shops,Perry Tote,Multi,Coated Canvas,Small,Shenzhen,32,16,48,Spring,147,176,25,-151
+Yorkdale Shopping Centre,Perry Tote,Purple,Coated Canvas,Mini,Guangzhou,44,17,61,Fall,99,108,47,-61
+Westfield World Trade Center,Perry Tote,Multi,Canvas,Small,Guangzhou,49,15,64,Spring,79,94,140,46
+Madison Avenue,Robinson Tote,Blue,Pebbled Leather,Large,Da Nang,50,17,67,Spring,200,240,230,-10
+El Palacio de Hierro (Polanco),Ella Tote,Blue,Canvas,Medium,Guangzhou,47,14,61,Winter,97,77,33,-44
+The Galleria,Britten Tote,Multi,Jacquard,Small,Ho Chi Minh City,31,16,47,Spring,167,200,63,-137
+Madison Avenue,T Monogram Tote,Yellow,Coated Canvas,Small,Hanoi,43,16,59,Fall,209,229,255,26
+The Galleria,Perry Tote,Metallic,Jacquard,Small,Guangzhou,40,18,58,Spring,105,126,69,-57
+Aventura Mall,Perry Tote,Metallic,Canvas,Large,Guangzhou,33,16,49,Fall,173,190,239,49
+Bal Harbour Shops,Perry Tote,Metallic,Leather,Small,Ho Chi Minh City,34,16,50,Winter,182,145,180,35
+Oak Street,Kira Chevron Tote,Yellow,Canvas,Medium,Hanoi,50,17,67,Winter,69,55,104,49
+The Galleria,McGraw Tote,Multi,Jacquard,Mini,Hanoi,30,15,45,Summer,289,289,217,-72
+South Coast Plaza,Kira Chevron Tote,Beige,Leather,Small,Ho Chi Minh City,34,15,49,Winter,259,207,115,-92
+Aventura Mall,Ella Tote,Red,Pebbled Leather,Large,Guangzhou,40,14,54,Spring,217,260,247,-13
+Yorkdale Shopping Centre,T Monogram Tote,Pink,Coated Canvas,Small,Hanoi,35,16,51,Summer,293,293,131,-162
+El Palacio de Hierro (Polanco),McGraw Tote,Pink,Jacquard,Mini,Ho Chi Minh City,33,15,48,Winter,88,70,92,22
+Soho,T Monogram Tote,Blue,Coated Canvas,Mini,Da Nang,41,14,55,Winter,296,236,205,-31
+South Coast Plaza,Gemini Link Tote,Purple,Coated Canvas,Mini,Shenzhen,40,16,56,Winter,199,159,151,-8
+Pacific Centre,T Monogram Tote,Yellow,Coated Canvas,Mini,Guangzhou,32,16,48,Summer,249,249,38,-211
+Westfield World Trade Center,Britten Tote,White,Coated Canvas,Medium,Guangzhou,36,15,51,Spring,79,94,129,35
+The Galleria,McGraw Tote,Beige,Jacquard,Medium,Hanoi,42,17,59,Summer,165,165,5,-160
+Pacific Centre,Ella Tote,White,Leather,Large,Hanoi,44,17,61,Fall,221,243,30,-213
+South Coast Plaza,McGraw Tote,Yellow,Pebbled Leather,Medium,Hanoi,33,16,49,Winter,148,118,96,-22
+El Palacio de Hierro (Santa Fe),Robinson Tote,Red,Leather,Mini,Da Nang,45,16,61,Summer,211,211,225,14
+Oak Street,Robinson Tote,White,Coated Canvas,Large,Da Nang,40,14,54,Spring,239,286,267,-19
+Rodeo Drive,Perry Tote,Gray,Coated Canvas,Small,Hanoi,39,14,53,Winter,222,177,23,-154
+South Coast Plaza,Perry Tote,Beige,Jacquard,Large,Shenzhen,50,16,66,Spring,272,326,366,40
+Rodeo Drive,Ella Tote,Blue,Canvas,Large,Da Nang,34,16,50,Winter,236,188,211,23
+Pacific Centre,Robinson Tote,Brown,Coated Canvas,Large,Guangzhou,35,15,50,Summer,190,190,154,-36
+NorthPark Center,Gemini Link Tote,Blue,Canvas,Mini,Hanoi,34,18,52,Fall,183,201,60,-141
+Madison Avenue,Robinson Tote,Brown,Jacquard,Mini,Da Nang,43,14,57,Fall,89,97,147,50
+El Palacio de Hierro (Santa Fe),McGraw Tote,Blue,Jacquard,Small,Guangzhou,30,17,47,Fall,237,260,84,-176
+Westfield World Trade Center,Perry Tote,Gray,Leather,Medium,Guangzhou,37,14,51,Winter,94,75,93,18
+NorthPark Center,McGraw Tote,Multi,Coated Canvas,Large,Ho Chi Minh City,41,16,57,Spring,156,187,158,-29
+El Palacio de Hierro (Polanco),T Monogram Tote,Pink,Jacquard,Small,Da Nang,38,17,55,Fall,220,242,149,-93
+NorthPark Center,Kira Chevron Tote,Brown,Canvas,Medium,Shenzhen,32,17,49,Fall,163,179,122,-57
+Rodeo Drive,Perry Tote,Metallic,Coated Canvas,Mini,Ho Chi Minh City,33,15,48,Spring,262,314,303,-11
+NorthPark Center,Robinson Tote,Pink,Coated Canvas,Medium,Ho Chi Minh City,44,18,62,Winter,54,43,84,41
+Soho,Gemini Link Tote,Gray,Canvas,Medium,Da Nang,43,15,58,Summer,94,94,30,-64
+El Palacio de Hierro (Santa Fe),Perry Tote,Metallic,Jacquard,Small,Guangzhou,32,17,49,Spring,238,285,94,-191
+Aventura Mall,Kira Chevron Tote,Green,Jacquard,Small,Shenzhen,30,16,46,Spring,60,72,83,11
+San Francisco Centre,T Monogram Tote,Metallic,Coated Canvas,Mini,Ho Chi Minh City,30,15,45,Winter,184,147,84,-63
+The Galleria,Britten Tote,Brown,Canvas,Medium,Ho Chi Minh City,49,17,66,Fall,276,303,99,-204
+NorthPark Center,Kira Chevron Tote,Green,Canvas,Small,Guangzhou,38,18,56,Summer,103,103,69,-34
+Soho,Gemini Link Tote,Gray,Leather,Mini,Ho Chi Minh City,44,17,61,Fall,64,70,51,-19
+Soho,Ella Tote,Metallic,Jacquard,Small,Guangzhou,37,15,52,Summer,66,66,59,-7
+The Galleria,Kira Chevron Tote,Metallic,Leather,Mini,Guangzhou,43,14,57,Winter,220,176,157,-19
+Aventura Mall,Perry Tote,Pink,Coated Canvas,Medium,Da Nang,45,17,62,Spring,175,210,197,-13
+Pacific Centre,Kira Chevron Tote,Green,Coated Canvas,Small,Ho Chi Minh City,32,16,48,Spring,55,66,78,12
+Pacific Centre,Perry Tote,Yellow,Canvas,Mini,Guangzhou,49,16,65,Summer,255,255,99,-156
+NorthPark Center,T Monogram Tote,Black,Leather,Small,Guangzhou,46,17,63,Fall,69,75,37,-38
+Westfield World Trade Center,Kira Chevron Tote,Gray,Jacquard,Medium,Shenzhen,31,17,48,Fall,142,156,76,-80
+Pacific Centre,Britten Tote,Pink,Pebbled Leather,Medium,Hanoi,36,15,51,Spring,222,266,157,-109
+San Francisco Centre,Robinson Tote,Multi,Leather,Mini,Shenzhen,41,14,55,Winter,242,193,115,-78
+Oak Street,Robinson Tote,Blue,Jacquard,Medium,Hanoi,45,16,61,Fall,229,251,110,-141
+The Galleria,Ella Tote,Brown,Canvas,Large,Hanoi,41,16,57,Summer,242,242,163,-79
+Soho,Kira Chevron Tote,Brown,Coated Canvas,Small,Ho Chi Minh City,46,14,60,Fall,131,144,1,-143
+The Galleria,Britten Tote,Gray,Leather,Small,Shenzhen,40,14,54,Winter,105,84,38,-46
+El Palacio de Hierro (Polanco),McGraw Tote,Brown,Coated Canvas,Small,Da Nang,31,17,48,Spring,234,280,228,-52
+Rodeo Drive,Robinson Tote,Blue,Jacquard,Small,Hanoi,36,16,52,Winter,68,54,78,24
+South Coast Plaza,T Monogram Tote,Yellow,Coated Canvas,Medium,Guangzhou,46,18,64,Fall,224,246,256,10
+South Coast Plaza,McGraw Tote,Brown,Leather,Mini,Da Nang,32,18,50,Summer,254,254,214,-40
+Yorkdale Shopping Centre,Britten Tote,Multi,Leather,Small,Hanoi,33,15,48,Spring,59,70,18,-52
+NorthPark Center,Kira Chevron Tote,Black,Pebbled Leather,Mini,Shenzhen,46,18,64,Summer,141,141,31,-110
+Yorkdale Shopping Centre,Robinson Tote,Metallic,Coated Canvas,Small,Shenzhen,40,16,56,Summer,285,285,321,36
+Pacific Centre,Perry Tote,Black,Jacquard,Medium,Da Nang,31,18,49,Spring,141,169,143,-26
+The Galleria,Ella Tote,Brown,Coated Canvas,Small,Guangzhou,42,16,58,Summer,231,231,102,-129
+Oak Street,T Monogram Tote,Red,Leather,Mini,Hanoi,41,15,56,Summer,151,151,94,-57
+The Galleria,T Monogram Tote,Beige,Canvas,Large,Ho Chi Minh City,34,14,48,Spring,180,216,100,-116
+Yorkdale Shopping Centre,Gemini Link Tote,Yellow,Pebbled Leather,Small,Guangzhou,36,17,53,Winter,253,202,148,-54
+Oak Street,Gemini Link Tote,Purple,Pebbled Leather,Mini,Hanoi,40,14,54,Spring,180,216,196,-20
+Yorkdale Shopping Centre,Gemini Link Tote,Purple,Canvas,Mini,Ho Chi Minh City,38,15,53,Summer,296,296,154,-142
+Soho,T Monogram Tote,Black,Coated Canvas,Medium,Ho Chi Minh City,46,18,64,Winter,146,116,111,-5
+NorthPark Center,Robinson Tote,Black,Canvas,Small,Guangzhou,39,17,56,Winter,147,117,21,-96
+Westfield World Trade Center,Robinson Tote,Black,Jacquard,Medium,Ho Chi Minh City,42,17,59,Spring,83,99,108,9
+Soho,Perry Tote,Purple,Canvas,Mini,Ho Chi Minh City,32,15,47,Summer,268,268,105,-163
+The Galleria,Perry Tote,Red,Leather,Small,Ho Chi Minh City,35,14,49,Fall,176,193,236,43
+El Palacio de Hierro (Polanco),Britten Tote,White,Jacquard,Large,Hanoi,41,15,56,Fall,142,156,0,-156
+Westfield World Trade Center,Gemini Link Tote,Purple,Coated Canvas,Large,Guangzhou,37,18,55,Fall,141,155,2,-153
+Westfield World Trade Center,Robinson Tote,Black,Jacquard,Large,Da Nang,38,17,55,Spring,60,72,70,-2
+El Palacio de Hierro (Polanco),Gemini Link Tote,Pink,Pebbled Leather,Small,Guangzhou,39,16,55,Spring,225,270,193,-77
+Madison Avenue,Britten Tote,Black,Leather,Small,Ho Chi Minh City,50,18,68,Summer,133,133,136,3
+South Coast Plaza,Robinson Tote,Metallic,Jacquard,Large,Guangzhou,36,17,53,Fall,283,311,299,-12
+NorthPark Center,Ella Tote,Yellow,Canvas,Medium,Shenzhen,47,16,63,Spring,292,350,321,-29
+Pacific Centre,Robinson Tote,Blue,Leather,Medium,Da Nang,42,15,57,Winter,131,104,17,-87
+Rodeo Drive,McGraw Tote,Purple,Pebbled Leather,Large,Da Nang,47,17,64,Winter,87,69,100,31
+Pacific Centre,Perry Tote,Green,Canvas,Small,Ho Chi Minh City,38,17,55,Spring,239,286,67,-219
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Gray,Canvas,Small,Hanoi,37,16,53,Spring,120,144,78,-66
+NorthPark Center,Britten Tote,Purple,Canvas,Large,Hanoi,46,18,64,Spring,200,240,161,-79
+Oak Street,T Monogram Tote,Gray,Canvas,Medium,Hanoi,36,15,51,Fall,73,80,20,-60
+Yorkdale Shopping Centre,Ella Tote,Metallic,Canvas,Large,Da Nang,35,16,51,Fall,161,177,146,-31
+The Galleria,Perry Tote,Red,Jacquard,Large,Guangzhou,37,18,55,Winter,119,95,42,-53
+Bal Harbour Shops,Gemini Link Tote,Gray,Coated Canvas,Large,Shenzhen,37,14,51,Summer,62,62,33,-29
+Madison Avenue,Robinson Tote,Pink,Coated Canvas,Medium,Guangzhou,49,18,67,Spring,294,352,240,-112
+El Palacio de Hierro (Polanco),Gemini Link Tote,Multi,Leather,Mini,Hanoi,30,15,45,Summer,153,153,151,-2
+South Coast Plaza,Perry Tote,White,Leather,Large,Shenzhen,35,18,53,Summer,238,238,194,-44
+South Coast Plaza,Robinson Tote,Pink,Coated Canvas,Mini,Shenzhen,38,15,53,Winter,63,50,71,21
+Rodeo Drive,Ella Tote,Yellow,Canvas,Medium,Hanoi,37,15,52,Winter,136,108,21,-87
+El Palacio de Hierro (Polanco),Perry Tote,Pink,Pebbled Leather,Small,Guangzhou,50,17,67,Summer,209,209,237,28
+Rodeo Drive,McGraw Tote,Metallic,Jacquard,Large,Da Nang,47,15,62,Fall,92,101,121,20
+Pacific Centre,Perry Tote,Gray,Canvas,Medium,Guangzhou,44,15,59,Winter,73,58,18,-40
+Bal Harbour Shops,T Monogram Tote,Green,Canvas,Medium,Guangzhou,39,15,54,Spring,207,248,137,-111
+Rodeo Drive,Kira Chevron Tote,Green,Pebbled Leather,Medium,Guangzhou,46,16,62,Spring,134,160,26,-134
+Pacific Centre,Perry Tote,Beige,Canvas,Large,Ho Chi Minh City,36,14,50,Spring,197,236,110,-126
+NorthPark Center,Robinson Tote,White,Jacquard,Large,Hanoi,49,18,67,Fall,188,206,155,-51
+Soho,Ella Tote,Red,Canvas,Mini,Da Nang,32,17,49,Winter,74,59,63,4
+Soho,Gemini Link Tote,Multi,Pebbled Leather,Mini,Shenzhen,32,14,46,Winter,69,55,69,14
+The Galleria,Perry Tote,Green,Pebbled Leather,Small,Guangzhou,47,15,62,Fall,278,305,47,-258
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Beige,Jacquard,Mini,Da Nang,31,15,46,Summer,186,186,160,-26
+South Coast Plaza,Gemini Link Tote,Pink,Canvas,Medium,Shenzhen,33,15,48,Fall,283,311,131,-180
+Pacific Centre,Perry Tote,Metallic,Canvas,Large,Hanoi,50,14,64,Fall,192,211,237,26
+Oak Street,McGraw Tote,Red,Pebbled Leather,Small,Hanoi,44,18,62,Summer,63,63,61,-2
+South Coast Plaza,Britten Tote,Blue,Coated Canvas,Medium,Guangzhou,49,18,67,Fall,239,262,91,-171
+Pacific Centre,Gemini Link Tote,Green,Canvas,Small,Da Nang,37,14,51,Spring,256,307,199,-108
+San Francisco Centre,Robinson Tote,Beige,Coated Canvas,Large,Da Nang,43,14,57,Spring,153,183,80,-103
+Pacific Centre,Britten Tote,Red,Coated Canvas,Small,Shenzhen,40,15,55,Fall,98,107,122,15
+San Francisco Centre,T Monogram Tote,Metallic,Pebbled Leather,Mini,Guangzhou,43,16,59,Fall,133,146,183,37
+Pacific Centre,Robinson Tote,Brown,Pebbled Leather,Large,Da Nang,48,18,66,Spring,205,246,147,-99
+San Francisco Centre,Robinson Tote,Black,Coated Canvas,Mini,Ho Chi Minh City,30,14,44,Fall,194,213,203,-10
+South Coast Plaza,T Monogram Tote,Green,Pebbled Leather,Mini,Ho Chi Minh City,42,15,57,Spring,96,115,42,-73
+El Palacio de Hierro (Santa Fe),McGraw Tote,Red,Coated Canvas,Medium,Ho Chi Minh City,33,16,49,Fall,223,245,182,-63
+Oak Street,Perry Tote,Gray,Leather,Small,Guangzhou,40,18,58,Spring,177,212,239,27
+Bal Harbour Shops,Kira Chevron Tote,Black,Jacquard,Mini,Shenzhen,49,18,67,Winter,246,196,151,-45
+Yorkdale Shopping Centre,Gemini Link Tote,White,Pebbled Leather,Mini,Guangzhou,44,14,58,Spring,80,96,54,-42
+Rodeo Drive,Ella Tote,Multi,Pebbled Leather,Medium,Hanoi,36,14,50,Summer,54,54,77,23
+NorthPark Center,Kira Chevron Tote,Metallic,Jacquard,Large,Ho Chi Minh City,46,16,62,Spring,75,90,45,-45
+El Palacio de Hierro (Polanco),Britten Tote,Metallic,Canvas,Large,Ho Chi Minh City,42,16,58,Spring,297,356,116,-240
+The Galleria,Gemini Link Tote,Multi,Pebbled Leather,Small,Shenzhen,47,17,64,Spring,161,193,145,-48
+San Francisco Centre,McGraw Tote,Black,Leather,Medium,Ho Chi Minh City,32,17,49,Winter,276,220,102,-118
+Soho,Robinson Tote,Black,Pebbled Leather,Mini,Shenzhen,44,14,58,Fall,143,157,94,-63
+Pacific Centre,T Monogram Tote,Multi,Pebbled Leather,Medium,Guangzhou,34,18,52,Fall,137,150,71,-79
+Bal Harbour Shops,Gemini Link Tote,Gray,Leather,Small,Shenzhen,39,18,57,Summer,184,184,169,-15
+The Galleria,Perry Tote,Metallic,Leather,Large,Hanoi,42,14,56,Summer,148,148,69,-79
+Oak Street,Britten Tote,Beige,Canvas,Mini,Hanoi,38,18,56,Winter,138,110,90,-20
+Westfield World Trade Center,Robinson Tote,White,Leather,Medium,Da Nang,31,18,49,Winter,262,209,152,-57
+San Francisco Centre,Kira Chevron Tote,Gray,Canvas,Small,Da Nang,42,17,59,Summer,134,134,66,-68
+Soho,Ella Tote,Red,Jacquard,Small,Da Nang,42,15,57,Fall,78,85,111,26
+The Galleria,Gemini Link Tote,Gray,Jacquard,Large,Shenzhen,46,14,60,Spring,95,114,60,-54
+Rodeo Drive,Perry Tote,Pink,Jacquard,Small,Shenzhen,39,16,55,Spring,220,264,84,-180
+Yorkdale Shopping Centre,Kira Chevron Tote,Pink,Canvas,Medium,Hanoi,50,17,67,Spring,198,237,248,11
+Madison Avenue,Robinson Tote,Multi,Leather,Large,Ho Chi Minh City,34,14,48,Spring,219,262,257,-5
+Aventura Mall,Perry Tote,Purple,Jacquard,Medium,Shenzhen,43,14,57,Winter,224,179,13,-166
+Bal Harbour Shops,T Monogram Tote,Red,Canvas,Small,Da Nang,34,17,51,Winter,194,155,143,-12
+NorthPark Center,Kira Chevron Tote,White,Pebbled Leather,Large,Ho Chi Minh City,42,18,60,Summer,128,128,133,5
+The Galleria,Ella Tote,Gray,Pebbled Leather,Small,Hanoi,32,15,47,Spring,293,351,157,-194
+Bal Harbour Shops,Ella Tote,Black,Pebbled Leather,Small,Da Nang,44,15,59,Summer,52,52,66,14
+Yorkdale Shopping Centre,Perry Tote,Pink,Coated Canvas,Mini,Da Nang,45,14,59,Spring,205,246,169,-77
+The Galleria,Gemini Link Tote,White,Canvas,Large,Hanoi,35,15,50,Winter,297,237,237,0
+Oak Street,Gemini Link Tote,Purple,Pebbled Leather,Small,Shenzhen,37,15,52,Spring,95,114,155,41
+Oak Street,Perry Tote,Gray,Coated Canvas,Small,Shenzhen,45,17,62,Summer,143,143,76,-67
+Aventura Mall,Perry Tote,Multi,Leather,Mini,Hanoi,35,15,50,Fall,212,233,48,-185
+Oak Street,Perry Tote,Metallic,Leather,Mini,Hanoi,40,14,54,Spring,61,73,50,-23
+Yorkdale Shopping Centre,Kira Chevron Tote,Brown,Jacquard,Small,Hanoi,37,14,51,Winter,266,212,30,-182
+Yorkdale Shopping Centre,Robinson Tote,Gray,Leather,Large,Da Nang,32,15,47,Fall,172,189,146,-43
+Yorkdale Shopping Centre,Robinson Tote,Pink,Leather,Medium,Ho Chi Minh City,36,18,54,Winter,285,228,35,-193
+San Francisco Centre,Britten Tote,Pink,Coated Canvas,Mini,Hanoi,35,17,52,Fall,198,217,231,14
+Westfield World Trade Center,Kira Chevron Tote,Multi,Leather,Medium,Guangzhou,47,14,61,Fall,285,313,104,-209
+El Palacio de Hierro (Santa Fe),Britten Tote,Blue,Coated Canvas,Medium,Guangzhou,46,17,63,Summer,223,223,30,-193
+Westfield World Trade Center,Perry Tote,Beige,Coated Canvas,Small,Shenzhen,39,18,57,Spring,229,274,129,-145
+El Palacio de Hierro (Polanco),Perry Tote,Blue,Canvas,Mini,Da Nang,30,14,44,Spring,232,278,254,-24
+Yorkdale Shopping Centre,McGraw Tote,White,Canvas,Large,Ho Chi Minh City,42,17,59,Winter,127,101,102,1
+Rodeo Drive,Britten Tote,Green,Pebbled Leather,Mini,Shenzhen,30,17,47,Spring,239,286,174,-112
+Pacific Centre,Britten Tote,Beige,Leather,Medium,Guangzhou,39,17,56,Fall,150,165,3,-162
+NorthPark Center,Ella Tote,Green,Coated Canvas,Large,Ho Chi Minh City,38,16,54,Fall,85,93,43,-50
+Aventura Mall,Ella Tote,Pink,Jacquard,Mini,Hanoi,42,16,58,Summer,70,70,111,41
+Madison Avenue,Britten Tote,Yellow,Jacquard,Large,Da Nang,40,14,54,Summer,271,271,220,-51
+Soho,Perry Tote,Pink,Leather,Mini,Ho Chi Minh City,38,16,54,Winter,280,224,127,-97
+NorthPark Center,Kira Chevron Tote,Beige,Leather,Small,Guangzhou,40,18,58,Winter,248,198,108,-90
+Rodeo Drive,Gemini Link Tote,Blue,Pebbled Leather,Medium,Guangzhou,45,16,61,Summer,221,221,101,-120
+Westfield World Trade Center,Kira Chevron Tote,Brown,Jacquard,Small,Shenzhen,30,17,47,Summer,59,59,106,47
+Aventura Mall,Ella Tote,Green,Pebbled Leather,Large,Ho Chi Minh City,37,15,52,Summer,64,64,6,-58
+Yorkdale Shopping Centre,T Monogram Tote,Yellow,Leather,Medium,Hanoi,34,15,49,Fall,87,95,138,43
+Yorkdale Shopping Centre,McGraw Tote,Pink,Pebbled Leather,Small,Hanoi,49,14,63,Winter,238,190,208,18
+El Palacio de Hierro (Polanco),T Monogram Tote,White,Jacquard,Small,Shenzhen,40,15,55,Winter,213,170,112,-58
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Green,Leather,Medium,Ho Chi Minh City,48,18,66,Spring,291,349,140,-209
+Rodeo Drive,Perry Tote,Blue,Coated Canvas,Large,Shenzhen,47,17,64,Fall,280,308,90,-218
+San Francisco Centre,Robinson Tote,Yellow,Leather,Small,Ho Chi Minh City,50,17,67,Fall,129,141,84,-57
+Pacific Centre,T Monogram Tote,Purple,Coated Canvas,Large,Shenzhen,35,14,49,Winter,163,130,111,-19
+San Francisco Centre,Robinson Tote,Red,Coated Canvas,Small,Guangzhou,39,14,53,Spring,120,144,107,-37
+Rodeo Drive,Ella Tote,Red,Pebbled Leather,Large,Da Nang,49,15,64,Summer,168,168,61,-107
+Madison Avenue,Britten Tote,White,Pebbled Leather,Small,Hanoi,36,14,50,Summer,224,224,273,49
+Madison Avenue,T Monogram Tote,Beige,Jacquard,Large,Hanoi,48,18,66,Spring,170,204,3,-201
+The Galleria,T Monogram Tote,Beige,Jacquard,Small,Shenzhen,44,16,60,Spring,102,122,76,-46
+Aventura Mall,Perry Tote,Purple,Jacquard,Mini,Shenzhen,39,17,56,Summer,109,109,64,-45
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Brown,Jacquard,Small,Shenzhen,44,14,58,Spring,84,100,34,-66
+Soho,Robinson Tote,Yellow,Pebbled Leather,Small,Shenzhen,45,18,63,Winter,184,147,84,-63
+Aventura Mall,Ella Tote,White,Canvas,Mini,Guangzhou,44,18,62,Summer,246,246,294,48
+Bal Harbour Shops,Perry Tote,Multi,Canvas,Small,Da Nang,32,14,46,Fall,94,103,96,-7
+El Palacio de Hierro (Polanco),Gemini Link Tote,Pink,Jacquard,Medium,Hanoi,36,14,50,Fall,164,180,172,-8
+NorthPark Center,T Monogram Tote,Pink,Pebbled Leather,Large,Guangzhou,37,16,53,Summer,233,233,230,-3
+Yorkdale Shopping Centre,Britten Tote,White,Pebbled Leather,Small,Hanoi,34,15,49,Winter,75,60,72,12
+Oak Street,Robinson Tote,White,Canvas,Medium,Guangzhou,36,18,54,Winter,185,148,188,40
+South Coast Plaza,Kira Chevron Tote,Red,Coated Canvas,Medium,Hanoi,30,15,45,Summer,64,64,32,-32
+Westfield World Trade Center,Kira Chevron Tote,Yellow,Jacquard,Large,Shenzhen,49,15,64,Summer,58,58,100,42
+NorthPark Center,Ella Tote,Brown,Coated Canvas,Medium,Shenzhen,45,16,61,Spring,179,214,16,-198
+Soho,Britten Tote,Purple,Jacquard,Mini,Da Nang,34,18,52,Fall,254,279,277,-2
+Bal Harbour Shops,Gemini Link Tote,Multi,Jacquard,Medium,Da Nang,41,15,56,Fall,257,282,318,36
+El Palacio de Hierro (Santa Fe),Britten Tote,Multi,Coated Canvas,Medium,Ho Chi Minh City,33,18,51,Fall,292,321,315,-6
+Pacific Centre,McGraw Tote,Red,Pebbled Leather,Mini,Shenzhen,39,16,55,Summer,262,262,22,-240
+Soho,Perry Tote,White,Pebbled Leather,Medium,Hanoi,36,15,51,Winter,242,193,61,-132
+South Coast Plaza,McGraw Tote,Metallic,Leather,Large,Hanoi,41,17,58,Fall,282,310,200,-110
+The Galleria,T Monogram Tote,Black,Jacquard,Large,Ho Chi Minh City,38,16,54,Summer,174,174,150,-24
+Soho,Kira Chevron Tote,Beige,Canvas,Large,Shenzhen,34,16,50,Winter,278,222,12,-210
+Rodeo Drive,McGraw Tote,Black,Leather,Large,Hanoi,47,18,65,Spring,128,153,124,-29
+Yorkdale Shopping Centre,Gemini Link Tote,Blue,Jacquard,Mini,Shenzhen,33,17,50,Spring,269,322,158,-164
+The Galleria,Ella Tote,Blue,Pebbled Leather,Small,Guangzhou,35,17,52,Summer,64,64,112,48
+El Palacio de Hierro (Santa Fe),Britten Tote,Beige,Pebbled Leather,Large,Hanoi,38,18,56,Spring,114,136,146,10
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Red,Coated Canvas,Mini,Guangzhou,39,15,54,Spring,186,223,248,25
+NorthPark Center,Kira Chevron Tote,Beige,Leather,Small,Shenzhen,50,18,68,Summer,259,259,280,21
+South Coast Plaza,Ella Tote,Gray,Leather,Medium,Da Nang,43,15,58,Spring,107,128,23,-105
+South Coast Plaza,McGraw Tote,Black,Pebbled Leather,Large,Guangzhou,48,15,63,Spring,211,253,174,-79
+El Palacio de Hierro (Santa Fe),Britten Tote,Blue,Jacquard,Mini,Ho Chi Minh City,45,18,63,Spring,249,298,257,-41
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Gray,Leather,Mini,Da Nang,48,16,64,Fall,215,236,250,14
+El Palacio de Hierro (Polanco),McGraw Tote,Brown,Canvas,Large,Hanoi,40,17,57,Spring,62,74,34,-40
+Madison Avenue,Britten Tote,Red,Pebbled Leather,Large,Ho Chi Minh City,35,15,50,Summer,198,198,94,-104
+Oak Street,Perry Tote,Black,Coated Canvas,Mini,Da Nang,39,16,55,Winter,136,108,86,-22
+Aventura Mall,T Monogram Tote,Blue,Leather,Large,Shenzhen,48,18,66,Summer,124,124,28,-96
+Yorkdale Shopping Centre,Robinson Tote,Multi,Jacquard,Mini,Guangzhou,43,17,60,Spring,258,309,162,-147
+San Francisco Centre,Robinson Tote,Metallic,Canvas,Medium,Da Nang,45,17,62,Spring,116,139,140,1
+El Palacio de Hierro (Polanco),McGraw Tote,Beige,Jacquard,Mini,Guangzhou,36,17,53,Spring,205,246,10,-236
+El Palacio de Hierro (Polanco),Britten Tote,Metallic,Jacquard,Small,Da Nang,37,16,53,Winter,258,206,134,-72
+Westfield World Trade Center,Robinson Tote,Brown,Jacquard,Medium,Hanoi,49,15,64,Spring,210,252,242,-10
+The Galleria,Gemini Link Tote,Green,Pebbled Leather,Large,Da Nang,47,15,62,Spring,226,271,199,-72
+San Francisco Centre,Perry Tote,Pink,Coated Canvas,Medium,Ho Chi Minh City,42,18,60,Fall,152,167,189,22
+Soho,McGraw Tote,Blue,Leather,Large,Ho Chi Minh City,38,15,53,Spring,210,252,90,-162
+San Francisco Centre,McGraw Tote,Beige,Leather,Small,Ho Chi Minh City,41,18,59,Fall,58,63,45,-18
+Oak Street,Gemini Link Tote,Yellow,Jacquard,Mini,Ho Chi Minh City,33,16,49,Fall,57,62,49,-13
+San Francisco Centre,McGraw Tote,Pink,Canvas,Large,Guangzhou,48,15,63,Spring,205,246,232,-14
+Yorkdale Shopping Centre,Robinson Tote,Metallic,Pebbled Leather,Small,Da Nang,30,16,46,Fall,206,226,74,-152
+Soho,Perry Tote,Multi,Jacquard,Small,Da Nang,45,14,59,Summer,126,126,15,-111
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Green,Canvas,Medium,Hanoi,45,16,61,Summer,286,286,153,-133
+NorthPark Center,T Monogram Tote,Multi,Coated Canvas,Small,Ho Chi Minh City,41,14,55,Fall,201,221,0,-221
+Yorkdale Shopping Centre,Ella Tote,Beige,Coated Canvas,Small,Ho Chi Minh City,38,17,55,Spring,124,148,75,-73
+Madison Avenue,McGraw Tote,Beige,Jacquard,Medium,Shenzhen,32,15,47,Fall,214,235,2,-233
+Rodeo Drive,Gemini Link Tote,Blue,Jacquard,Medium,Guangzhou,37,18,55,Spring,150,180,215,35
+Madison Avenue,Robinson Tote,Brown,Coated Canvas,Small,Da Nang,47,17,64,Fall,236,259,126,-133
+NorthPark Center,Kira Chevron Tote,Multi,Leather,Large,Da Nang,31,14,45,Spring,238,285,7,-278
+El Palacio de Hierro (Santa Fe),Britten Tote,Black,Pebbled Leather,Mini,Ho Chi Minh City,31,14,45,Spring,189,226,98,-128
+El Palacio de Hierro (Santa Fe),McGraw Tote,Gray,Pebbled Leather,Large,Ho Chi Minh City,45,14,59,Summer,178,178,214,36
+Madison Avenue,T Monogram Tote,White,Leather,Small,Guangzhou,45,14,59,Winter,241,192,4,-188
+El Palacio de Hierro (Polanco),McGraw Tote,Green,Leather,Large,Shenzhen,47,17,64,Winter,167,133,68,-65
+Yorkdale Shopping Centre,Ella Tote,Brown,Pebbled Leather,Medium,Hanoi,40,16,56,Summer,73,73,122,49
+El Palacio de Hierro (Santa Fe),Ella Tote,Brown,Coated Canvas,Small,Da Nang,37,16,53,Summer,78,78,95,17
+Pacific Centre,McGraw Tote,Green,Pebbled Leather,Small,Guangzhou,33,16,49,Summer,117,117,145,28
+Madison Avenue,T Monogram Tote,Beige,Coated Canvas,Large,Hanoi,41,15,56,Spring,52,62,9,-53
+Oak Street,Ella Tote,Beige,Pebbled Leather,Mini,Da Nang,40,17,57,Fall,176,193,158,-35
+Oak Street,Britten Tote,Yellow,Canvas,Small,Hanoi,38,15,53,Winter,166,132,133,1
+Rodeo Drive,Ella Tote,Brown,Leather,Mini,Shenzhen,43,17,60,Fall,69,75,35,-40
+Bal Harbour Shops,Gemini Link Tote,Green,Leather,Small,Shenzhen,39,14,53,Fall,50,55,25,-30
+Soho,T Monogram Tote,Pink,Jacquard,Large,Shenzhen,33,15,48,Spring,147,176,32,-144
+San Francisco Centre,Britten Tote,Gray,Pebbled Leather,Medium,Da Nang,37,18,55,Summer,244,244,221,-23
+Westfield World Trade Center,McGraw Tote,Gray,Jacquard,Medium,Shenzhen,35,16,51,Summer,163,163,4,-159
+Oak Street,Ella Tote,Metallic,Leather,Medium,Da Nang,47,14,61,Spring,104,124,41,-83
+Aventura Mall,Britten Tote,Beige,Jacquard,Small,Guangzhou,30,14,44,Fall,239,262,5,-257
+Aventura Mall,T Monogram Tote,Gray,Coated Canvas,Small,Ho Chi Minh City,45,14,59,Fall,277,304,260,-44
+El Palacio de Hierro (Santa Fe),McGraw Tote,Pink,Jacquard,Small,Guangzhou,48,16,64,Spring,174,208,196,-12
+Soho,T Monogram Tote,Pink,Coated Canvas,Mini,Shenzhen,42,18,60,Fall,94,103,26,-77
+Rodeo Drive,McGraw Tote,Metallic,Jacquard,Large,Ho Chi Minh City,36,17,53,Fall,244,268,17,-251
+The Galleria,Kira Chevron Tote,Yellow,Jacquard,Small,Hanoi,31,18,49,Summer,240,240,250,10
+NorthPark Center,T Monogram Tote,Brown,Coated Canvas,Small,Guangzhou,46,16,62,Spring,231,277,250,-27
+El Palacio de Hierro (Polanco),T Monogram Tote,Brown,Pebbled Leather,Small,Shenzhen,48,15,63,Winter,185,148,105,-43
+South Coast Plaza,Ella Tote,Gray,Canvas,Medium,Ho Chi Minh City,31,14,45,Fall,109,119,76,-43
+Pacific Centre,Britten Tote,Yellow,Jacquard,Mini,Ho Chi Minh City,31,15,46,Winter,261,208,203,-5
+Madison Avenue,McGraw Tote,Red,Jacquard,Mini,Hanoi,44,14,58,Summer,206,206,124,-82
+San Francisco Centre,Ella Tote,Brown,Jacquard,Large,Guangzhou,40,16,56,Fall,246,270,87,-183
+El Palacio de Hierro (Polanco),McGraw Tote,Pink,Coated Canvas,Mini,Guangzhou,33,18,51,Spring,298,357,54,-303
+Soho,Perry Tote,White,Pebbled Leather,Medium,Shenzhen,36,16,52,Summer,121,121,156,35
+Westfield World Trade Center,Kira Chevron Tote,Gray,Canvas,Large,Shenzhen,48,17,65,Fall,189,207,78,-129
+San Francisco Centre,T Monogram Tote,Metallic,Coated Canvas,Large,Hanoi,40,14,54,Summer,221,221,231,10
+Bal Harbour Shops,Ella Tote,Gray,Pebbled Leather,Large,Da Nang,35,18,53,Spring,243,291,319,28
+Oak Street,Perry Tote,Pink,Pebbled Leather,Small,Hanoi,45,16,61,Winter,192,153,20,-133
+Madison Avenue,Ella Tote,Brown,Canvas,Mini,Ho Chi Minh City,37,18,55,Spring,126,151,51,-100
+El Palacio de Hierro (Santa Fe),Britten Tote,Multi,Leather,Small,Ho Chi Minh City,40,17,57,Fall,130,143,31,-112
+Pacific Centre,Kira Chevron Tote,Pink,Coated Canvas,Medium,Ho Chi Minh City,48,16,64,Spring,258,309,296,-13
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Red,Jacquard,Medium,Da Nang,47,17,64,Fall,238,261,306,45
+Soho,McGraw Tote,Red,Jacquard,Medium,Shenzhen,37,14,51,Winter,157,125,74,-51
+Madison Avenue,Ella Tote,Black,Jacquard,Mini,Ho Chi Minh City,38,15,53,Fall,248,272,275,3
+Madison Avenue,Perry Tote,Gray,Pebbled Leather,Large,Hanoi,43,16,59,Fall,57,62,40,-22
+El Palacio de Hierro (Santa Fe),McGraw Tote,Black,Leather,Medium,Hanoi,37,16,53,Spring,167,200,3,-197
+Westfield World Trade Center,Kira Chevron Tote,Red,Jacquard,Large,Guangzhou,44,17,61,Spring,67,80,98,18
+Rodeo Drive,Robinson Tote,Brown,Pebbled Leather,Mini,Guangzhou,46,17,63,Winter,210,168,66,-102
+El Palacio de Hierro (Santa Fe),McGraw Tote,Metallic,Jacquard,Medium,Guangzhou,44,14,58,Summer,75,75,42,-33
+Bal Harbour Shops,Robinson Tote,Green,Pebbled Leather,Medium,Guangzhou,46,17,63,Spring,237,284,96,-188
+El Palacio de Hierro (Santa Fe),Perry Tote,Pink,Canvas,Large,Da Nang,36,18,54,Fall,80,88,70,-18
+South Coast Plaza,Robinson Tote,Beige,Canvas,Mini,Hanoi,46,18,64,Winter,280,224,181,-43
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Multi,Pebbled Leather,Mini,Hanoi,47,18,65,Spring,130,156,83,-73
+Bal Harbour Shops,Britten Tote,Pink,Pebbled Leather,Small,Hanoi,30,18,48,Spring,190,228,250,22
+The Galleria,Britten Tote,Purple,Pebbled Leather,Medium,Hanoi,50,15,65,Fall,182,200,215,15
+Yorkdale Shopping Centre,Britten Tote,Pink,Pebbled Leather,Mini,Ho Chi Minh City,38,17,55,Fall,72,79,119,40
+Soho,Gemini Link Tote,Beige,Canvas,Medium,Da Nang,42,18,60,Spring,299,358,396,38
+Madison Avenue,Britten Tote,Metallic,Canvas,Medium,Ho Chi Minh City,30,14,44,Spring,143,171,148,-23
+Yorkdale Shopping Centre,McGraw Tote,Brown,Coated Canvas,Mini,Shenzhen,47,18,65,Fall,179,196,151,-45
+Soho,Kira Chevron Tote,Yellow,Jacquard,Mini,Shenzhen,30,16,46,Fall,181,199,100,-99
+El Palacio de Hierro (Santa Fe),Perry Tote,Brown,Canvas,Large,Da Nang,32,17,49,Winter,193,154,188,34
+Pacific Centre,Gemini Link Tote,Purple,Pebbled Leather,Medium,Da Nang,34,16,50,Fall,186,204,220,16
+Rodeo Drive,Perry Tote,Gray,Canvas,Mini,Shenzhen,46,18,64,Summer,51,51,92,41
+Bal Harbour Shops,Robinson Tote,Pink,Leather,Small,Ho Chi Minh City,46,16,62,Fall,192,211,194,-17
+NorthPark Center,McGraw Tote,Pink,Coated Canvas,Medium,Shenzhen,30,16,46,Summer,266,266,102,-164
+El Palacio de Hierro (Polanco),Robinson Tote,Multi,Leather,Large,Da Nang,44,14,58,Summer,149,149,83,-66
+Westfield World Trade Center,Perry Tote,Pink,Pebbled Leather,Small,Da Nang,41,18,59,Fall,228,250,28,-222
+Madison Avenue,Britten Tote,Metallic,Leather,Large,Shenzhen,33,14,47,Spring,208,249,77,-172
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Gray,Canvas,Medium,Guangzhou,48,18,66,Summer,225,225,156,-69
+El Palacio de Hierro (Santa Fe),Britten Tote,Pink,Leather,Small,Da Nang,49,14,63,Winter,289,231,29,-202
+El Palacio de Hierro (Polanco),Robinson Tote,Pink,Leather,Medium,Ho Chi Minh City,40,15,55,Summer,84,84,40,-44
+San Francisco Centre,T Monogram Tote,Multi,Canvas,Mini,Guangzhou,30,16,46,Fall,284,312,134,-178
+Bal Harbour Shops,McGraw Tote,Pink,Canvas,Mini,Da Nang,31,17,48,Winter,119,95,52,-43
+Soho,McGraw Tote,Gray,Canvas,Mini,Guangzhou,37,18,55,Winter,109,87,115,28
+Bal Harbour Shops,Perry Tote,Black,Pebbled Leather,Mini,Hanoi,32,14,46,Winter,158,126,105,-21
+Madison Avenue,Ella Tote,Purple,Jacquard,Medium,Ho Chi Minh City,34,18,52,Winter,129,103,45,-58
+San Francisco Centre,T Monogram Tote,Multi,Leather,Mini,Shenzhen,40,17,57,Fall,266,292,297,5
+Yorkdale Shopping Centre,Robinson Tote,Beige,Leather,Mini,Ho Chi Minh City,32,17,49,Spring,289,346,248,-98
+El Palacio de Hierro (Polanco),Robinson Tote,Blue,Canvas,Medium,Guangzhou,36,16,52,Winter,169,135,25,-110
+Oak Street,Perry Tote,Yellow,Jacquard,Mini,Hanoi,42,16,58,Summer,203,203,193,-10
+Westfield World Trade Center,Perry Tote,White,Coated Canvas,Small,Shenzhen,47,14,61,Summer,285,285,161,-124
+NorthPark Center,Kira Chevron Tote,Multi,Pebbled Leather,Medium,Da Nang,48,14,62,Winter,52,41,38,-3
+San Francisco Centre,Kira Chevron Tote,Gray,Leather,Medium,Shenzhen,41,17,58,Fall,279,306,221,-85
+San Francisco Centre,Britten Tote,Green,Pebbled Leather,Large,Guangzhou,45,16,61,Summer,273,273,74,-199
+Soho,Britten Tote,Metallic,Canvas,Medium,Shenzhen,37,14,51,Summer,58,58,67,9
+Westfield World Trade Center,Perry Tote,Blue,Jacquard,Small,Da Nang,50,18,68,Spring,152,182,142,-40
+Westfield World Trade Center,Ella Tote,Pink,Coated Canvas,Large,Guangzhou,39,18,57,Fall,98,107,107,0
+Aventura Mall,Gemini Link Tote,Metallic,Leather,Small,Da Nang,38,16,54,Spring,139,166,149,-17
+Rodeo Drive,T Monogram Tote,Purple,Leather,Small,Hanoi,41,14,55,Spring,136,163,158,-5
+Bal Harbour Shops,Perry Tote,Red,Canvas,Medium,Da Nang,39,18,57,Spring,169,202,28,-174
+The Galleria,Britten Tote,Beige,Pebbled Leather,Large,Da Nang,50,16,66,Fall,112,123,38,-85
+Pacific Centre,Gemini Link Tote,Green,Jacquard,Large,Ho Chi Minh City,34,18,52,Fall,84,92,53,-39
+Aventura Mall,Gemini Link Tote,Yellow,Coated Canvas,Mini,Hanoi,43,15,58,Summer,68,68,87,19
+Aventura Mall,Gemini Link Tote,Red,Canvas,Medium,Hanoi,48,16,64,Spring,143,171,100,-71
+Westfield World Trade Center,Britten Tote,Beige,Leather,Medium,Ho Chi Minh City,46,17,63,Winter,224,179,124,-55
+Yorkdale Shopping Centre,T Monogram Tote,Brown,Jacquard,Small,Ho Chi Minh City,48,18,66,Winter,166,132,141,9
+El Palacio de Hierro (Polanco),T Monogram Tote,Purple,Leather,Large,Shenzhen,39,17,56,Winter,197,157,12,-145
+El Palacio de Hierro (Polanco),T Monogram Tote,Brown,Jacquard,Large,Da Nang,42,16,58,Fall,246,270,2,-268
+The Galleria,Kira Chevron Tote,Blue,Leather,Medium,Da Nang,37,16,53,Spring,276,331,42,-289
+Madison Avenue,Gemini Link Tote,Red,Jacquard,Small,Da Nang,44,18,62,Summer,244,244,217,-27
+South Coast Plaza,Robinson Tote,Gray,Canvas,Medium,Da Nang,49,14,63,Spring,160,192,60,-132
+Madison Avenue,Kira Chevron Tote,Beige,Jacquard,Mini,Da Nang,32,14,46,Fall,280,308,304,-4
+San Francisco Centre,Perry Tote,Yellow,Canvas,Large,Da Nang,31,15,46,Fall,234,257,265,8
+Pacific Centre,Kira Chevron Tote,White,Canvas,Mini,Da Nang,48,16,64,Winter,232,185,24,-161
+NorthPark Center,McGraw Tote,Black,Jacquard,Small,Ho Chi Minh City,35,17,52,Spring,60,72,21,-51
+Soho,Perry Tote,Green,Leather,Large,Hanoi,35,18,53,Summer,253,253,5,-248
+The Galleria,McGraw Tote,Purple,Jacquard,Large,Ho Chi Minh City,43,15,58,Spring,84,100,133,33
+Pacific Centre,Ella Tote,Blue,Leather,Large,Hanoi,50,14,64,Winter,52,41,36,-5
+Bal Harbour Shops,Kira Chevron Tote,Black,Coated Canvas,Small,Guangzhou,35,15,50,Winter,263,210,201,-9
+Westfield World Trade Center,Ella Tote,Purple,Leather,Mini,Hanoi,37,16,53,Summer,244,244,78,-166
+South Coast Plaza,Britten Tote,Pink,Pebbled Leather,Mini,Ho Chi Minh City,43,16,59,Winter,137,109,153,44
+Rodeo Drive,Perry Tote,Red,Coated Canvas,Large,Hanoi,50,18,68,Spring,289,346,332,-14
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Red,Jacquard,Mini,Shenzhen,31,15,46,Spring,214,256,200,-56
+Oak Street,Kira Chevron Tote,Brown,Leather,Small,Shenzhen,47,14,61,Spring,73,87,103,16
+The Galleria,Perry Tote,Purple,Coated Canvas,Small,Shenzhen,33,14,47,Winter,197,157,96,-61
+San Francisco Centre,Gemini Link Tote,Green,Leather,Small,Ho Chi Minh City,47,18,65,Spring,272,326,363,37
+Yorkdale Shopping Centre,Gemini Link Tote,Gray,Pebbled Leather,Large,Ho Chi Minh City,49,16,65,Winter,292,233,108,-125
+NorthPark Center,Kira Chevron Tote,Gray,Pebbled Leather,Medium,Guangzhou,39,17,56,Spring,66,79,39,-40
+Westfield World Trade Center,Britten Tote,Gray,Pebbled Leather,Medium,Guangzhou,42,14,56,Winter,222,177,71,-106
+Rodeo Drive,McGraw Tote,Black,Leather,Small,Hanoi,31,17,48,Fall,61,67,12,-55
+San Francisco Centre,Britten Tote,Yellow,Jacquard,Mini,Shenzhen,50,14,64,Spring,239,286,83,-203
+Rodeo Drive,Perry Tote,Metallic,Jacquard,Small,Da Nang,30,17,47,Summer,189,189,54,-135
+Rodeo Drive,Ella Tote,Pink,Jacquard,Mini,Guangzhou,38,18,56,Winter,289,231,130,-101
+Madison Avenue,Ella Tote,Gray,Canvas,Small,Shenzhen,44,17,61,Fall,66,72,31,-41
+Yorkdale Shopping Centre,Ella Tote,Pink,Pebbled Leather,Medium,Da Nang,38,16,54,Summer,159,159,85,-74
+Bal Harbour Shops,Robinson Tote,Purple,Canvas,Small,Hanoi,49,15,64,Winter,134,107,38,-69
+Pacific Centre,T Monogram Tote,Black,Coated Canvas,Large,Da Nang,30,15,45,Spring,252,302,30,-272
+El Palacio de Hierro (Polanco),Robinson Tote,Red,Canvas,Mini,Da Nang,30,16,46,Winter,133,106,143,37
+Oak Street,McGraw Tote,Green,Pebbled Leather,Small,Da Nang,42,18,60,Winter,266,212,123,-89
+San Francisco Centre,Britten Tote,Black,Coated Canvas,Small,Da Nang,44,17,61,Fall,213,234,15,-219
+Oak Street,Robinson Tote,Green,Canvas,Small,Hanoi,38,16,54,Spring,266,319,175,-144
+The Galleria,Perry Tote,Brown,Jacquard,Mini,Da Nang,44,18,62,Summer,67,67,106,39
+The Galleria,Britten Tote,Red,Canvas,Mini,Hanoi,45,16,61,Summer,217,217,248,31
+NorthPark Center,Kira Chevron Tote,Multi,Leather,Large,Da Nang,36,16,52,Spring,176,211,197,-14
+El Palacio de Hierro (Santa Fe),McGraw Tote,Blue,Pebbled Leather,Mini,Hanoi,48,18,66,Summer,160,160,132,-28
+Bal Harbour Shops,Gemini Link Tote,Beige,Coated Canvas,Mini,Shenzhen,37,17,54,Summer,152,152,137,-15
+Westfield World Trade Center,Britten Tote,Beige,Leather,Mini,Guangzhou,41,18,59,Summer,139,139,20,-119
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Brown,Canvas,Medium,Guangzhou,33,14,47,Summer,72,72,62,-10
+Madison Avenue,Robinson Tote,Blue,Leather,Small,Hanoi,39,14,53,Winter,128,102,128,26
+NorthPark Center,Britten Tote,Metallic,Pebbled Leather,Mini,Da Nang,49,14,63,Summer,95,95,110,15
+The Galleria,Gemini Link Tote,White,Leather,Mini,Ho Chi Minh City,45,16,61,Fall,99,108,34,-74
+Bal Harbour Shops,Britten Tote,Black,Leather,Small,Ho Chi Minh City,40,16,56,Fall,294,323,147,-176
+Westfield World Trade Center,Kira Chevron Tote,Red,Coated Canvas,Small,Da Nang,36,18,54,Fall,202,222,187,-35
+Madison Avenue,Robinson Tote,Multi,Pebbled Leather,Large,Shenzhen,33,15,48,Spring,284,340,117,-223
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Beige,Pebbled Leather,Small,Guangzhou,43,16,59,Fall,140,154,180,26
+Oak Street,Gemini Link Tote,Multi,Coated Canvas,Small,Da Nang,31,14,45,Fall,166,182,120,-62
+Yorkdale Shopping Centre,Britten Tote,Gray,Coated Canvas,Small,Shenzhen,50,17,67,Winter,66,52,4,-48
+The Galleria,McGraw Tote,Yellow,Coated Canvas,Mini,Da Nang,50,18,68,Fall,61,67,70,3
+Westfield World Trade Center,Robinson Tote,Green,Leather,Mini,Ho Chi Minh City,41,16,57,Winter,76,60,7,-53
+Aventura Mall,Britten Tote,White,Leather,Medium,Guangzhou,49,16,65,Fall,107,117,100,-17
+South Coast Plaza,Robinson Tote,Pink,Jacquard,Medium,Da Nang,30,17,47,Spring,192,230,83,-147
+Soho,McGraw Tote,Beige,Canvas,Medium,Ho Chi Minh City,48,16,64,Spring,181,217,40,-177
+Westfield World Trade Center,Gemini Link Tote,Red,Pebbled Leather,Small,Ho Chi Minh City,41,14,55,Winter,126,100,95,-5
+Yorkdale Shopping Centre,Ella Tote,White,Jacquard,Mini,Ho Chi Minh City,45,14,59,Winter,293,234,159,-75
+Yorkdale Shopping Centre,Perry Tote,Pink,Canvas,Small,Da Nang,36,16,52,Spring,149,178,102,-76
+Madison Avenue,Britten Tote,Metallic,Coated Canvas,Mini,Hanoi,42,18,60,Winter,257,205,90,-115
+El Palacio de Hierro (Polanco),Perry Tote,Beige,Coated Canvas,Mini,Hanoi,47,15,62,Winter,170,136,164,28
+Rodeo Drive,Britten Tote,Beige,Coated Canvas,Mini,Da Nang,42,17,59,Spring,147,176,19,-157
+Pacific Centre,Perry Tote,Beige,Jacquard,Large,Ho Chi Minh City,42,15,57,Summer,206,206,222,16
+Pacific Centre,Gemini Link Tote,Yellow,Jacquard,Medium,Guangzhou,48,17,65,Spring,132,158,170,12
+Soho,Perry Tote,Multi,Pebbled Leather,Large,Da Nang,49,16,65,Winter,278,222,33,-189
+Madison Avenue,Ella Tote,Yellow,Leather,Mini,Guangzhou,46,15,61,Fall,230,253,180,-73
+NorthPark Center,Kira Chevron Tote,Gray,Jacquard,Small,Hanoi,31,18,49,Winter,190,152,41,-111
+Bal Harbour Shops,Britten Tote,Beige,Pebbled Leather,Medium,Da Nang,49,16,65,Winter,226,180,84,-96
+Bal Harbour Shops,McGraw Tote,Blue,Canvas,Mini,Shenzhen,39,15,54,Winter,283,226,233,7
+Madison Avenue,McGraw Tote,Green,Canvas,Large,Shenzhen,32,16,48,Summer,50,50,63,13
+Aventura Mall,Kira Chevron Tote,Pink,Coated Canvas,Medium,Guangzhou,43,17,60,Fall,205,225,83,-142
+The Galleria,Kira Chevron Tote,Gray,Jacquard,Mini,Hanoi,34,15,49,Spring,285,342,52,-290
+Yorkdale Shopping Centre,T Monogram Tote,White,Pebbled Leather,Mini,Guangzhou,32,14,46,Winter,70,56,54,-2
+NorthPark Center,Britten Tote,Brown,Canvas,Medium,Shenzhen,48,14,62,Spring,213,255,150,-105
+Oak Street,Ella Tote,Purple,Leather,Small,Da Nang,35,18,53,Fall,261,287,283,-4
+Yorkdale Shopping Centre,Perry Tote,Purple,Jacquard,Medium,Ho Chi Minh City,36,14,50,Winter,266,212,140,-72
+Soho,McGraw Tote,Beige,Canvas,Medium,Ho Chi Minh City,47,16,63,Summer,93,93,61,-32
+Oak Street,Perry Tote,Pink,Canvas,Large,Shenzhen,50,18,68,Winter,137,109,46,-63
+Aventura Mall,Perry Tote,Blue,Jacquard,Small,Guangzhou,34,15,49,Summer,113,113,23,-90
+Oak Street,Britten Tote,Multi,Canvas,Mini,Ho Chi Minh City,47,17,64,Fall,179,196,229,33
+Oak Street,T Monogram Tote,Brown,Coated Canvas,Large,Hanoi,46,15,61,Fall,215,236,138,-98
+San Francisco Centre,Perry Tote,Green,Canvas,Small,Shenzhen,34,18,52,Summer,290,290,122,-168
+Pacific Centre,Gemini Link Tote,Gray,Canvas,Large,Ho Chi Minh City,47,17,64,Fall,107,117,113,-4
+El Palacio de Hierro (Santa Fe),Robinson Tote,Gray,Pebbled Leather,Mini,Ho Chi Minh City,42,14,56,Summer,138,138,136,-2
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Yellow,Leather,Large,Shenzhen,34,15,49,Winter,219,175,204,29
+NorthPark Center,McGraw Tote,Purple,Pebbled Leather,Small,Guangzhou,41,17,58,Summer,290,290,155,-135
+NorthPark Center,Ella Tote,Blue,Jacquard,Large,Hanoi,38,17,55,Fall,96,105,68,-37
+The Galleria,Kira Chevron Tote,Pink,Leather,Small,Hanoi,50,18,68,Spring,112,134,19,-115
+El Palacio de Hierro (Polanco),T Monogram Tote,Black,Leather,Medium,Ho Chi Minh City,30,16,46,Summer,85,85,44,-41
+Aventura Mall,Robinson Tote,Gray,Pebbled Leather,Large,Hanoi,39,14,53,Spring,246,295,207,-88
+Madison Avenue,T Monogram Tote,Pink,Leather,Small,Shenzhen,31,18,49,Summer,268,268,221,-47
+Bal Harbour Shops,Perry Tote,Yellow,Canvas,Medium,Ho Chi Minh City,42,14,56,Fall,278,305,89,-216
+NorthPark Center,Gemini Link Tote,Blue,Coated Canvas,Mini,Shenzhen,40,17,57,Spring,164,196,49,-147
+The Galleria,McGraw Tote,Red,Canvas,Medium,Guangzhou,41,17,58,Summer,69,69,63,-6
+Oak Street,T Monogram Tote,Purple,Coated Canvas,Large,Da Nang,34,16,50,Winter,241,192,26,-166
+San Francisco Centre,Britten Tote,Beige,Leather,Mini,Da Nang,50,14,64,Spring,82,98,55,-43
+Westfield World Trade Center,Ella Tote,Gray,Canvas,Small,Hanoi,44,18,62,Winter,258,206,116,-90
+The Galleria,McGraw Tote,Black,Pebbled Leather,Small,Shenzhen,33,18,51,Winter,222,177,156,-21
+Yorkdale Shopping Centre,Robinson Tote,Red,Jacquard,Small,Shenzhen,36,16,52,Winter,59,47,96,49
+Soho,Kira Chevron Tote,Yellow,Leather,Small,Ho Chi Minh City,33,14,47,Fall,72,79,36,-43
+Pacific Centre,McGraw Tote,Blue,Leather,Small,Ho Chi Minh City,40,18,58,Winter,132,105,105,0
+Rodeo Drive,Ella Tote,Green,Pebbled Leather,Large,Ho Chi Minh City,39,14,53,Winter,80,64,10,-54
+Yorkdale Shopping Centre,Robinson Tote,Blue,Coated Canvas,Medium,Ho Chi Minh City,34,15,49,Spring,166,199,75,-124
+San Francisco Centre,Britten Tote,Gray,Coated Canvas,Small,Da Nang,46,18,64,Spring,97,116,68,-48
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Pink,Leather,Medium,Shenzhen,49,18,67,Spring,132,158,197,39
+San Francisco Centre,Ella Tote,Yellow,Leather,Large,Ho Chi Minh City,48,18,66,Summer,235,235,260,25
+Oak Street,Ella Tote,Beige,Coated Canvas,Large,Ho Chi Minh City,48,15,63,Fall,259,284,158,-126
+NorthPark Center,Kira Chevron Tote,Red,Pebbled Leather,Mini,Da Nang,34,16,50,Summer,155,155,145,-10
+Madison Avenue,McGraw Tote,Red,Leather,Medium,Ho Chi Minh City,48,17,65,Spring,194,232,45,-187
+South Coast Plaza,Gemini Link Tote,Multi,Leather,Medium,Hanoi,35,15,50,Spring,151,181,142,-39
+Soho,T Monogram Tote,Blue,Jacquard,Medium,Ho Chi Minh City,49,16,65,Fall,176,193,155,-38
+Pacific Centre,Perry Tote,Purple,Pebbled Leather,Mini,Da Nang,34,17,51,Summer,173,173,16,-157
+Pacific Centre,McGraw Tote,Blue,Jacquard,Small,Shenzhen,41,16,57,Summer,217,217,114,-103
+Bal Harbour Shops,Gemini Link Tote,Green,Pebbled Leather,Mini,Hanoi,48,16,64,Winter,91,72,84,12
+El Palacio de Hierro (Polanco),McGraw Tote,Multi,Pebbled Leather,Medium,Ho Chi Minh City,39,18,57,Fall,277,304,135,-169
+Pacific Centre,McGraw Tote,Black,Canvas,Small,Shenzhen,38,16,54,Summer,244,244,232,-12
+Oak Street,Gemini Link Tote,Metallic,Pebbled Leather,Mini,Guangzhou,48,16,64,Fall,197,216,252,36
+El Palacio de Hierro (Polanco),Gemini Link Tote,Purple,Pebbled Leather,Small,Ho Chi Minh City,48,16,64,Winter,128,102,134,32
+Yorkdale Shopping Centre,Kira Chevron Tote,Green,Jacquard,Mini,Da Nang,44,15,59,Winter,242,193,60,-133
+South Coast Plaza,Britten Tote,Red,Leather,Medium,Shenzhen,50,18,68,Spring,156,187,60,-127
+Bal Harbour Shops,Kira Chevron Tote,Pink,Coated Canvas,Medium,Ho Chi Minh City,44,15,59,Summer,275,275,182,-93
+Madison Avenue,Kira Chevron Tote,Green,Jacquard,Medium,Guangzhou,43,15,58,Fall,165,181,225,44
+South Coast Plaza,Britten Tote,Multi,Leather,Large,Da Nang,46,17,63,Summer,236,236,52,-184
+Bal Harbour Shops,Robinson Tote,Red,Leather,Mini,Da Nang,43,18,61,Summer,275,275,324,49
+El Palacio de Hierro (Santa Fe),Robinson Tote,Pink,Coated Canvas,Large,Da Nang,44,16,60,Summer,110,110,152,42
+Madison Avenue,Kira Chevron Tote,Brown,Jacquard,Small,Shenzhen,32,18,50,Winter,238,190,175,-15
+NorthPark Center,Robinson Tote,Red,Canvas,Mini,Guangzhou,40,15,55,Winter,51,40,86,46
+Yorkdale Shopping Centre,Ella Tote,Brown,Canvas,Medium,Hanoi,49,16,65,Spring,103,123,103,-20
+Pacific Centre,McGraw Tote,Brown,Pebbled Leather,Small,Shenzhen,42,16,58,Winter,125,100,127,27
+Rodeo Drive,McGraw Tote,Metallic,Canvas,Mini,Hanoi,45,18,63,Winter,256,204,51,-153
+Yorkdale Shopping Centre,Kira Chevron Tote,Red,Pebbled Leather,Medium,Da Nang,35,17,52,Spring,72,86,73,-13
+Rodeo Drive,Kira Chevron Tote,Purple,Leather,Large,Guangzhou,34,14,48,Fall,293,322,76,-246
+San Francisco Centre,Gemini Link Tote,Black,Pebbled Leather,Large,Guangzhou,32,16,48,Winter,115,92,114,22
+El Palacio de Hierro (Polanco),McGraw Tote,Brown,Canvas,Mini,Ho Chi Minh City,38,18,56,Winter,84,67,38,-29
+El Palacio de Hierro (Polanco),T Monogram Tote,Metallic,Leather,Medium,Guangzhou,36,18,54,Fall,166,182,200,18
+Westfield World Trade Center,McGraw Tote,Metallic,Pebbled Leather,Large,Da Nang,30,15,45,Summer,155,155,192,37
+Madison Avenue,T Monogram Tote,Gray,Coated Canvas,Small,Shenzhen,38,16,54,Spring,249,298,127,-171
+South Coast Plaza,T Monogram Tote,Blue,Leather,Mini,Shenzhen,43,14,57,Summer,247,247,123,-124
+Aventura Mall,T Monogram Tote,White,Canvas,Mini,Hanoi,39,17,56,Spring,152,182,30,-152
+Aventura Mall,Gemini Link Tote,Blue,Coated Canvas,Small,Ho Chi Minh City,34,16,50,Winter,58,46,4,-42
+Madison Avenue,Ella Tote,Beige,Coated Canvas,Medium,Da Nang,47,18,65,Summer,85,85,63,-22
+Pacific Centre,Ella Tote,Blue,Coated Canvas,Large,Hanoi,36,14,50,Summer,149,149,16,-133
+Rodeo Drive,Britten Tote,Brown,Canvas,Medium,Da Nang,41,14,55,Fall,239,262,8,-254
+Westfield World Trade Center,Kira Chevron Tote,White,Jacquard,Large,Guangzhou,36,16,52,Winter,273,218,145,-73
+Yorkdale Shopping Centre,McGraw Tote,Beige,Canvas,Large,Da Nang,39,17,56,Spring,171,205,224,19
+Aventura Mall,Perry Tote,Multi,Jacquard,Mini,Hanoi,40,14,54,Fall,63,69,54,-15
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Purple,Coated Canvas,Large,Guangzhou,33,14,47,Summer,164,164,164,0
+Aventura Mall,Robinson Tote,Multi,Canvas,Large,Guangzhou,33,18,51,Fall,72,79,77,-2
+Pacific Centre,Britten Tote,Red,Jacquard,Large,Ho Chi Minh City,41,17,58,Fall,169,185,81,-104
+Soho,McGraw Tote,Multi,Leather,Mini,Ho Chi Minh City,37,15,52,Spring,286,343,252,-91
+San Francisco Centre,Robinson Tote,Blue,Pebbled Leather,Large,Ho Chi Minh City,46,17,63,Spring,131,157,43,-114
+Rodeo Drive,McGraw Tote,Yellow,Canvas,Large,Shenzhen,40,17,57,Summer,165,165,111,-54
+Bal Harbour Shops,Kira Chevron Tote,Brown,Leather,Small,Ho Chi Minh City,46,17,63,Summer,247,247,15,-232
+Soho,Gemini Link Tote,Purple,Pebbled Leather,Medium,Shenzhen,39,16,55,Summer,91,91,28,-63
+Madison Avenue,Perry Tote,Blue,Leather,Large,Shenzhen,35,15,50,Winter,138,110,83,-27
+Rodeo Drive,McGraw Tote,Metallic,Jacquard,Small,Da Nang,36,14,50,Spring,75,90,55,-35
+Rodeo Drive,Perry Tote,Metallic,Coated Canvas,Medium,Da Nang,40,15,55,Winter,214,171,40,-131
+NorthPark Center,Perry Tote,Black,Pebbled Leather,Small,Shenzhen,39,14,53,Winter,230,184,2,-182
+Rodeo Drive,Gemini Link Tote,Pink,Pebbled Leather,Mini,Hanoi,36,17,53,Fall,57,62,34,-28
+El Palacio de Hierro (Santa Fe),Perry Tote,White,Pebbled Leather,Mini,Da Nang,48,18,66,Summer,160,160,173,13
+Rodeo Drive,T Monogram Tote,Blue,Pebbled Leather,Large,Da Nang,35,15,50,Spring,67,80,9,-71
+Pacific Centre,Gemini Link Tote,Multi,Leather,Medium,Ho Chi Minh City,41,18,59,Winter,269,215,263,48
+Soho,Kira Chevron Tote,Yellow,Coated Canvas,Medium,Shenzhen,45,18,63,Summer,95,95,74,-21
+Yorkdale Shopping Centre,Perry Tote,Metallic,Jacquard,Large,Shenzhen,42,14,56,Summer,93,93,70,-23
+Rodeo Drive,Britten Tote,White,Pebbled Leather,Large,Ho Chi Minh City,50,17,67,Fall,285,313,289,-24
+Rodeo Drive,T Monogram Tote,Gray,Leather,Small,Shenzhen,50,14,64,Fall,51,56,70,14
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Multi,Pebbled Leather,Small,Shenzhen,45,16,61,Fall,197,216,154,-62
+South Coast Plaza,Robinson Tote,Pink,Coated Canvas,Mini,Shenzhen,40,15,55,Fall,268,294,332,38
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Black,Canvas,Mini,Shenzhen,36,18,54,Winter,123,98,116,18
+Aventura Mall,Robinson Tote,Green,Jacquard,Mini,Da Nang,46,18,64,Spring,244,292,113,-179
+Pacific Centre,Britten Tote,White,Pebbled Leather,Large,Ho Chi Minh City,33,16,49,Fall,64,70,34,-36
+The Galleria,Perry Tote,Brown,Leather,Small,Da Nang,38,15,53,Fall,207,227,4,-223
+Westfield World Trade Center,Robinson Tote,Metallic,Jacquard,Medium,Hanoi,36,18,54,Winter,168,134,178,44
+Yorkdale Shopping Centre,T Monogram Tote,Multi,Pebbled Leather,Large,Hanoi,37,14,51,Spring,51,61,12,-49
+Bal Harbour Shops,Perry Tote,Pink,Coated Canvas,Mini,Guangzhou,49,18,67,Fall,54,59,16,-43
+South Coast Plaza,T Monogram Tote,Beige,Pebbled Leather,Mini,Da Nang,43,17,60,Spring,249,298,107,-191
+Yorkdale Shopping Centre,Perry Tote,Red,Jacquard,Large,Hanoi,49,16,65,Summer,157,157,36,-121
+El Palacio de Hierro (Santa Fe),Ella Tote,Red,Leather,Small,Da Nang,50,18,68,Spring,83,99,58,-41
+NorthPark Center,Ella Tote,Yellow,Canvas,Small,Hanoi,45,16,61,Fall,195,214,189,-25
+South Coast Plaza,Britten Tote,Brown,Leather,Mini,Guangzhou,46,14,60,Fall,103,113,59,-54
+Aventura Mall,Kira Chevron Tote,Pink,Coated Canvas,Small,Shenzhen,42,14,56,Fall,135,148,75,-73
+Soho,T Monogram Tote,Beige,Pebbled Leather,Small,Guangzhou,32,15,47,Spring,140,168,68,-100
+Westfield World Trade Center,Kira Chevron Tote,Metallic,Leather,Mini,Hanoi,43,18,61,Summer,279,279,188,-91
+Westfield World Trade Center,Perry Tote,Pink,Pebbled Leather,Mini,Ho Chi Minh City,37,17,54,Fall,154,169,137,-32
+Yorkdale Shopping Centre,Perry Tote,Beige,Pebbled Leather,Medium,Ho Chi Minh City,44,14,58,Fall,272,299,125,-174
+Bal Harbour Shops,Gemini Link Tote,White,Coated Canvas,Medium,Shenzhen,34,15,49,Summer,166,166,74,-92
+The Galleria,Gemini Link Tote,Red,Canvas,Small,Da Nang,37,14,51,Winter,285,228,1,-227
+Bal Harbour Shops,Gemini Link Tote,Pink,Pebbled Leather,Small,Hanoi,42,18,60,Spring,167,200,18,-182
+San Francisco Centre,Robinson Tote,Black,Leather,Mini,Ho Chi Minh City,42,16,58,Fall,183,201,156,-45
+Madison Avenue,T Monogram Tote,Gray,Canvas,Mini,Guangzhou,43,14,57,Fall,211,232,64,-168
+Pacific Centre,Ella Tote,Beige,Jacquard,Small,Da Nang,30,17,47,Summer,77,77,126,49
+Rodeo Drive,Robinson Tote,Blue,Coated Canvas,Small,Hanoi,34,16,50,Spring,142,170,182,12
+NorthPark Center,McGraw Tote,White,Canvas,Mini,Ho Chi Minh City,46,14,60,Spring,107,128,169,41
+Westfield World Trade Center,Britten Tote,Metallic,Leather,Small,Guangzhou,50,18,68,Fall,86,94,48,-46
+South Coast Plaza,Britten Tote,Pink,Pebbled Leather,Medium,Guangzhou,31,17,48,Summer,259,259,30,-229
+Soho,Britten Tote,Multi,Leather,Large,Ho Chi Minh City,46,15,61,Summer,50,50,94,44
+South Coast Plaza,T Monogram Tote,Metallic,Jacquard,Mini,Hanoi,42,16,58,Summer,292,292,224,-68
+Pacific Centre,Britten Tote,Green,Leather,Mini,Shenzhen,33,17,50,Summer,238,238,35,-203
+Bal Harbour Shops,Ella Tote,Red,Leather,Mini,Shenzhen,46,15,61,Summer,112,112,19,-93
+Madison Avenue,Perry Tote,Yellow,Pebbled Leather,Medium,Shenzhen,47,18,65,Fall,90,99,140,41
+The Galleria,Gemini Link Tote,Multi,Canvas,Large,Ho Chi Minh City,32,17,49,Summer,204,204,244,40
+Aventura Mall,Robinson Tote,White,Pebbled Leather,Mini,Shenzhen,40,14,54,Winter,238,190,142,-48
+Rodeo Drive,Britten Tote,Yellow,Canvas,Small,Da Nang,36,14,50,Winter,296,236,73,-163
+El Palacio de Hierro (Santa Fe),T Monogram Tote,Purple,Canvas,Medium,Hanoi,30,16,46,Fall,197,216,197,-19
+Rodeo Drive,Ella Tote,Pink,Jacquard,Mini,Guangzhou,30,15,45,Fall,136,149,148,-1
+Westfield World Trade Center,McGraw Tote,Metallic,Leather,Small,Da Nang,34,18,52,Spring,83,99,133,34
+Bal Harbour Shops,McGraw Tote,Black,Pebbled Leather,Medium,Hanoi,39,18,57,Spring,226,271,39,-232
+Oak Street,T Monogram Tote,Blue,Canvas,Small,Ho Chi Minh City,38,18,56,Summer,85,85,111,26
+Westfield World Trade Center,Kira Chevron Tote,Multi,Pebbled Leather,Small,Shenzhen,50,18,68,Summer,281,281,180,-101
+Madison Avenue,Robinson Tote,Beige,Pebbled Leather,Mini,Ho Chi Minh City,42,18,60,Fall,169,185,233,48
+Madison Avenue,McGraw Tote,White,Coated Canvas,Large,Da Nang,37,18,55,Summer,83,83,4,-79
+Oak Street,Gemini Link Tote,Brown,Leather,Small,Da Nang,44,14,58,Spring,122,146,97,-49
+El Palacio de Hierro (Polanco),Gemini Link Tote,Multi,Pebbled Leather,Mini,Ho Chi Minh City,38,14,52,Winter,234,187,170,-17
+Yorkdale Shopping Centre,Kira Chevron Tote,Yellow,Coated Canvas,Mini,Guangzhou,47,18,65,Spring,54,64,79,15
+El Palacio de Hierro (Santa Fe),McGraw Tote,Blue,Canvas,Small,Da Nang,34,17,51,Fall,81,89,29,-60
+El Palacio de Hierro (Polanco),Britten Tote,Brown,Jacquard,Small,Hanoi,47,17,64,Spring,129,154,192,38
+Pacific Centre,Britten Tote,Yellow,Pebbled Leather,Large,Da Nang,43,16,59,Spring,183,219,11,-208
+The Galleria,Britten Tote,Gray,Jacquard,Large,Shenzhen,46,14,60,Spring,107,128,112,-16
+Westfield World Trade Center,Kira Chevron Tote,Pink,Coated Canvas,Small,Ho Chi Minh City,39,15,54,Spring,227,272,157,-115
+The Galleria,Ella Tote,White,Jacquard,Small,Ho Chi Minh City,36,15,51,Summer,288,288,317,29
+Bal Harbour Shops,Perry Tote,Gray,Pebbled Leather,Mini,Da Nang,40,18,58,Spring,137,164,7,-157
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Gray,Leather,Mini,Ho Chi Minh City,34,17,51,Winter,122,97,1,-96
+Pacific Centre,Ella Tote,Green,Coated Canvas,Medium,Hanoi,49,15,64,Summer,74,74,34,-40
+Soho,Perry Tote,White,Jacquard,Small,Ho Chi Minh City,38,17,55,Summer,273,273,150,-123
+Aventura Mall,Robinson Tote,Blue,Canvas,Mini,Da Nang,45,18,63,Winter,153,122,124,2
+Yorkdale Shopping Centre,Gemini Link Tote,Purple,Leather,Large,Shenzhen,39,17,56,Winter,292,233,234,1
+The Galleria,Perry Tote,Red,Pebbled Leather,Large,Ho Chi Minh City,42,14,56,Spring,205,246,252,6
+Yorkdale Shopping Centre,T Monogram Tote,Pink,Jacquard,Mini,Ho Chi Minh City,43,16,59,Fall,107,117,89,-28
+Oak Street,T Monogram Tote,Red,Leather,Small,Ho Chi Minh City,47,15,62,Fall,141,155,68,-87
+Westfield World Trade Center,Kira Chevron Tote,Blue,Jacquard,Large,Da Nang,31,14,45,Winter,281,224,147,-77
+Oak Street,Gemini Link Tote,Gray,Canvas,Mini,Hanoi,37,15,52,Spring,247,296,238,-58
+Rodeo Drive,Ella Tote,Pink,Leather,Mini,Shenzhen,47,14,61,Spring,290,348,272,-76
+Pacific Centre,Kira Chevron Tote,Gray,Jacquard,Medium,Ho Chi Minh City,48,15,63,Summer,224,224,107,-117
+Pacific Centre,T Monogram Tote,Purple,Jacquard,Small,Da Nang,35,16,51,Spring,80,96,118,22
+Rodeo Drive,Ella Tote,Pink,Canvas,Medium,Guangzhou,33,14,47,Winter,106,84,112,28
+Rodeo Drive,Gemini Link Tote,Black,Canvas,Small,Guangzhou,43,17,60,Winter,62,49,82,33
+Yorkdale Shopping Centre,McGraw Tote,Metallic,Pebbled Leather,Small,Hanoi,39,16,55,Summer,239,239,241,2
+Soho,T Monogram Tote,Metallic,Pebbled Leather,Small,Ho Chi Minh City,32,16,48,Winter,98,78,102,24
+San Francisco Centre,Robinson Tote,Red,Coated Canvas,Large,Da Nang,44,14,58,Summer,90,90,58,-32
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Multi,Leather,Large,Da Nang,43,16,59,Summer,70,70,44,-26
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Green,Coated Canvas,Large,Shenzhen,35,15,50,Summer,188,188,150,-38
+Bal Harbour Shops,Perry Tote,Multi,Leather,Large,Da Nang,43,17,60,Spring,156,187,182,-5
+Soho,Ella Tote,Beige,Canvas,Mini,Hanoi,38,16,54,Spring,180,216,177,-39
+Pacific Centre,Perry Tote,Yellow,Coated Canvas,Mini,Guangzhou,35,15,50,Fall,59,64,101,37
+Rodeo Drive,Kira Chevron Tote,Black,Coated Canvas,Medium,Guangzhou,42,14,56,Spring,248,297,73,-224
+Yorkdale Shopping Centre,T Monogram Tote,Multi,Canvas,Large,Da Nang,34,16,50,Summer,106,106,137,31
+Pacific Centre,Gemini Link Tote,Green,Coated Canvas,Small,Ho Chi Minh City,39,16,55,Summer,133,133,9,-124
+San Francisco Centre,McGraw Tote,White,Leather,Small,Da Nang,37,18,55,Spring,242,290,133,-157
+Pacific Centre,Britten Tote,Multi,Leather,Large,Guangzhou,40,18,58,Fall,277,304,246,-58
+Yorkdale Shopping Centre,Kira Chevron Tote,Blue,Leather,Small,Guangzhou,34,16,50,Fall,142,156,1,-155
+Westfield World Trade Center,Robinson Tote,Multi,Coated Canvas,Mini,Da Nang,48,17,65,Fall,146,160,34,-126
+Soho,Ella Tote,Metallic,Pebbled Leather,Mini,Shenzhen,34,15,49,Fall,129,141,49,-92
+Madison Avenue,Britten Tote,Blue,Coated Canvas,Mini,Shenzhen,35,15,50,Summer,158,158,123,-35
+South Coast Plaza,Robinson Tote,Brown,Jacquard,Mini,Hanoi,49,17,66,Fall,87,95,48,-47
+Pacific Centre,Robinson Tote,Green,Canvas,Medium,Ho Chi Minh City,34,14,48,Spring,205,246,11,-235
+Aventura Mall,Robinson Tote,Brown,Pebbled Leather,Medium,Shenzhen,34,18,52,Winter,203,162,119,-43
+Rodeo Drive,Ella Tote,Pink,Pebbled Leather,Large,Shenzhen,33,17,50,Fall,85,93,98,5
+Pacific Centre,McGraw Tote,Green,Jacquard,Small,Hanoi,50,14,64,Winter,161,128,47,-81
+Bal Harbour Shops,Perry Tote,Metallic,Pebbled Leather,Large,Shenzhen,47,15,62,Summer,62,62,3,-59
+El Palacio de Hierro (Santa Fe),Gemini Link Tote,Pink,Canvas,Medium,Shenzhen,45,15,60,Summer,104,104,143,39
+Oak Street,Robinson Tote,Metallic,Canvas,Medium,Da Nang,43,18,61,Winter,194,155,147,-8
+Aventura Mall,Gemini Link Tote,Beige,Jacquard,Mini,Ho Chi Minh City,31,14,45,Spring,240,288,0,-288
+Westfield World Trade Center,Britten Tote,Blue,Pebbled Leather,Medium,Ho Chi Minh City,45,15,60,Winter,206,164,48,-116
+Oak Street,Robinson Tote,Red,Canvas,Large,Da Nang,30,18,48,Winter,243,194,4,-190
+Bal Harbour Shops,McGraw Tote,Yellow,Leather,Mini,Da Nang,31,18,49,Winter,92,73,105,32
+South Coast Plaza,Ella Tote,Pink,Coated Canvas,Small,Shenzhen,30,18,48,Winter,222,177,107,-70
+NorthPark Center,Robinson Tote,Pink,Coated Canvas,Small,Da Nang,33,15,48,Spring,125,150,71,-79
+Rodeo Drive,Robinson Tote,Purple,Coated Canvas,Large,Ho Chi Minh City,44,18,62,Winter,107,85,36,-49
+Oak Street,Ella Tote,Pink,Coated Canvas,Mini,Shenzhen,35,17,52,Fall,243,267,245,-22
+The Galleria,McGraw Tote,White,Pebbled Leather,Medium,Guangzhou,39,16,55,Fall,228,250,17,-233
+Aventura Mall,T Monogram Tote,White,Coated Canvas,Large,Hanoi,30,17,47,Spring,147,176,92,-84
+NorthPark Center,Britten Tote,Gray,Canvas,Mini,Ho Chi Minh City,30,14,44,Spring,264,316,82,-234
+Soho,Kira Chevron Tote,Brown,Leather,Mini,Da Nang,42,16,58,Fall,151,166,80,-86
+Westfield World Trade Center,Gemini Link Tote,Red,Pebbled Leather,Mini,Da Nang,30,16,46,Winter,57,45,8,-37
+South Coast Plaza,McGraw Tote,White,Pebbled Leather,Mini,Guangzhou,40,14,54,Winter,177,141,20,-121
+Aventura Mall,Britten Tote,Pink,Pebbled Leather,Large,Ho Chi Minh City,48,18,66,Winter,145,116,98,-18
+San Francisco Centre,T Monogram Tote,Black,Canvas,Mini,Shenzhen,34,17,51,Spring,116,139,152,13
+South Coast Plaza,Ella Tote,Yellow,Pebbled Leather,Small,Da Nang,41,17,58,Winter,207,165,100,-65
+El Palacio de Hierro (Polanco),Gemini Link Tote,White,Pebbled Leather,Small,Hanoi,32,16,48,Winter,253,202,221,19
+Westfield World Trade Center,Kira Chevron Tote,Yellow,Canvas,Medium,Hanoi,30,18,48,Winter,294,235,122,-113
+Bal Harbour Shops,Robinson Tote,Yellow,Leather,Small,Hanoi,42,17,59,Spring,124,148,192,44
+El Palacio de Hierro (Santa Fe),Ella Tote,Brown,Coated Canvas,Medium,Da Nang,33,16,49,Spring,103,123,43,-80
+Oak Street,McGraw Tote,Green,Leather,Medium,Guangzhou,31,14,45,Summer,183,183,45,-138
+San Francisco Centre,Ella Tote,Metallic,Canvas,Medium,Shenzhen,42,18,60,Summer,190,190,219,29
+El Palacio de Hierro (Polanco),Britten Tote,Pink,Jacquard,Mini,Guangzhou,45,15,60,Fall,77,84,11,-73
+South Coast Plaza,Ella Tote,Gray,Pebbled Leather,Mini,Da Nang,41,18,59,Fall,155,170,82,-88
+NorthPark Center,T Monogram Tote,Brown,Coated Canvas,Mini,Shenzhen,44,14,58,Summer,259,259,9,-250
+The Galleria,Britten Tote,Gray,Jacquard,Large,Da Nang,41,16,57,Fall,198,217,69,-148
+El Palacio de Hierro (Santa Fe),Britten Tote,Red,Pebbled Leather,Mini,Shenzhen,37,18,55,Spring,120,144,169,25
+San Francisco Centre,Ella Tote,Blue,Pebbled Leather,Mini,Guangzhou,31,14,45,Summer,58,58,62,4
+Yorkdale Shopping Centre,Ella Tote,Purple,Jacquard,Large,Hanoi,48,16,64,Winter,67,53,51,-2
+The Galleria,T Monogram Tote,Pink,Coated Canvas,Mini,Da Nang,41,15,56,Winter,118,94,37,-57
+Rodeo Drive,Kira Chevron Tote,Brown,Leather,Mini,Da Nang,32,16,48,Winter,107,85,17,-68
+San Francisco Centre,Britten Tote,Multi,Leather,Small,Shenzhen,47,15,62,Spring,67,80,62,-18
+San Francisco Centre,T Monogram Tote,Red,Pebbled Leather,Medium,Da Nang,46,16,62,Fall,89,97,106,9
+The Galleria,Perry Tote,Green,Pebbled Leather,Large,Ho Chi Minh City,31,16,47,Summer,58,58,8,-50
+Aventura Mall,Perry Tote,Pink,Pebbled Leather,Small,Da Nang,31,14,45,Winter,139,111,148,37
+Rodeo Drive,Britten Tote,Green,Coated Canvas,Small,Shenzhen,42,16,58,Winter,177,141,154,13
+Westfield World Trade Center,Ella Tote,Purple,Canvas,Medium,Ho Chi Minh City,42,18,60,Summer,186,186,226,40
+Rodeo Drive,Perry Tote,Purple,Pebbled Leather,Mini,Da Nang,32,17,49,Summer,256,256,39,-217
+San Francisco Centre,Robinson Tote,Purple,Leather,Medium,Shenzhen,37,14,51,Spring,259,310,141,-169
+Pacific Centre,Gemini Link Tote,Purple,Coated Canvas,Small,Shenzhen,38,16,54,Spring,172,206,126,-80
+South Coast Plaza,Ella Tote,Beige,Canvas,Medium,Hanoi,50,16,66,Fall,234,257,215,-42
+Rodeo Drive,T Monogram Tote,Beige,Pebbled Leather,Mini,Ho Chi Minh City,44,16,60,Fall,203,223,87,-136
+South Coast Plaza,Robinson Tote,Purple,Leather,Mini,Hanoi,38,16,54,Fall,97,106,77,-29
+Madison Avenue,Gemini Link Tote,Blue,Coated Canvas,Medium,Guangzhou,33,15,48,Spring,131,157,206,49
+Madison Avenue,T Monogram Tote,Gray,Canvas,Small,Ho Chi Minh City,36,18,54,Summer,53,53,24,-29
+Rodeo Drive,Ella Tote,Multi,Leather,Small,Da Nang,31,15,46,Winter,261,208,16,-192
+Rodeo Drive,T Monogram Tote,Blue,Pebbled Leather,Medium,Ho Chi Minh City,41,14,55,Summer,272,272,276,4
+South Coast Plaza,T Monogram Tote,Beige,Pebbled Leather,Large,Shenzhen,35,17,52,Spring,86,103,55,-48
+Pacific Centre,Robinson Tote,Black,Leather,Small,Shenzhen,43,18,61,Summer,149,149,72,-77
+El Palacio de Hierro (Santa Fe),Robinson Tote,Black,Coated Canvas,Small,Ho Chi Minh City,32,18,50,Spring,297,356,283,-73
+NorthPark Center,McGraw Tote,Yellow,Canvas,Mini,Guangzhou,36,14,50,Fall,131,144,194,50
+Aventura Mall,Kira Chevron Tote,Yellow,Canvas,Mini,Ho Chi Minh City,38,14,52,Fall,106,116,43,-73
+Aventura Mall,McGraw Tote,Green,Leather,Medium,Hanoi,41,16,57,Summer,282,282,332,50
+NorthPark Center,Robinson Tote,Multi,Leather,Mini,Shenzhen,50,14,64,Spring,277,332,55,-277
+Westfield World Trade Center,Perry Tote,Brown,Pebbled Leather,Small,Guangzhou,40,18,58,Winter,115,92,97,5
+Westfield World Trade Center,Ella Tote,Beige,Coated Canvas,Mini,Hanoi,42,17,59,Fall,172,189,137,-52
+South Coast Plaza,Ella Tote,Red,Canvas,Mini,Shenzhen,40,15,55,Fall,274,301,205,-96
+Rodeo Drive,T Monogram Tote,Yellow,Coated Canvas,Small,Ho Chi Minh City,47,15,62,Summer,106,106,87,-19
+El Palacio de Hierro (Polanco),Kira Chevron Tote,Yellow,Leather,Medium,Hanoi,38,15,53,Spring,191,229,151,-78
+Bal Harbour Shops,Perry Tote,Pink,Canvas,Mini,Hanoi,38,15,53,Fall,223,245,33,-212
+Madison Avenue,Ella Tote,Purple,Pebbled Leather,Mini,Ho Chi Minh City,39,17,56,Summer,214,214,97,-117
+El Palacio de Hierro (Polanco),Kira Chevron Tote,White,Canvas,Mini,Guangzhou,39,17,56,Summer,66,66,10,-56
+Aventura Mall,Kira Chevron Tote,Multi,Coated Canvas,Medium,Ho Chi Minh City,35,16,51,Winter,58,46,21,-25
+Aventura Mall,Kira Chevron Tote,Red,Jacquard,Medium,Shenzhen,44,15,59,Winter,124,99,136,37
+San Francisco Centre,Perry Tote,Purple,Canvas,Medium,Hanoi,37,15,52,Summer,298,298,143,-155
+Yorkdale Shopping Centre,Perry Tote,Red,Leather,Medium,Guangzhou,46,18,64,Summer,240,240,258,18
+Yorkdale Shopping Centre,Ella Tote,Multi,Pebbled Leather,Mini,Da Nang,34,15,49,Winter,128,102,75,-27
+Yorkdale Shopping Centre,Perry Tote,Yellow,Coated Canvas,Small,Guangzhou,49,16,65,Summer,267,267,132,-135
+Madison Avenue,Perry Tote,White,Jacquard,Mini,Shenzhen,50,16,66,Summer,242,242,48,-194
+Yorkdale Shopping Centre,McGraw Tote,Green,Leather,Medium,Da Nang,36,17,53,Summer,123,123,26,-97
+The Galleria,Ella Tote,Yellow,Canvas,Small,Ho Chi Minh City,44,17,61,Winter,138,110,117,7
+Yorkdale Shopping Centre,Robinson Tote,Pink,Jacquard,Mini,Shenzhen,44,17,61,Fall,77,84,30,-54
+Bal Harbour Shops,Gemini Link Tote,Green,Canvas,Large,Ho Chi Minh City,46,16,62,Summer,156,156,149,-7
+Oak Street,Robinson Tote,Gray,Pebbled Leather,Large,Shenzhen,36,18,54,Spring,219,262,284,22
+Pacific Centre,Ella Tote,Brown,Canvas,Mini,Hanoi,34,17,51,Summer,290,290,54,-236
+Aventura Mall,Perry Tote,Pink,Canvas,Medium,Guangzhou,46,15,61,Spring,259,310,71,-239
+South Coast Plaza,Britten Tote,Pink,Canvas,Mini,Guangzhou,41,16,57,Summer,201,201,41,-160
+South Coast Plaza,Gemini Link Tote,Beige,Pebbled Leather,Small,Shenzhen,46,14,60,Winter,285,228,8,-220
+San Francisco Centre,T Monogram Tote,Beige,Canvas,Mini,Shenzhen,49,18,67,Winter,141,112,87,-25
+NorthPark Center,T Monogram Tote,Yellow,Jacquard,Medium,Guangzhou,40,14,54,Summer,284,284,259,-25
+Yorkdale Shopping Centre,Robinson Tote,White,Canvas,Large,Da Nang,50,14,64,Fall,233,256,11,-245
+Rodeo Drive,Ella Tote,Brown,Canvas,Mini,Guangzhou,37,18,55,Winter,278,222,115,-107
+NorthPark Center,Ella Tote,Metallic,Coated Canvas,Mini,Da Nang,37,18,55,Spring,157,188,192,4
+Soho,McGraw Tote,Brown,Jacquard,Medium,Shenzhen,50,18,68,Spring,207,248,46,-202
+San Francisco Centre,Gemini Link Tote,Beige,Pebbled Leather,Medium,Ho Chi Minh City,41,15,56,Winter,159,127,91,-36
+San Francisco Centre,T Monogram Tote,Pink,Pebbled Leather,Medium,Shenzhen,31,17,48,Winter,182,145,131,-14
+Soho,Kira Chevron Tote,White,Leather,Small,Hanoi,47,16,63,Spring,221,265,79,-186
+Bal Harbour Shops,T Monogram Tote,Pink,Jacquard,Mini,Da Nang,42,14,56,Summer,267,267,276,9
+The Galleria,T Monogram Tote,Gray,Jacquard,Small,Hanoi,49,18,67,Spring,200,240,91,-149
+NorthPark Center,McGraw Tote,Purple,Pebbled Leather,Mini,Guangzhou,34,18,52,Fall,115,126,10,-116
+Madison Avenue,Kira Chevron Tote,Yellow,Leather,Mini,Guangzhou,50,18,68,Winter,247,197,53,-144
+El Palacio de Hierro (Polanco),Britten Tote,Pink,Leather,Mini,Guangzhou,35,18,53,Spring,62,74,80,6
+The Galleria,Ella Tote,Blue,Leather,Large,Guangzhou,48,14,62,Winter,126,100,21,-79
+Pacific Centre,Gemini Link Tote,Pink,Leather,Medium,Guangzhou,34,16,50,Winter,149,119,89,-30
+Pacific Centre,McGraw Tote,Pink,Jacquard,Large,Shenzhen,32,15,47,Spring,165,198,210,12
+Aventura Mall,T Monogram Tote,Green,Canvas,Large,Ho Chi Minh City,31,16,47,Fall,69,75,19,-56
+NorthPark Center,T Monogram Tote,Black,Canvas,Mini,Shenzhen,39,15,54,Fall,122,134,43,-91
+Westfield World Trade Center,Kira Chevron Tote,Red,Pebbled Leather,Mini,Da Nang,38,17,55,Fall,151,166,103,-63
+The Galleria,Robinson Tote,Gray,Canvas,Small,Hanoi,44,18,62,Winter,286,228,233,5
+Yorkdale Shopping Centre,Kira Chevron Tote,Beige,Pebbled Leather,Small,Hanoi,33,18,51,Summer,299,299,176,-123
+Bal Harbour Shops,Perry Tote,Pink,Pebbled Leather,Small,Ho Chi Minh City,47,18,65,Winter,289,231,262,31
+South Coast Plaza,Perry Tote,Gray,Pebbled Leather,Small,Shenzhen,49,16,65,Summer,244,244,79,-165
+El Palacio de Hierro (Santa Fe),Kira Chevron Tote,Pink,Canvas,Mini,Ho Chi Minh City,49,14,63,Summer,261,261,15,-246
+South Coast Plaza,Gemini Link Tote,Pink,Pebbled Leather,Mini,Hanoi,30,14,44,Summer,238,238,89,-149
+El Palacio de Hierro (Polanco),Britten Tote,Yellow,Canvas,Medium,Hanoi,43,16,59,Winter,147,117,10,-107
+El Palacio de Hierro (Polanco),Ella Tote,White,Leather,Medium,Hanoi,49,14,63,Spring,218,261,62,-199
+NorthPark Center,Robinson Tote,Red,Pebbled Leather,Small,Guangzhou,43,15,58,Winter,153,122,132,10
+Oak Street,Gemini Link Tote,Green,Jacquard,Small,Guangzhou,41,17,58,Fall,164,180,225,45
+Soho,McGraw Tote,Gray,Jacquard,Large,Guangzhou,49,16,65,Summer,119,119,113,-6
+Bal Harbour Shops,Gemini Link Tote,Multi,Coated Canvas,Mini,Guangzhou,40,14,54,Fall,134,147,60,-87
+NorthPark Center,Gemini Link Tote,Purple,Leather,Large,Guangzhou,30,16,46,Spring,288,345,360,15
+Soho,Britten Tote,White,Pebbled Leather,Medium,Ho Chi Minh City,37,18,55,Fall,197,216,215,-1
+Aventura Mall,Robinson Tote,Purple,Jacquard,Medium,Shenzhen,34,17,51,Summer,139,139,14,-125
+Madison Avenue,T Monogram Tote,Metallic,Canvas,Small,Hanoi,34,17,51,Spring,118,141,174,33
+Pacific Centre,McGraw Tote,White,Jacquard,Mini,Hanoi,30,18,48,Fall,186,204,223,19
+San Francisco Centre,Ella Tote,Beige,Leather,Medium,Hanoi,35,14,49,Summer,109,109,158,49
+El Palacio de Hierro (Santa Fe),Britten Tote,Beige,Pebbled Leather,Large,Hanoi,49,18,67,Summer,225,225,59,-166
+Oak Street,Perry Tote,Blue,Coated Canvas,Mini,Guangzhou,36,17,53,Winter,137,109,43,-66
+San Francisco Centre,Ella Tote,Green,Coated Canvas,Large,Guangzhou,38,15,53,Fall,54,59,13,-46
+Rodeo Drive,T Monogram Tote,Yellow,Jacquard,Mini,Hanoi,49,18,67,Summer,276,276,207,-69
+Westfield World Trade Center,Gemini Link Tote,Metallic,Jacquard,Small,Hanoi,46,18,64,Summer,289,289,266,-23
+Westfield World Trade Center,Kira Chevron Tote,White,Jacquard,Large,Guangzhou,36,17,53,Summer,296,296,53,-243
+Pacific Centre,Kira Chevron Tote,Black,Canvas,Mini,Da Nang,32,18,50,Spring,225,270,296,26
+Oak Street,Britten Tote,Pink,Leather,Mini,Ho Chi Minh City,38,16,54,Fall,236,259,159,-100
+Pacific Centre,T Monogram Tote,Green,Leather,Mini,Guangzhou,40,17,57,Fall,259,284,280,-4
+Rodeo Drive,Robinson Tote,Blue,Canvas,Large,Guangzhou,32,14,46,Winter,245,196,242,46
+Aventura Mall,Britten Tote,Pink,Jacquard,Small,Ho Chi Minh City,33,16,49,Spring,66,79,111,32
+Westfield World Trade Center,T Monogram Tote,Beige,Canvas,Small,Da Nang,36,15,51,Spring,279,334,201,-133
+Soho,Gemini Link Tote,Yellow,Leather,Medium,Ho Chi Minh City,42,16,58,Winter,128,102,146,44
+Oak Street,Kira Chevron Tote,Blue,Canvas,Medium,Shenzhen,31,15,46,Spring,230,276,326,50
+Soho,T Monogram Tote,Black,Jacquard,Large,Da Nang,34,17,51,Winter,242,193,136,-57
+NorthPark Center,Britten Tote,Beige,Jacquard,Small,Ho Chi Minh City,34,14,48,Summer,156,156,106,-50
+El Palacio de Hierro (Polanco),Gemini Link Tote,Metallic,Canvas,Small,Da Nang,36,14,50,Spring,192,230,68,-162
+El Palacio de Hierro (Polanco),Kira Chevron Tote,White,Jacquard,Medium,Da Nang,30,16,46,Spring,142,170,127,-43
+South Coast Plaza,T Monogram Tote,Blue,Canvas,Large,Ho Chi Minh City,46,15,61,Fall,126,138,51,-87
+Aventura Mall,Kira Chevron Tote,Brown,Canvas,Large,Shenzhen,39,18,57,Fall,203,223,72,-151
+Madison Avenue,Perry Tote,Blue,Jacquard,Large,Shenzhen,40,16,56,Spring,123,147,7,-140
+Madison Avenue,Ella Tote,Black,Pebbled Leather,Small,Shenzhen,31,16,47,Fall,109,119,161,42
+El Palacio de Hierro (Santa Fe),McGraw Tote,Red,Leather,Small,Shenzhen,46,16,62,Spring,143,171,219,48
+Pacific Centre,Gemini Link Tote,Beige,Jacquard,Large,Guangzhou,32,18,50,Spring,255,306,82,-224
+Oak Street,T Monogram Tote,Brown,Leather,Medium,Guangzhou,44,14,58,Spring,190,228,85,-143
+Yorkdale Shopping Centre,T Monogram Tote,Brown,Canvas,Medium,Hanoi,47,18,65,Summer,280,280,116,-164
+Pacific Centre,T Monogram Tote,Green,Jacquard,Small,Ho Chi Minh City,43,18,61,Summer,116,116,39,-77
+Pacific Centre,T Monogram Tote,Purple,Leather,Small,Da Nang,35,14,49,Summer,68,68,27,-41
+Westfield World Trade Center,Kira Chevron Tote,Red,Leather,Medium,Shenzhen,32,17,49,Spring,215,258,308,50
+Oak Street,Kira Chevron Tote,Gray,Pebbled Leather,Small,Shenzhen,44,15,59,Summer,58,58,49,-9
+South Coast Plaza,Kira Chevron Tote,Pink,Leather,Large,Hanoi,31,15,46,Winter,117,93,112,19
