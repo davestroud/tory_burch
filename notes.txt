@@ -2,13 +2,13 @@ Proof of Concept (POC)
 
 1. Demand Forecasting and Inventory Optimization
     * Predict which clothing items will be in high demand based on historical data, trends, and seasonality.
-    * Minimize overstock and understock issues
+    * Minimize overstock and understock issues ~ overfill is perfect example of this.
 
 2. Data 
     * Work with the Margo/fashion200k
-    * Look at Google Ads or FB Ads data ~ how does it
+    * Look at Google Ads or FB Ads data ~ how does it compare to the Margo/fashion200k?
 
-3. Database
+3. Database ~ Athena and Redshift
     * What is the best way to store the data?
     * What is the best way to query the data?
     * What is the best way to update the data?
@@ -17,7 +17,7 @@ Proof of Concept (POC)
     * What is the best way to aggregate the data?
     * What is the best way to visualize the data?
         * Pinecone will serve as the vector database
-        * SQL will serve as the relational database? By way of Athena?
+        
 
 4.   AWS Glue
     * What is the best way to use AWS Glue to load the data into the database?
@@ -28,7 +28,8 @@ Proof of Concept (POC)
     * What is the best way to use AWS Glue to aggregate the data?
     * What is the best way to use AWS Glue to visualize the data?
     * Look at the AWS Glue Studio
-    * Look at AWS Glue and Ray 
+    * Look at AWS Glue and Ray or Spark.
     * Look at AWS Glue and Langchain
     * Look at AWS Glue and AWS AppFlow
+
 
